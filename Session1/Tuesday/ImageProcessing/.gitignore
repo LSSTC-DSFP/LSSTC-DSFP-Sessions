@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+*.pyc
+ImageProcessing.tex
+ImageProcessing.pdf

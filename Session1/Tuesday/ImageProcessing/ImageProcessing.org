@@ -1,0 +1,541 @@
+#+TITLE: DSFP: Image Processing
+#+AUTHOR: Robert Lupton
+#+DATE: 2016-08-02
+#+LaTeX_HEADER: \institute{Princeton University}
+# #+LaTeX_HEADER: \institute{LSST Algorithms Scientist}
+#+OPTIONS:   H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:{} -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:(not LOGBOOK) todo:t pri:nil tags:t
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+#+LaTeX_CLASS_OPTIONS: [10pt, t, xetex, xcolor=dvipsnames]
+# #+EXPORT_EXCLUDE_TAGS: beamerOnly   # include this line in handout mode (i.e. add handout to previous line)
+# #+LATEX_HEADER: \usepackage[foreground={0.844,0.121,0.00}, colorlinks, lsstTheme]{Talks}
+#+LATEX_HEADER: \usepackage[colorlinks]{Talks}
+#+LATEX_HEADER: \usepackage{xspace}
+#+LATEX_HEADER: \usepackage{listings}
+#+COLUMNS: %45ITEM %10BEAMER_env(Env) %8BEAMER_envargs(Env Args) %4BEAMER_col(Col) %8BEAMER_extra(Extra)
+#+PROPERTY: BEAMER_col_ALL 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 :ETC
+#+OPTIONS: toc:nil
+
+#+latex: \renewcommand{\L}{{\cal L}}
+
+* Object Detection
+** Image Processing
+
+Astronomical image processing is an enormous topic, and one that we'll return to in future Schools.  For
+example, I worry about:\pause
+- Correcting for the effects of CCD electronics on the data
+  \pause
+- Estimating the contamination due to moonlight and optical ghosts
+  \pause
+- Finding the PSF given an image
+  \pause
+- Looking for what has changed between pairs of images
+  \pause
+- Measuring the fluxes and colours of faint galaxies
+  \pause
+- Disentangling sets of overlapping images
+  \pause
+- Subtracting the OH lines from faint spectra
+- ...
+
+\pause
+I'm only going to talk about an easier problem today.
+
+** How should I detect objects?
+\pause
+Let's restrict our attention to 
+#+latex: \only<3->{\textit{isolated}}
+stars.
+
+\pause\pause
+We'll first answer a simpler question:
+
+\pause
+- How should I measure a star's brightness?
+** Aperture fluxes
+One solution would be to add up all the intensity within some region centered on a star.
+
+** Image
+
+#+latex: \vskip-1cm\centerline{\includegraphics[height=10cm]{../../../../../Figures/PSF/detect_psf}}
+** Image with noise
+
+#+latex: \vskip-1cm\centerline{\includegraphics[height=10cm]{../../../../../Figures/PSF/detect_I}}
+
+** My Aperture
+
+#+latex: \vskip-1cm\centerline{\includegraphics[height=10cm]{../../../../../Figures/PSF/detect_aperture}}
+** Aperture Flux with noise
+
+#+latex: \vskip-1cm\centerline{\includegraphics[height=10cm]{../../../../../Figures/PSF/detect_Iaperture}}
+\pause
+\vskip-2cm
+This is obviously a noisy measurement
+
+** Isolated Stars
+We have a PSF $\phi$, so a part of the sky containing a single star with flux $F_0$ at $x_0$ may be 
+modelled as
+$$
+S + F_0\, \delta(x - x_0)
+$$
+where $S$ is the background, taken to be constant.
+\pause
+Including the PSF and noise, $n$, we have:
+$$
+I(x) = S + F_0\, \delta(x - x_0)\otimes \phi + n(x)
+$$
+\pause
+I.e.
+$$
+I(x) = S + F_0\,\phi(x - x_0) + n(x)
+$$
+
+** Noise
+In the optical, to a very good approximation, $n$ is almost entirely shot noise due to the finite number of 
+photons detected, /i.e./ it is a Poisson process.
+This may be approximated by a Gaussian with mean and variance equal to the signal, $I$.
+
+** Background Estimation
+I believe that background estimation is an unsolved problem.
+# One approach is to use the median of the image as an estimator.
+#
+# \pause
+# Question:  what is ${\rm median} - {\rm mean}$ for a Poisson distribution in the limit 
+# of large mean?
+# 
+# \pause
+# Answer: $\frac{1}{6}$.
+
+\pause
+For today let's assume that $S$ is known, and accordingly set it to 0.
+
+** Maximum Likelihood
+
+As Maria explained this morning, there is a general way of taking a model of our data $I$ and deriving
+asymptotically optimal estimates of the model parameters $\theta$ by the magic of Bayes' theorem.
+
+\pause
+$$
+P(\theta | I) = \frac{P(I | \theta) P(\theta)}{P(I)}
+$$
+\pause
+/i.e./ calculating the /Likelihood/ $P(I | \theta)$ (the probability of the data given the model) 
+I get a handle on $P(\theta | I)$ (the probability of the model given the data).
+
+
+Our model is that
+$$
+I(x) = F_0\,\phi(x - x_0) + n(x)
+$$
+where $n$ is Gaussian with standard deviation $\sigma$.  The only unknown parameter $\theta$ is $F_0$.
+
+\pause
+Rearranging, we find that
+$$
+n(x) = F_0\,\phi(x - x_0) - I(x)
+$$
+and this is a Gaussian, $N(0, \sigma(x)^2)$; /i.e./ 
+$$
+P(n(x)) = \frac{1}{\sqrt{2 \pi \sigma(x)^2}} e^{-n(x)^2/2\sigma(x)^2}
+$$
+
+** Likelihoods
+
+If we have pixellated data it's convenient to write $n_i \equiv n(x_i)$, 
+so we can write the total likelihood of our data as
+$$
+\L(I | F_0) = \prod_i \frac{1}{\sqrt{2 \pi \sigma_i^2}} e^{-n_i^2/2\sigma_i^2}
+$$
+but it's easier to work with the logarithm:
+$$
+\lnL(I | F_0) = -\frac{1}{2}\left(\sum_i \ln{2 \pi \sigma_i^2}  + \sum_i \frac{n_i^2}{\sigma_i^2}\right)
+$$
+\pause
+The values of $\sigma_i$ are known so the first term is irrelevant, and we can write
+$$
+\lnL(I | F_0) \sim -\sum_i \frac{n_i^2}{\sigma_i^2}
+$$
+
+\pause
+I'm going to ignore the priors for now.
+\pause
+Unfortunately this isn't always possible.
+
+** Likelihoods
+
+Substituting our formula for $n$ this becomes
+$$
+\lnL(I | F_0, x_0) \sim -\sum_i \frac{\left(I_i - F_0\, \phi_i\right)^2}{\sigma_i^2}
+$$
+where $\sigma^2 = S + I$.
+\pause
+The MLE results from minimising that sum of squares.
+We've recovered a simple $\chi^2$ estimator 
+\pause
+-- but now we know it's because we assumed that the
+noise was Gaussian and chose an asymptotically optimal approach.
+
+\pause
+Differentiation with respect to $F_0$ we find that this is maximised at
+$$
+\hat{F_0} = \frac{\sum_i I_i \phi_i/\sigma_i^2}{\sum_i \phi_i^2/\sigma_i^2}
+$$
+
+** Image with noise
+
+#+latex: \vskip-1cm\centerline{\includegraphics[height=10cm]{../../../../../Figures/PSF/detect_I}}
+
+** PSF
+
+#+latex: \vskip-1cm\centerline{\includegraphics[height=10cm]{../../../../../Figures/PSF/detect_psf}}
+
+** PSF flux
+
+#+latex: \vskip-1cm\centerline{\includegraphics[height=10cm]{../../../../../Figures/PSF/detect_Ipsf}}
+
+** Aperture flux
+
+#+latex: \vskip-1cm\centerline{\includegraphics[height=10cm]{../../../../../Figures/PSF/detect_Iaperture}}
+
+** Source Detection
+
+I'm primarily interested in faint sources, so the noise is dominated by $S$ which is the same in all pixels. 
+We then have
+$$
+\ln{\cal L}(I | F_0, x_0) \propto -\sum_i \left(I_i - F_0\, \phi_i(x_0)\right)^2
+$$
+\pause
+$$
+\ln{\cal L}(I | F_0, x_0) \propto -\sum_i I_i^2 + 2 F_0 \sum_i I_i \phi_i(x_0) - F_0^2 \sum_i \phi_i^2(x_0)
+$$
+
+The only term that depends on $x_0$ is $\sum_i I_i \phi_i(x_0)$, a convolution (actually correlation)
+with $\phi$.
+
+\pause
+
+The maximum likelihood estimate of the position of our object is thus given by the maximum of the initial data,
+convolved with the PSF.
+
+** COMMENT Do I get to use an FFT?
+
+FFTs cost $N/2 \log_2 N$ multiplies; for an $M\times M$ image that's
+$$
+M^2 \left(\frac{1}{2} + \log_2M\right)
+$$
+multiplies to convolve $I$ with $\phi$.
+
+\pause
+If $\phi$ is represented as an $n\times n$ image, the direct cost would only be $n^2 M^2$
+
+\pause
+Or $2 n M^2$ if the filter is separable.
+
+\pause
+And don't forget about cache efficiency...
+
+** Measuring fluxes using the Psf
+
+For faint sources (so all pixels have the same variance, $\sigma^2 \equiv S$), the flux is given by
+$$
+\hat{F_0} = \frac{\sum_i I_i \phi_i}{\sum_i \phi_i^2}
+$$
+So each photon is weighted by the PSF's profile, /i.e./ the probability that it belongs to the source.
+
+\pause
+In this limit, the noise in the measurement is
+$$
+\frac{\left(\sum_i \phi_i\right)^2}{\sum_i\phi_i^2}\, \sigma^2  \equiv n_{\hbox{\rm eff}}\, \sigma^2 
+$$
+If the PSF is Gaussian $N(0, \alpha^2)$, $n_{\hbox{\rm eff}} = 4\pi\alpha^2$ 
+
+** Aperture Fluxes 
+
+We can now see what went wrong with our aperture measurement;  we assumed that the object's 
+profile was a top-hat and paid the (noise) penalty.
+
+\pause
+You will sometimes meet astronomers who think that an aperture flux is somehow more "natural" than fitting 
+a model; you now know why they are wrong.
+
+\pause
+For bright objects things are different;  now the noise is dominated by photon noise in the source, and 
+a (large) aperture has higher signal to noise.  We can understand this probabilistically too;  as the 
+background is negligible, all photons should be assumed to come from the source and lovingly counted.
+
+\pause
+If you like algebra, you can take the expression
+$$
+\hat{F_0} = \frac{\sum_i I_i \phi_i/\sigma_i^2}{\sum_i \phi_i^2/\sigma_i^2}
+$$
+and substitute $\sigma_i^2 = F_0 \phi_i$ to find that
+$$
+\hat{F_0} = \sum_i I_i
+$$
+/i.e./ an aperture flux.
+
+* COMMENT Galaxies
+** What about Galaxies?
+Galaxies have many more degrees of freedom than stars.
+
+The simplest plausible galaxy model is probably a S\'ersic model:
+$$
+I(r) = I_0\exp(-(r/r_e)^{-1/n})
+$$
+where $r$ is the major axis of an elliptical isophote; 
+that's $7$ parameters: $x_0$, $y_0$, $I_0$, $r_e$, $n$, $a/b$, $\theta$
+
+** An SDSS field
+\centerline{\includegraphics[height=7cm]{../../../../../Figures/models/fpC}}
+** A reconstructed SDSS field
+\centerline{\includegraphics[height=7cm]{../../../../../Figures/models/reconFpC}}
+** An SDSS field
+\centerline{\includegraphics[height=21cm]{../../../../../Figures/models/fpC}}
+** A reconstructed SDSS field
+   \centerline{\includegraphics[height=21cm]{../../../../../Figures/models/reconFpC}}
+** Forward modelling
+At least to SDSS depths (22.5 $5\sigma$), even simple models appear to capture most of the 
+information present in high-Galactic latitude fields.
+* COMMENT How should I process a set of images?
+** How should I process a set of images?
+Given a set of images of the same part of the sky, how should I process them to obtain deeper data?
+
+\pause
+*** How far does $\sqrt{N}$ take you?
+\pause 
+*** Should I add the images together?
+\pause
+*** What's a good algorithm to add images?
+\pause
+*** Is there an optimal algorithm?
+\pause
+*** Do I need an optimal algorithm?
+
+** How should I coadd a set of images?
+
+There are (at least) three ways to think about processing repeated images:
+\pause
+*** Add the images together somehow
+\pause
+*** Process each image separately and add the results
+\pause
+*** Process all the images simultaneously
+
+** Adding images together
+
+Among the problems are:
+
+\pause
+*** Correlated noise
+  \pause
+*** Sampling
+  \pause
+*** Discontinuous PSFs
+  \pause
+*** No opportunity for non-linear analysis in the processing (e.g. $3\sigma$ clips).
+  \pause
+*** Average over moving/variable objects
+
+\pause
+On the other-hand, it has the great advantage of being computationally relatively simple and cheap.
+
+** Processing each image separately
+An easy alternative is to process each exposure separately, and add the resulting measurements.
+
+\pause
+*** Only objects detected in at least one frame are measured
+  \pause
+*** There is no guarantee that the same objects will be detected in each exposure
+  \pause
+*** It seems unlikely that the errors in all measurements (e.g. galaxy effective radii) will scale as $\sqrt{N}$.
+
+\pause
+There are ways around some of these problems;  for example, we could /detect/ on a coadded
+frame and then use this master catalogue to measure each of the input images.
+
+#-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+** Processing all the images simultaneously
+
+It seems clear that this is the right thing to do, but it is expensive:
+
+*** All data vectors are longer by the number of exposures
+\pause
+*** Reading all the data into memory may be difficult
+
+** Estimating a Picture of the Universe
+/N.b./ I stole some of these ideas from Nick Kaiser.
+
+\pause
+
+If we decide to create a coadd, we can write down the ML estimate of the Universe $U$
+given an image, $I$, and a (known) PSF, $\phi$:
+
+$$
+I(x) = U(x)\otimes\phi(x) + \epsilon(x)
+$$
+# \pause
+$$
+I(k) = U(k)\times\phi(k) + \epsilon(k)
+$$
+
+\pause
+Let us assume that all objects are fainter than the sky, so $\epsilon$ is an $N(0,\sigma^2)$ variate.
+
+\pause
+$$
+\ln{\cal L} \propto -\ln\sigma - \frac{1}{2}\frac{\left( U\phi - I\right)^2}{\sigma^2}
+$$
+
+** Estimating a Picture of the Universe
+
+If we have multiple images, $I_i$, this becomes:
+$$
+\ln{\cal L} \propto -\sum_i \ln\sigma_i - \frac{1}{2}\sum_i \frac{\left( U\phi_i - I_i\right)^2}{\sigma_i^2}
+$$
+
+\pause
+so, differentiating with respect to the Universe,
+$$
+U(k) = \frac{\sum_i I_i\phi_i/\sigma_i^2}{\sum_i\phi_i^2/\sigma_i^2} \equiv \frac{D(k)}{P(k)}
+$$
+
+** An Optimal Algorithm
+
+$$
+U(k) = \frac{D(k)}{P(k)}
+$$
+$$
+D(k) \equiv \sum_i I_i\phi_i/\sigma_i^2;\qquad P(k) \equiv \sum_i\phi_i^2/\sigma_i^2
+$$
+
+\pause
+I.e.
+$$
+U(x) = D(x) \otimes^{-1} P(x)
+$$
+where
+$$
+D(x) = \sum_i I_i\otimes\phi_i/\sigma_i^2;\qquad P(x) = \sum_i\phi_i\otimes\phi_i/\sigma_i^2
+$$
+
+\pause
+Note that the function $P(x)$ is discontinuous wherever the exact set of input exposures changes; in general
+this will lead to a very large number of very small chunks.
+\pause One suggestion is to generate a separate coadd for each object.
+
+** Estimate the properties of the Universe
+
+Another alternative is to fit directly to the input data.
+
+This is straightforward for e.g. PSF magnitudes.
+
+\pause
+Harder problems include:
+
+\begin{itemize}
+  \item Sky estimation
+  \item Object detection
+  \item Deblending
+  \item Shape measurements
+\end{itemize}
+
+\pause
+Some of these are hard (e.g. deblending);  some are just expensive.
+
+* COMMENT Image Subtraction
+** Image Subtraction
+
+In many situations, only the time variable part of an image is of
+interest; the classic case is searching for gravitational
+micro-lensing in the direction of the Galactic bulge. In this case, we
+have two or more images of the same part of the sky, taken under
+different conditions; in particular the PSF will be different
+in the two exposures.
+
+** Exposure 1a
+\centerline{\includegraphics[height=7.5cm]{../../../../SCMA_IV/sm35_041219_0718_110_2_sw}}
+
+** Exposure 1b
+\centerline{\includegraphics[height=7.5cm]{../../../../SCMA_IV/sm35_050119_0408_101_2_diff_im}}
+
+# ** Exposure 2a
+# \centerline{\includegraphics[height=7.5cm]{../../../../SCMA_IV/sm35_041219_0718_110_2_sw_small}}
+# ** Exposure 2b
+# \centerline{\includegraphics[height=7.5cm]{../../../../SCMA_IV/sm35_050119_0408_101_2_diff_im_small}}
+
+** Catalogues
+The classic solution to problem of searching for variability
+is to measure the brightness of each source in both images
+and compare the resulting catalogues.
+
+** Exposure 2a
+\centerline{\includegraphics[height=7.5cm]{../../../../SCMA_IV/sm65_051004_0926_079_5_diff_im}}
+
+** Exposure 3b
+\centerline{\includegraphics[height=7.5cm]{../../../../SCMA_IV/sm65_011221_0423_087_5_sw}}
+
+** Image Subtraction
+An obvious alternative is to subtract the two images directly, allowing
+for the difference between the seeing in the two images.
+
+\pause
+Given two images $I_a \equiv S\otimes \phi_a$ and  $I_b \equiv S\otimes \phi_b$,
+we can write the Fourier-transform of the (seeing-matched) difference as
+$I_a(k) - I_b(k)\times(\phi_a(k)/\phi_b(k))$.
+
+\pause
+Unfortunately, it's difficult to measure the outer parts of the PSFs
+well enough to carry out this Fourier division.
+
+\newpage
+What really matters is how well the subtraction worked, and that the the
+residuals left by subtracting objects that \emph{hadn't} varied should be
+as small as possible; that is, we should find the kernel $K$ such that
+$$
+R \equiv ||I_i - K\otimes I_b||
+$$
+be minimised.
+
+** Constructing a linear system
+
+Let us write $K$ as a sum of a set of basis functions:
+$$
+K(u,v) \equiv \sum_r a_r B_r(u,v).
+$$
+
+The task of subtracting two images is thus released to the problem of finding
+a set of $a_r$ that minimise $R$; if we use an $L_2$ norm, this is a simple
+least-squares problem.
+
+\pause
+The most widely-used form for $B_r$ is probably that originally proposed, Gaussians multiplied
+by polynomials.  \pause Various authors have considered using $\delta$-function bases, but without
+conspicuous success.
+
+** Exposure1a
+\centerline{\includegraphics[height=7.5cm]{../../../../SCMA_IV/sm35_041219_0718_110_2_sw}}
+
+** Exposure1b
+\centerline{\includegraphics[height=7.5cm]{../../../../SCMA_IV/sm35_050119_0408_101_2_diff_im}}
+
+** Difference Imaging 1
+\centerline{\includegraphics[height=7.5cm]{../../../../SCMA_IV/sm35_050119_0408_101_2_diff}}
+
+** Exposure 2a
+\centerline{\includegraphics[height=7.5cm]{../../../../SCMA_IV/sm65_051004_0926_079_5_diff_im}}
+** Exposure 2b
+\centerline{\includegraphics[height=7.5cm]{../../../../SCMA_IV/sm65_011221_0423_087_5_sw}}
+** Difference Imaging 2
+
+\centerline{\includegraphics[height=7.5cm]{../../../../SCMA_IV/sm65_051004_0926_079_5_diff}}
+
+** Spatially varying kernels
+
+Spatially varying kernels can be handled by writing
+$$
+\label{EqAL}
+K(u, v; x, y) = \sum_{r=1}^{r=n} \sum_{l = m = 0}^{l + m \le N} b^r_{lm} x_{(i)}^l y_{(i)}^m B_r(u,v)
+$$
+
