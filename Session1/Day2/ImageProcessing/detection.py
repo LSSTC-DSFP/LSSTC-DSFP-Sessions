@@ -61,7 +61,7 @@ def findObjects(data, threshold, grow=0):
         drow = data[y]    
         for x in range(w):
             if drow[x] > threshold:
-                if x > 0 and drow[x - 1] < threshold:
+                if x == 0 or x > 0 and drow[x - 1] < threshold:
                     span = Span(y, x, w)
 
                 if idc[x - 1] > 0:
