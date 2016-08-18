@@ -9,8 +9,8 @@
  *  1:00 PM - 2:00 PM — Introduction to advanced inference; [J. VanderPlas](https://github.com/jakevdp)
  *  2:00 PM - 3:30 PM — Bayesian models break-out; [J. VanderPlas](https://github.com/jakevdp)
  *  3:30 PM - 4:00 PM — BREAK
- *  4:00 PM - 5:00 PM — [Introduction to image processing](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Tuesday/ImageProcessing/ImageProcessing.pdf) ; [R. Lupton](https://github.com/RobertLuptonTheGood)
- *  5:00 PM - 6:00 PM - Intro to image processing hands-on: [part 1](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Tuesday/ImageProcessing/Image%20Processing%20Workbook%20I.ipynb) & [part 2](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Tuesday/ImageProcessing/Image%20Processing%20Workbook%20II.ipynb)
+ *  4:00 PM - 5:00 PM — [Introduction to image processing](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Tuesday/ImageProcessing/ImageProcessing.pdf); [R. Lupton](https://github.com/RobertLuptonTheGood)
+ *  5:00 PM - 6:00 PM - Intro to image processing hands-on: [part 1](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Tuesday/ImageProcessing/Image%20Processing%20Workbook%20I.ipynb) & [part 2](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Tuesday/ImageProcessing/Image%20Processing%20Workbook%20II.ipynb); [R. Lupton](https://github.com/RobertLuptonTheGood)
 
 ### Notes
 
