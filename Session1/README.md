@@ -15,7 +15,7 @@ The [first session](http://ciera.northwestern.edu/Education/LSSTC_DSFP/LSSTCNort
 ## Day 1 — Introduction to LSST/Fundamental Basics for Data Science
 
 Monday, Aug 1, 2016
- * 09:00 AM - 09:15 AM — Welcome and (brief) introduction to DSFP; L. Walkowicz
+ * 09:00 AM - 09:15 AM — Welcome and (brief) introduction to DSFP; L. Walkowicz [:octocat:](https://github.com/lmwalkowicz)
  * 09:15 AM - 10:00 AM — Speed meetup - everyone meets everyone, gets 1 min to describe research one on one
  * 10:00 AM - 10:30 AM — BREAK
  * 10:30 AM - 11:45 AM — [Introduction to LSST](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Monday/LSST_Overview.pdf); [L. Walkowicz](https://github.com/lmwalkowicz)
