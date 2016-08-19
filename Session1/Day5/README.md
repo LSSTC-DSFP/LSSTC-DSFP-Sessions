@@ -6,10 +6,10 @@
  *  10:00 AM - 10:30 AM — BREAK
  *  10:30 AM - 12:00 PM — [Time-series hands-on](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Friday/TimeSeries.ipynb); M. Suveges
  *  12:00 PM - 02:30 PM — LUNCH + train to Adler Planetarium
- *  02:30 PM - 03:30 PM — Introduction to communicating science; [C. Lintott](https://github.com/chrislintott) and [L. Walkowicz](https://github.com/lmwalkowicz)
+ *  02:30 PM - 03:30 PM — Introduction to communicating science; C. Lintott [:octocat:](https://github.com/chrislintott) and L. Walkowicz [:octocat:](https://github.com/lmwalkowicz)
  *  03:30 PM - 04:00 PM — BREAK
  *  04:00 PM - 05:30 PM — Science communication break out
- *  05:30 PM - 06:00 PM — [Session 1 wrap up](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Friday/DSFP_Session1Recap.pdf); [A. Miller](https://github.com/adamamiller)
+ *  05:30 PM - 06:00 PM — [Session 1 wrap up](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Friday/DSFP_Session1Recap.pdf); A. Miller [:octocat:](https://github.com/adamamiller)
 
 ### Notes
 
