@@ -2,7 +2,7 @@
 
 ## Schedule
 
- *  09:00 AM - 10:00 AM — Introduction to statistics; M. Suveges
+ *  09:00 AM - 10:00 AM — [Introduction to statistics](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Day2/IntroStat.pdf); M. Suveges
  *  10:00 AM - 10:30 AM — BREAK
  *  10:30 AM - 12:00 PM — [Intro to Stats hands-on](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Tuesday/IntroStat.ipynb); M. Suveges
  *  12:00 PM - 01:00 PM — LUNCH
