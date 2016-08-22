@@ -28,7 +28,7 @@ Monday, Aug 1, 2016
 ## Day 2 — Introduction to Statistics/Intro to Image Processing
 
 Tuesday, Aug 2, 2016
- *  09:00 AM - 10:00 AM — Introduction to statistics; M. Suveges
+ *  09:00 AM - 10:00 AM — [Introduction to statistics](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Day2/IntroStat.pdf); M. Suveges
  *  10:00 AM - 10:30 AM — BREAK
  *  10:30 AM - 12:00 PM — [Intro to Stats hands-on](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Tuesday/IntroStat.ipynb); M. Suveges
  *  12:00 PM - 01:00 PM — LUNCH
@@ -65,7 +65,7 @@ Thursday, Aug 4, 2016
 ## Day 5 — Introduction to Time-Series/Science Communication
 
 Friday, Aug 5, 2016
- *  09:00 AM - 10:00 AM — Introduction to time-series analysis; M. Suveges
+ *  09:00 AM - 10:00 AM — [Introduction to time-series analysis](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Day5/TimeSeries.pdf); M. Suveges
  *  10:00 AM - 10:30 AM — BREAK
  *  10:30 AM - 12:00 PM — [Time-series hands-on](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Friday/TimeSeries.ipynb); M. Suveges
  *  12:00 PM - 02:30 PM — LUNCH + train to Adler Planetarium
