@@ -16,4 +16,4 @@
 
 The hands-on introduction to git followed a [previously created Jupyter Notebook](https://github.com/jakevdp/git-intro/blob/master/git-intro.ipynb) from Jake VanderPlas.
 
-Everything an Astronomer Needs to Know About Software Engineering included a live-coding demonstration of software development starting with code development in a Jupyter Notebook, creation of a python `__init__.py` file, construction of unit tests, version control with git, and finally complete testing of the software stack across multiple platforms using [Travis CI](https://travis-ci.org/).
+Everything an Astronomer Needs to Know About Software Engineering included a live-coding demonstration of software development starting with code development in a Jupyter Notebook, creation of a python `__init__.py` file, construction of unit tests, version control with git, and finally complete testing of the software stack across multiple platforms using [Travis CI](https://travis-ci.org/). The results of this exercise are available in [Jake's github account](https://github.com/jakevdp/DSFP-demo) (though note - detailed step-by-step instructions are not available in this repo).
