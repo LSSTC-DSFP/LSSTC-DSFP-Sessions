@@ -4,13 +4,13 @@
 
  *  09:00 AM - 10:00 AM — [Introduction to statistics](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Day2/IntroStat.pdf); M. Suveges
  *  10:00 AM - 10:30 AM — BREAK
- *  10:30 AM - 12:00 PM — [Intro to Stats hands-on](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Tuesday/IntroStat.ipynb); M. Suveges
+ *  10:30 AM - 12:00 PM — [Intro to Stats hands-on](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session1/Day2/IntroStat.ipynb); M. Suveges
  *  12:00 PM - 01:00 PM — LUNCH
  *  01:00 PM - 02:00 PM — Introduction to advanced inference; J. VanderPlas [:octocat:](https://github.com/jakevdp)
  *  02:00 PM - 03:30 PM — Bayesian models break-out; J. VanderPlas [:octocat:](https://github.com/jakevdp)
  *  03:30 PM - 04:00 PM — BREAK
- *  04:00 PM - 05:00 PM — [Introduction to image processing](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Tuesday/ImageProcessing/ImageProcessing.pdf); R. Lupton [:octocat:](https://github.com/RobertLuptonTheGood)
- *  05:00 PM - 06:00 PM — Intro to image processing hands-on: [part 1](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Tuesday/ImageProcessing/Image%20Processing%20Workbook%20I.ipynb) & [part 2](https://github.com/LSSTC-DSFP/LSST-DSFP-Resources/blob/master/Session1/Tuesday/ImageProcessing/Image%20Processing%20Workbook%20II.ipynb); R. Lupton [:octocat:](https://github.com/RobertLuptonTheGood)
+ *  04:00 PM - 05:00 PM — [Introduction to image processing](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session1/Day2/ImageProcessing/ImageProcessing.pdf); R. Lupton [:octocat:](https://github.com/RobertLuptonTheGood)
+ *  05:00 PM - 06:00 PM — Intro to image processing hands-on: [part 1](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session1/Day2/ImageProcessing/Image%20Processing%20Workbook%20I.ipynb) & [part 2](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session1/Day2/ImageProcessing/Image%20Processing%20Workbook%20II.ipynb); R. Lupton [:octocat:](https://github.com/RobertLuptonTheGood)
 
 ### Notes
 
