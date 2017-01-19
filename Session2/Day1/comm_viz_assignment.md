@@ -1,9 +1,9 @@
 # Science Communication Project
 
-For DSFP Session 2, you and your partner will develop a short presenation (6 min + 4 min for questions) to be delivered on Friday afternoon. Both students must talk during the presentation. The presentation should accomplish the following:
+For DSFP Session 2, you and your partner will develop a short presentation (6 min + 4 min for questions) to be delivered on Friday afternoon. Both students must talk during the presentation. The presentation should accomplish the following:
     
 1. You must summarize and teach something you learned this week. 
-    The intended level is graduate students that are not experts in 
+    The intended audience is graduate students that are not experts in 
     machine learning.
 2. Throughout the week we will encounter the 
     [`scikit-learn`](http://scikit-learn.org/stable/) package 
