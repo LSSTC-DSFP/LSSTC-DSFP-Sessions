@@ -30,7 +30,6 @@ Tuesday, Jan 24, 2017
  * 01:30 PM - 04:00 PM  o  How to interpret (or not) machine-learning models; D. Huppenkothen [:octocat:](https://github.com/dhuppenkothen)
  * 04:00 PM - 04:30 PM  o  Break
  * 04:30 PM - 06:00 PM  o  The Expectation-Maximization Method; D. Kirkby [:octocat:](https://github.com/dkirkby)
- * 06:00 PM - 09:00 PM  o  [OPTIONAL] Hack social
 
 ## Day 3 — Deep Dive on MCMC
 
@@ -54,6 +53,7 @@ Thursday, Jan 26, 2017
  * 02:30 PM - 04:00 PM  o  Problem -- coding a neural net; B. Naul [:octocat:](https://github.com/bnaul)
  * 04:00 PM - 04:30 PM  o  Break
  * 04:30 PM - 06:00 PM  o  Introduction to Deep Learning; A. Mahabal [:octocat:](https://github.com/AshishMahabal)
+ * 06:00 PM - 09:00 PM  o  [OPTIONAL] Hack social
 
 ## Day 5 — The Full ML Workflow; Final Visualization Presentations
 
