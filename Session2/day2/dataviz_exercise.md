@@ -3,6 +3,7 @@
 In this exercise, you will take an existing data visualization and improve it. All visualizations come from professional organizations, newspapers and other media outlets. All of them have serious flaws. 
 
 Your task for this session is to pick a figure and make a new version of it. The data required for each is included in each figure. You can use the same kind of plot, or pick a different one. You can change axes, fonts, colours, markers, or whatever else you think may make a better figure.
+You will have 45 minutes to create the figure. In the last fifteen minutes, you will get to briefly present your new version.
 
 Some guiding questions and suggestions:
 * What is the key message of the figure? What information needs to be easy to take away without spending much time on it?
