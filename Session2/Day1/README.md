@@ -15,4 +15,4 @@
 
 ### Notes
 
-For Day 5 of Session 2, students were assigned a project to summarize and present on a topic they learned about during the week. 
+For Day 5 of Session 2, students were [assigned a project](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session2/Day1/comm_viz_assignment.md) to summarize and present on a topic they learned about during the week. 
