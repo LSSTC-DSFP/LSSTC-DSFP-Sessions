@@ -2,7 +2,7 @@
 
 In this exercise, you will take an existing data visualization and improve it. All visualizations come from professional organizations, newspapers and other media outlets. All of them have serious flaws. 
 
-Your task for this session is to pick a figure and make a new version of it. The data required for each is included in each figure. You can use the same kind of plot, or pick a different one. You can change axes, fonts, colours, markers, or whatever else you think may make a better figure.
+Your task for this session is to pick a figure and make a new version of it (the link for the folder with the figures will be shared in class). The data required for each is included in each figure. You can use the same kind of plot, or pick a different one. You can change axes, fonts, colours, markers, or whatever else you think may make a better figure.
 You will have the opportunity to share your new figure with the group on Wednesday.
 
 Some guiding questions and suggestions:
