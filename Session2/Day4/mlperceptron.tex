@@ -1,0 +1,17 @@
+\documentclass[convert]{standalone}
+
+\usepackage{neuralnetwork}
+
+\begin{document}
+\begin{neuralnetwork}[height=4.5]
+    \newcommand{\nodetextclear}[2]{}
+    \newcommand{\nodetextx}[2]{$x_#2$}
+    \newcommand{\nodetextp}[2]{$p_#2$}
+    \newcommand{\nodetexth}[2]{$h_#2$}
+    \inputlayer[count=2, bias=false, title=Input, text=\nodetextx]
+    \hiddenlayer[count=5, bias=false, title=Hidden, text=\nodetexth] \linklayers
+    \hiddenlayer[count=5, bias=false, title=Hidden, text=\nodetexth] \linklayers
+    \hiddenlayer[count=5, bias=false, title=Hidden, text=\nodetexth] \linklayers
+    \outputlayer[count=3, title=Output, text=\nodetextp] \linklayers
+\end{neuralnetwork}
+\end{document}
