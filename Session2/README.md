@@ -18,26 +18,26 @@ Monday, Jan 23, 2017
  * 02:30 PM - 03:00 PM  o  Break
  * 03:00 PM - 04:30 PM  o  [Problem -- Clustering](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session2/Day1/Unsupervised%20machine%20learning.ipynb); M. Graham [:octocat:](https://github.com/doccosmos)
  * 04:30 PM - 06:00 PM  o  [Visualization for Communication](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session2/Day1/WhyAndHowOfDataVisualization.pdf) #1; D. Huppenkothen [:octocat:](https://github.com/dhuppenkothen)
- 
+
 ## Day 2 — Connecting Machine Learning and Alternative Model-Fitting Methods
 
 Tuesday, Jan 24, 2017
 
- * 09:00 AM - 10:30 AM  o  Introduction to machine learning in astronomy; D. Kirkby [:octocat:](https://github.com/dkirkby)
+ * 09:00 AM - 10:30 AM  o  [Introduction to machine learning in astronomy](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session2/Day2/DSFP2017-Intro2ML4Astro.pdf); D. Kirkby [:octocat:](https://github.com/dkirkby)
  * 10:30 AM - 11:00 AM  o  Break
  * 11:00 AM - 12:00 PM  o  Visualization for Communication #2; D. Huppenkothen [:octocat:](https://github.com/dhuppenkothen) & L. Walkowicz [:octocat:](https://github.com/lmwalkowicz)
  * 12:00 PM - 01:30 PM  o  LUNCH
- * 01:30 PM - 04:00 PM  o  How to interpret (or not) machine-learning models; D. Huppenkothen [:octocat:](https://github.com/dhuppenkothen)
+ * 01:30 PM - 04:00 PM  o  [How to interpret (or not) machine-learning models](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session2/Day2/InterpretationOfMachineLearningModels.pdf); D. Huppenkothen [:octocat:](https://github.com/dhuppenkothen)
  * 04:00 PM - 04:30 PM  o  Break
- * 04:30 PM - 06:00 PM  o  The Expectation-Maximization Method; D. Kirkby [:octocat:](https://github.com/dkirkby)
+ * 04:30 PM - 06:00 PM  o  [The Expectation-Maximization Method](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session2/Day2/DSFP2017-EM.pdf); D. Kirkby [:octocat:](https://github.com/dkirkby)
 
 ## Day 3 — Deep Dive on MCMC
 
 Wednesday, Jan 25, 2017
 
- * 09:00 AM - 10:00 AM  o  The Markov Chain Monte Carlo Method; D. Kirkby [:octocat:](https://github.com/dkirkby)
+ * 09:00 AM - 10:00 AM  o  [The Markov Chain Monte Carlo Method](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session2/Day3/DSFP2017-MCMC.pdf); D. Kirkby [:octocat:](https://github.com/dkirkby)
  * 10:00 AM - 10:30 AM  o  Break
- * 10:30 AM - 12:00 PM  o  Problem -- MCMC; D. Kirkby [:octocat:](https://github.com/dkirkby)
+ * 10:30 AM - 12:00 PM  o  [Problem -- MCMC](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session2/Day3/MCMC-Exercises.ipynb); D. Kirkby [:octocat:](https://github.com/dkirkby)
  * 12:00 PM - 12:30 PM  o  Visualization for Communication #3; D. Huppenkothen [:octocat:](https://github.com/dhuppenkothen) & L. Walkowicz [:octocat:](https://github.com/lmwalkowicz)
  * 12:30 PM - ??:?? PM  o  Break
 
@@ -67,5 +67,3 @@ Friday, Jan 27, 2017
  * 03:30 PM - 04:00 PM  o  Break
  * 04:00 PM - 05:30 PM  o  Final visualization presentations
  * 05:30 PM - 06:00 PM  o  Meeting wrap up; evaluation of what was learned
-
-
