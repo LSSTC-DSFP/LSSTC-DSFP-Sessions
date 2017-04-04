@@ -61,7 +61,7 @@ Thursday, Apr 27, 2017
 
 ## Day 5 — Managing and Analyzing Large Data Sets
 
-Friday, Apr 28
+Friday, Apr 28, 2017
 
  * 09:00 AM - 10:00 AM  o  Data Management at Scale -- trends from industry; Y. AlSayyad [:octocat:](https://github.com/yalsayyad)
  * 10:00 AM - 10:30 AM  o  Break
