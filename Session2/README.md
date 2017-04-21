@@ -45,25 +45,25 @@ Wednesday, Jan 25, 2017
 
 Thursday, Jan 26, 2017
 
- * 09:00 AM - 10:00 AM  o  Introduction to Neural Networks; B. Naul [:octocat:](https://github.com/bnaul)
+ * 09:00 AM - 10:00 AM  o  [Introduction to Neural Networks](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session2/Day4/IntroToNeuralNetworks.ipynb); B. Naul [:octocat:](https://github.com/bnaul)
  * 10:00 AM - 10:30 AM  o  Break
- * 10:30 AM - 12:00 PM  o  Problem -- basic neural nets; B. Naul [:octocat:](https://github.com/bnaul)
+ * 10:30 AM - 12:00 PM  o  [Problem -- basic neural nets](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session2/Day4/BasicNeuralNetworkExercise.ipynb); B. Naul [:octocat:](https://github.com/bnaul)
  * 12:00 PM - 01:30 PM  o  LUNCH
- * 01:30 PM - 02:30 PM  o  Advanced Neural Networks; B. Naul [:octocat:](https://github.com/bnaul)
- * 02:30 PM - 04:00 PM  o  Problem -- coding a neural net; B. Naul [:octocat:](https://github.com/bnaul)
+ * 01:30 PM - 02:30 PM  o  [Advanced Neural Networks](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session2/Day4/IntroToNeuralNetworks.ipynb); B. Naul [:octocat:](https://github.com/bnaul)
+ * 02:30 PM - 04:00 PM  o  [Problem -- coding a neural net](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session2/Day4/AdvancedNeuralNetworkExercise.ipynb); B. Naul [:octocat:](https://github.com/bnaul)
  * 04:00 PM - 04:30 PM  o  Break
- * 04:30 PM - 06:00 PM  o  Introduction to Deep Learning; A. Mahabal [:octocat:](https://github.com/AshishMahabal)
+ * 04:30 PM - 06:00 PM  o  [Introduction to Deep Learning](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session2/Day4/Mahabal_LSSTDSFP_20170126.pdf); A. Mahabal [:octocat:](https://github.com/AshishMahabal)
  * 06:00 PM - 09:00 PM  o  [OPTIONAL] Hack social
 
 ## Day 5 — The Full ML Workflow; Final Visualization Presentations
 
 Friday, Jan 27, 2017
 
- * 09:00 AM - 10:00 AM  o  Developing the machine-learning workflow; A. Miller [:octocat:](https://github.com/adamamiller)
+ * 09:00 AM - 10:00 AM  o  [Developing the machine-learning workflow](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session2/Day5/DSFP_PractialMachLearn.pdf); A. Miller [:octocat:](https://github.com/adamamiller)
  * 10:00 AM - 10:30 AM  o  Break
- * 10:30 AM - 12:00 PM  o  Problem -- an end-to-end ML model
+ * 10:30 AM - 12:00 PM  o  [Problem -- an end-to-end ML model](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session2/Day5/PracticalMachLearnWorkflow.ipynb)
  * 12:00 PM - 01:30 PM  o  LUNCH
- * 01:30 PM - 03:30 PM  o  Visualizing astronomical images; D. Shupe [:octocat:](https://github.com/stargaser)
+ * 01:30 PM - 03:30 PM  o  [Visualizing astronomical images](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session2/Day5/ImageVizSlides.ipynb); D. Shupe [:octocat:](https://github.com/stargaser)
  * 03:30 PM - 04:00 PM  o  Break
  * 04:00 PM - 05:30 PM  o  Final visualization presentations
  * 05:30 PM - 06:00 PM  o  Meeting wrap up; evaluation of what was learned
