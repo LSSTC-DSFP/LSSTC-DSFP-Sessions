@@ -36,11 +36,23 @@ Untar them.
 
 ---
 
-* Finally, we want to be able to access and use those engines from within our jupyter notebook
+* Now, we want to be able to access and use those engines from within our jupyter notebook
 
 `ipcluster nbextension enable [--user]`
 
 If you are using anaconda (or even better, astroconda), then this should have
 all gone smoothly, and you should not need the `--user`
+
+---
+
+* Finally, we need to run our jupyter notebook using IPython parallel computing cluster we've created
+
+`jupyter notebook`
+
+Switch to the `IPython Clusters` tab.  
+If everything went as planned, you should see the cluster you created.  
+Hit `Start`
+
+Then, switch back to the `Files` tab, find the notebook file, and start it up as usual.
 
 ---
