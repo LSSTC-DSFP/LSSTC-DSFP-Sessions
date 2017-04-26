@@ -19,7 +19,7 @@ If we don't get this right, _nothing_ else works.
 
 Untar them.  
 
-`tar -xzf training_set_for_LSST_DSFP.tar.gz`
+`tar -xzf training_set_for_LSST_DSFP.tar.gz`  
 `tar -xzf test_set_for_LSST_DSFP.tar.gz`
 
 ---
