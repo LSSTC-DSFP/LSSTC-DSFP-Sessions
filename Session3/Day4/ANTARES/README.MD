@@ -5,8 +5,8 @@
 `which python`
 
 All of this relies on you:  
-.* installing packages in the right places  
-.* initing things consistently within a single python environment  
+- installing packages in the right places  
+- initing things consistently within a single python environment  
 
 
 If we don't get this right, _nothing_ else works.
