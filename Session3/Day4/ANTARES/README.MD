@@ -4,9 +4,10 @@
 
 `which python`
 
-All of this relies on you 
-..* installing packages in the right places
-..* initing things consistently within a single python environment
+All of this relies on you:  
+.* installing packages in the right places  
+.* initing things consistently within a single python environment  
+
 
 If we don't get this right, _nothing_ else works.
 
@@ -41,6 +42,6 @@ Untar them.
 `ipcluster nbextension enable [--user]`
 
 If you are using anaconda (or even better, astroconda), then this should have
-all gone smoothly, and you should not need the [--user]
+all gone smoothly, and you should not need the `--user`
 
 ---
