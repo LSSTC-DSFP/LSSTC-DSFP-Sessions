@@ -1,6 +1,6 @@
-## 0) First things first
+## First things first
 
-* MAKE SURE YOU ARE IN YOUR PREFERED PYTHON ENVIRONMENT 
+1. MAKE SURE YOU ARE IN YOUR PREFERED PYTHON ENVIRONMENT 
 
 `which python`
 
@@ -12,7 +12,7 @@ If we don't get this right, _nothing_ else works.
 
 ---
 
-* Along with this notebook are two tarballs that are sensibly named:  
+2. Along with this notebook are two tarballs that are sensibly named:  
 
 `training_set_for_LSST_DSFP.tar.gz`  
 `test_set_for_LSST_DSFP.tar.gz`  
@@ -24,19 +24,19 @@ Untar them.
 
 ---
 
-* Then we need an extra package to support parallel computation with ipython:
+3. Then we need an extra package to support parallel computation with ipython:
 
 `conda install -y ipyparallel`
 
 ---
 
-* Next, we have to start up multiple python "engines" for our distributed computation
+4. Next, we have to start up multiple python "engines" for our distributed computation
 
 `ipcluster start -n 4`
 
 ---
 
-* Now, we want to be able to access and use those engines from within our jupyter notebook
+5. Now, we want to be able to access and use those engines from within our jupyter notebook
 
 `ipcluster nbextension enable [--user]`
 
@@ -45,7 +45,7 @@ all gone smoothly, and you should not need the `--user`
 
 ---
 
-* Finally, we need to run our jupyter notebook using IPython parallel computing cluster we've created
+6. Finally, we need to run our jupyter notebook using IPython parallel computing cluster we've created
 
 `jupyter notebook`
 
