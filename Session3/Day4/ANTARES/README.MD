@@ -1,4 +1,26 @@
-## First things first
+# First things first
+
+This subdirectory of the repo contains files you'll need for these sessions:  
+
+
+ o  Coping with Streaming Data - ANTARES; G. Narayan [:octocat:](https://github.com/gnarayan) 
+ o  Problem -- build mini-ANTARES; G. Narayan [:octocat:](https://github.com/gnarayan) & A. Miller [:octocat:](https://github.com/adamamiller)
+
+---
+
+There are two notebooks in this directory:  
+`miniAntares_serial.ipynb`  
+and  
+`miniAntares_parallel.ipynb`
+
+The parallel version is more complex, realistic, and harder to get running.  
+It is what we are going to try to use.  
+Because you all are badasses.  
+
+The serial version is a fallback, but also something I'd like you to run later,
+on your own. Just to get a comparison of how fast things are without parallel
+processing.
+
 
 1. MAKE SURE YOU ARE IN YOUR PREFERED PYTHON ENVIRONMENT 
 
@@ -56,3 +78,6 @@ Hit `Start`
 Then, switch back to the `Files` tab, find the notebook file, and start it up as usual.
 
 ---
+
+We press on!
+- GSN
