@@ -3,7 +3,8 @@
 This subdirectory of the repo contains files you'll need for these sessions:  
 
 
- o  Coping with Streaming Data - ANTARES; G. Narayan [:octocat:](https://github.com/gnarayan) 
+ o  Coping with Streaming Data - ANTARES; G. Narayan [:octocat:](https://github.com/gnarayan)  
+
  o  Problem -- build mini-ANTARES; G. Narayan [:octocat:](https://github.com/gnarayan) & A. Miller [:octocat:](https://github.com/adamamiller)
 
 ---
