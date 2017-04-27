@@ -35,7 +35,9 @@ If we don't get this right, _nothing_ else works.
 
 ---
 
-2. Along with this notebook are two tarballs that are sensibly named:  
+2. Along with this notebook you'll need two tarballs that are sensibly named:  
+
+Get them from [here](https://www.dropbox.com/sh/7vzhzrp3db42uel/AAD1oJqqVN5RBNsfiLDkJoEua?dl=0)  
 
 `training_set_for_LSST_DSFP.tar.gz`  
 `test_set_for_LSST_DSFP.tar.gz`  
