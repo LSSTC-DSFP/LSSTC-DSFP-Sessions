@@ -2,3 +2,4 @@ training_set_for_LSST_DSFP/
 test_set_for_LSST_DSFP/
 *db
 .ipynb_checkpoints/
+*cprof
