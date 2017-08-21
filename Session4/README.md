@@ -1,6 +1,6 @@
 # Session 4
 
-The third session of the LSSTC DSFP focuses on software engineering and data management.
+The fourth session of the LSSTC DSFP focuses on statistics.
 
 # Schedule
 
