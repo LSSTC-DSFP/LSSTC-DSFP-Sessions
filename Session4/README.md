@@ -38,7 +38,7 @@ Tuesday, Sep 19, 2017
 
  * 09:00 AM - 10:00 AM  o  [An Introduction To Gaussian Process Regression](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session4/Day2/GPLecture1.ipynb); S. Aigrain [:octocat:](https://github.com/saigrain)
  * 10:00 AM - 10:30 AM  o  Break
- * 10:30 AM - 12:00 PM  o  [Problem -- Building a GP Model; S. Aigrain](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session4/Day2/GPTutorial1.ipynb) [:octocat:](https://github.com/saigrain) —— [Solutions](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session4/Day2/GPTutorial1_WithSolutions.ipynb)
+ * 10:30 AM - 12:00 PM  o  [Problem - Building a GP Model; S. Aigrain](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session4/Day2/GPTutorial1.ipynb) [:octocat:](https://github.com/saigrain) —— [Solutions](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session4/Day2/GPTutorial1_WithSolutions.ipynb)
  * 12:00 PM - 01:30 PM  o  LUNCH
  * 01:30 PM - 04:00 PM  o  [A Practical Guide to MCMC](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session4/Day2/LSSTC-DSFP4-Connolly-IntroductionToMCMC.ipynb); A. Connolly [:octocat:](https://github.com/connolly) —— [PYMC](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session4/Day2/LSSTC-DSFP4-Connolly-IntroductionToPYMC3.ipynb), [Problems](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session4/Day2/LSSTC-DSFP4-Connolly-SamplingTechniquesInMCMC.ipynb)
  * 04:00 PM - 04:30 PM  o  Break
@@ -51,7 +51,7 @@ Wednesday, Sep 20, 2017
 
  * 09:00 AM - 10:00 AM  o  [Making GPs Work For You](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session4/Day3/GPLecture2.ipynb); S. Aigrain [:octocat:](https://github.com/saigrain)
  * 10:00 AM - 10:30 AM  o  Break
- * 10:30 AM - 12:00 PM  o  [Problem -- implementation of common GP packages](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session4/Day3/GPTutorial2.ipynb); S. Aigrain [:octocat:](https://github.com/saigrain) —— [Solutions](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session4/Day3/GPTutorial2_WithSolutions.ipynb)
+ * 10:30 AM - 12:00 PM  o  [Problem - implementation of common GP packages](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session4/Day3/GPTutorial2.ipynb); S. Aigrain [:octocat:](https://github.com/saigrain) —— [Solutions](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session4/Day3/GPTutorial2_WithSolutions.ipynb)
  * 12:00 PM - 12:30 PM  o  [GPs in Action](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session4/Day3/GPLecture3.ipynb); S. Aigrain [:octocat:](https://github.com/saigrain)
  * 12:30 PM - ??:?? PM  o  BREAK
 
@@ -61,7 +61,7 @@ Thursday, Sep 21, 2017
 
  * 09:00 AM - 10:00 AM  o  Introduction to Hierarchical Bayesian Models; M. Shabram [:octocat:](https://github.com/mshabram)
  * 10:00 AM - 10:30 AM  o  Break
- * 10:30 AM - 12:00 PM  o  Problem -- Building an HBM; M. Shabram [:octocat:](https://github.com/mshabram)
+ * 10:30 AM - 12:00 PM  o  Problem - Building an HBM; M. Shabram [:octocat:](https://github.com/mshabram)
  * 12:00 PM - 01:30 PM  o  LUNCH
  * 01:30 PM - 04:00 PM  o  Practical HBM; M. Shabram [:octocat:](https://github.com/mshabram)
  * 04:00 PM - 04:30 PM  o  Break
