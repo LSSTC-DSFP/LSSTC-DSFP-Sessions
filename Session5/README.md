@@ -43,7 +43,7 @@ Wednesday, Jan 24, 2018
  * 10:30 AM - 12:00 PM  o  Problem — Astrometry; D. Fohring
  * 12:30 PM - ??:?? PM  o  BREAK
   
-## Day 4 — 
+## Day 4 — Depth and Subtraction
 
 Thursday, Jan 25, 2018
 
@@ -55,7 +55,7 @@ Thursday, Jan 25, 2018
  * 03:30 PM - 04:00 PM  o  Break
  * 04:00 PM - 06:00 PM  o  Undetermined - Josh Peek?
 
-## Day 5 — 
+## Day 5 — Multiwavelength Astronomy & Hack Session 
 
 Friday, Jan 26, 2018
 
