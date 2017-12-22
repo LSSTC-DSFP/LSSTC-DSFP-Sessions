@@ -31,7 +31,7 @@ Tuesday, Jan 23, 2018
  * 12:00 PM - 01:30 PM  o  LUNCH
  * 01:30 PM - 03:30 PM  o  Introduction to Photometry II — Galaxies; M. Alpaslan
  * 03:30 PM - 04:00 PM  o  Break
- * 04:00 PM - 06:00 PM  o  Untitled communication exercise; L. Walkowicz [:octocat:](https://github.com/lmwalkowicz), A. Miller [:octocat:](https://github.com/adamamiller), and J. Peek [:octocat:](https://github.com/jegpeek)
+ * 04:00 PM - 06:00 PM  o  Visualizing astronomical images; L. Walkowicz [:octocat:](https://github.com/lmwalkowicz), A. Miller [:octocat:](https://github.com/adamamiller), and J. Peek [:octocat:](https://github.com/jegpeek)
  * 06:00 PM - ??:?? PM  o  Group dinner
 
 ## Day 3 — Astrometry 
@@ -43,7 +43,7 @@ Wednesday, Jan 24, 2018
  * 10:30 AM - 12:00 PM  o  Problem — Astrometry; D. Fohring
  * 12:30 PM - ??:?? PM  o  BREAK
   
-## Day 4 — Depth and Subtraction
+## Day 4 — Depth, Subtraction, and Follow-up
 
 Thursday, Jan 25, 2018
 
@@ -53,7 +53,7 @@ Thursday, Jan 25, 2018
  * 12:00 PM - 01:30 PM  o  LUNCH
  * 01:30 PM - 03:30 PM  o  Spectroscopy (Really Just Photometry in 1D); R. Lupton [:octocat:](https://github.com/RobertLuptonTheGood)
  * 03:30 PM - 04:00 PM  o  Break
- * 04:00 PM - 06:00 PM  o  Undetermined - Josh Peek?
+ * 04:00 PM - 06:00 PM  o  **TBD** introduction to R?
 
 ## Day 5 — Multiwavelength Astronomy & Hack Session 
 
