@@ -31,7 +31,7 @@ Tuesday, Jan 23, 2018
  * 12:00 PM - 01:30 PM  o  LUNCH
  * 01:30 PM - 03:30 PM  o  Introduction to Photometry II — Galaxies; M. Alpaslan
  * 03:30 PM - 04:00 PM  o  Break
- * 04:00 PM - 06:00 PM  o  Untitled communication exercise; L. Walkowicz [:octocat:](https://github.com/lmwalkowicz) and A. Miller [:octocat:](https://github.com/adamamiller)
+ * 04:00 PM - 06:00 PM  o  Untitled communication exercise; L. Walkowicz [:octocat:](https://github.com/lmwalkowicz), A. Miller [:octocat:](https://github.com/adamamiller), and J. Peek [:octocat:](https://github.com/jegpeek)
  * 06:00 PM - ??:?? PM  o  Group dinner
 
 ## Day 3 — Astrometry 
