@@ -25,11 +25,11 @@ Monday, Jan 22, 2018
 
 Tuesday, Jan 23, 2018
 
- * 09:00 AM - 10:00 AM  o  Introduction to Photometry I — Point Sources; D. Fohring 
+ * 09:00 AM - 10:00 AM  o  Introduction to Photometry I — Point Sources; D. Fohring [:octocat:](https://github.com/fohring)
  * 10:00 AM - 10:30 AM  o  Break
- * 10:30 AM - 12:00 PM  o  Problem — point sources; D. Fohring 
+ * 10:30 AM - 12:00 PM  o  Problem — point sources; D. Fohring  [:octocat:](https://github.com/fohring) 
  * 12:00 PM - 01:30 PM  o  LUNCH
- * 01:30 PM - 03:30 PM  o  Introduction to Photometry II — Galaxies; M. Alpaslan
+ * 01:30 PM - 03:30 PM  o  Introduction to Photometry II — Galaxies; M. Alpaslan [:octocat:](https://github.com/malpaslan)
  * 03:30 PM - 04:00 PM  o  Break
  * 04:00 PM - 06:00 PM  o  Visualizing astronomical images; L. Walkowicz [:octocat:](https://github.com/lmwalkowicz), A. Miller [:octocat:](https://github.com/adamamiller), and J. Peek [:octocat:](https://github.com/jegpeek)
  * 06:00 PM - ??:?? PM  o  Group dinner
@@ -38,9 +38,9 @@ Tuesday, Jan 23, 2018
 
 Wednesday, Jan 24, 2018
 
- * 09:00 AM - 10:00 AM  o  Introduction to Astrometry; D. Fohring
+ * 09:00 AM - 10:00 AM  o  Introduction to Astrometry; D. Fohring  [:octocat:](https://github.com/fohring)
  * 10:00 AM - 10:30 AM  o  Break
- * 10:30 AM - 12:00 PM  o  Problem — Astrometry; D. Fohring
+ * 10:30 AM - 12:00 PM  o  Problem — Astrometry; D. Fohring  [:octocat:](https://github.com/fohring)
  * 12:30 PM - ??:?? PM  o  BREAK
   
 ## Day 4 — Depth, Subtraction, and Follow-up
@@ -59,9 +59,9 @@ Thursday, Jan 25, 2018
 
 Friday, Jan 26, 2018
 
- * 09:00 AM - 10:00 AM  o  Merging Observations Across the EM Spectrum; M. Alpalsan 
+ * 09:00 AM - 10:00 AM  o  Merging Observations Across the EM Spectrum; M. Alpalsan [:octocat:](https://github.com/malpaslan)
  * 10:00 AM - 10:30 AM  o  Break
- * 10:30 AM - 12:00 PM  o  Problem — Multi-wavelength Observations; M. Alpalsan 
+ * 10:30 AM - 12:00 PM  o  Problem — Multi-wavelength Observations; M. Alpalsan [:octocat:](https://github.com/malpaslan) 
  * 12:00 PM - 01:30 PM  o  LUNCH
  * 01:30 PM - 05:30 PM  o  Hack Session
  * 05:30 PM - 06:00 PM  o  Session 5 wrap up; A. Miller [:octocat:](https://github.com/adamamiller)
