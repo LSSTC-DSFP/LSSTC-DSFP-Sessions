@@ -14,7 +14,7 @@ Monday, Jan 22, 2018
  * 10:30 AM - 11:00 AM  o  Break
  * 11:00 AM - 12:00 PM  o  Photons != Science II; A. Miller [:octocat:](https://github.com/adamamiller)
  * 12:00 PM - 01:30 PM  o  LUNCH
- * 01:30 PM - 02:30 PM  o  Noise in Optical/NIR Astronomical Detectors; R. Lupton [:octocat:](https://github.com/RobertLuptonTheGood)
+ * 01:30 PM - 02:30 PM  o  The imperfection of Optical/NIR Astronomical Data; R. Lupton [:octocat:](https://github.com/RobertLuptonTheGood)
  * 02:30 PM - 04:00 PM  o  Problem — detector noise; R. Lupton [:octocat:](https://github.com/RobertLuptonTheGood) 
  * 04:00 PM - 04:30 PM  o  Break
  * 04:30 PM - 06:00 PM  o  Image Reduction in Python; E. Tollerud [:octocat:](https://github.com/eteq)
