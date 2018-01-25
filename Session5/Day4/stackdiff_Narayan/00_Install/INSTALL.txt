@@ -1,0 +1,113 @@
+-----------------------------------------------------------------------------------------
+## Install Miniconda (if you haven't already have) ##
+
+# Mac OS X:
+wget https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+bash ./Miniconda3-latest-MacOSX-x86_64.sh
+
+# Linux:
+wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+bash ./Miniconda3-latest-Linux-x86_64.sh
+
+# The installation should prompt your for a path and permission to edit your .bash_profile.
+# If it worked, you should see something like this in your .bash_profile:
+
+export PATH="/Users/gnarayan/anaconda3/bin:$PATH"
+
+-----------------------------------------------------------------------------------------
+# Make some local directories to store the software we'll install for this session of the DSFP
+
+mkdir -p ~/local/bin
+mkdir -p ~/local/lib
+mkdir -p ~/local/include
+mkdir -p ~/local/share
+
+# make sure this is added to your .bash_profile
+export PATH="~/local/bin:$PATH"
+
+# Now that you've installed miniconda and made directories for your path, startup a new bash shell
+
+-----------------------------------------------------------------------------------------
+## Edit your .condarc ##
+
+```
+channels:
+  - mpi4py
+  - defaults
+  - http://ssb.stsci.edu/astroconda
+  - conda-forge
+ssl_verify: true
+show_channel_urls: True
+```
+-----------------------------------------------------------------------------------------
+## Setting up a Conda Environment for this session ##
+
+conda create -n dsfp5 ds9 wcstools numpy scipy astropy astroquery reproject matplotlib ipyparallel notebook cfitsio
+source activate dsfp5
+pip install ois
+python -m ipykernel install --user --name dsfp5 --display-name "Python (dsfp5)"
+
+-----------------------------------------------------------------------------------------
+## (POSSIBLY NEEDED)
+
+# If you have a Linux machine, chances are your distribution came with a
+# sensible package manager and the standard tool chain to build software on
+# your machine directly from the source code.
+# Sadly, this is not the default if you are running on a Macbook.
+# Chances are you will NOT have to do this stuff since this is DSFP Session 5,
+# and you probably already have these things installed.
+# However, if that is not the case, here's some instructions.
+
+# Get Xcode
+https://developer.apple.com/xcode/
+# Install that from the DMG
+
+# Get Xcode CLI utilities 
+https://developer.apple.com/downloads/index.action
+# Install that from the DMG
+
+# Get XQuartz
+https://www.xquartz.org/
+# Install that from the DMG
+
+# Get Fink:
+http://prdownloads.sourceforge.net/fink/Fink-0.9.0-Intel-Installer.dmg?download
+(or homebrew or Macports)
+# Install that from the DMG
+
+# Install a compiler and some libraries if you don't have them:
+sudo fink install gcc netpbm
+
+# Fink be default installs to /sw - edit your .bash_profile to make sure 
+. /sw/bin/init.sh
+export CFLAGS="-I/usr/local/include -I/sw/include"
+export LDFLAGS="-L/usr/local/lib -L/sw/lib"
+
+# Remember to open another shell up if you had do these steps
+# Also remember to source the conda environment again.
+
+-----------------------------------------------------------------------------------------
+## Setting up astrometry.net ##
+
+wget http://astrometry.net/downloads/astrometry.net-latest.tar.bz2
+tar xjf astrometry.net-latest.tar.bz2
+cd astrometry.net-*
+
+make
+make py
+make extra
+make install
+
+-----------------------------------------------------------------------------------------
+## Get the index file
+
+# there's many, but we don't need all of them for this exercise, since it's the
+# same field - some point you might want all
+
+wget http://broiler.astrometry.net/~dstn/4200/index-4203-35.fits
+wget http://broiler.astrometry.net/~dstn/4200/index-4202-35.fits
+wget http://broiler.astrometry.net/~dstn/4200/index-4203-35.fits
+wget http://broiler.astrometry.net/~dstn/4200/index-4204-35.fits
+wget http://broiler.astrometry.net/~dstn/4200/index-4205-08.fits
+wget http://broiler.astrometry.net/~dstn/4200/index-4206-08.fits
+-----------------------------------------------------------------------------------------
