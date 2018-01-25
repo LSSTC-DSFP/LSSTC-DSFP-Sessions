@@ -1,0 +1,5 @@
+solve-field --ra 38.35576501981 --dec -8.9280976775107 --radius 0.5 --scale-units arcsecperpix --scale-low 0.24 --scale-high 0.28 --fits-image wdd7.040920_0452.051_6.fits -N wdd7.040920_0452.051_6.solved.fits --parity pos
+wcs-to-tan -w wdd7.040920_0452.051_6.wcs -t -o wdd7.040920_0452.051_6.wcs.tan
+
+solve-field --ra 38.35576501981 --dec -8.9280976775107 --radius 0.5 --scale-units arcsecperpix --scale-low 0.24 --scale-high 0.28 --fits-image wdd7.080104_0214.1025_6.fits -N wdd7.080104_0214.1025_6.solved.fits --parity pos
+wcs-to-tan -w wdd7.080104_0214.1025_6.wcs -t -o wdd7.080104_0214.1025_6.wcs.tan
