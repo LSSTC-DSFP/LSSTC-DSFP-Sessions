@@ -2,9 +2,9 @@
 
 | Task                       | Timeframe (prior to session)| Comlpeted |
 |:---                        |:---                         |:---:      |
-| select host                |$\sim$6 months               |           |
+| select host                |$\sim$6 months               | x         |
 | select guest instructors   |$\sim$3 months               |           |
-| set up hotel               |$\gtrsim$3 months            |           |
+| set up hotel               |$\gtrsim$3 months            | x         |
 | (host) start audit select  |$\sim$2 months               |           |
 | instructor travel reimburse|$\sim$2 months               |           |
 | finalize schedule          |$\sim$6 wk                   |           |
