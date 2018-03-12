@@ -52,7 +52,7 @@ Wednesday, Apr 26, 2017
 
 Thursday, Apr 27, 2017
 
- * 09:00 AM - 10:00 AM  o  Profiling Python Software; C. Hummels [:octocat:](https://github.com/chummels) [:movie_camera:](https://www.youtube.com/watch?v=Ay63eJevfw8&list=PLKC37rx5YXnfCRTt1xbSXkvpyi3XbXVy_&index=10)
+ * 09:00 AM - 10:00 AM  o  [Profiling Python Software](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session3/Day4/profiling.pdf); C. Hummels [:octocat:](https://github.com/chummels) [:movie_camera:](https://www.youtube.com/watch?v=Ay63eJevfw8&list=PLKC37rx5YXnfCRTt1xbSXkvpyi3XbXVy_&index=10)
  * 10:00 AM - 10:30 AM  o  Break
  * 10:30 AM - 12:00 PM  o  [Problem -- Profiling Python Software](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session3/Day4/Profiling.ipynb); C. Hummels [:octocat:](https://github.com/chummels) –– [Solutions](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session3/Day4/Profiling_solns.ipynb) 
  * 12:00 PM - 01:30 PM  o  LUNCH
