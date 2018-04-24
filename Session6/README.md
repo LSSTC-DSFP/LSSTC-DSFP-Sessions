@@ -33,35 +33,35 @@ Tuesday, May 01, 2018
  * 04:00 PM - 04:30 PM  o  Break
  * 04:30 PM - 06:00 PM  o  Features as a Representation of Time Series for Classification; A. Miller [:octocat:](https://github.com/adamamiller)
 
-## Day 3 — Astrometry 
+## Day 3 — Introduction to Bokeh
 
-Wednesday, Jan 24, 2018
+Wednesday, Apr 02, 2018
 
- * 09:00 AM - 10:00 AM  o  [Introduction to Astrometry](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session5/Day3/introtoastrometry.pdf); D. Fohring  [:octocat:](https://github.com/fohring)
+ * 09:00 AM - 10:00 AM  o  Introduction to Bokeh; J. Guillochon [:octocat:](https://github.com/guillochon)
  * 10:00 AM - 10:30 AM  o  Break
- * 10:30 AM - 12:00 PM  o  [Problem — Astrometry](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session5/Day3/Introduction%20to%20Astrometry.ipynb); D. Fohring  [:octocat:](https://github.com/fohring)
+ * 10:30 AM - 12:00 PM  o  Problem –– Building Interactive Plots with Bokeh; J. Guillochon [:octocat:](https://github.com/guillochon)
  * 12:30 PM - ??:?? PM  o  BREAK
- * 03:30 PM - 04:30 PM  o  [optional] STScI colloquium — Kirsten Hall (JHU) *Infrared Galaxies Clustered around Quasars across Cosmic Time* & Giovanni Bruno (STScI) *Transiting Exoplanets with HST: Atmospheres, Clouds and Starspots*
   
-## Day 4 — Depth, Subtraction, and Follow-up
+## Day 4 — Real-World Interactive Datasets
 
-Thursday, Jan 25, 2018
+Thursday, Apr 03, 2018
 
- * 09:00 AM - 10:00 AM  o  [Image Stacking and Image Subtraction](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session5/Day4/stackdiff_Narayan/docs/stacking_and_diffim_LSSTDSFP5_Baltimore_Narayan.pdf); G. Narayan [:octocat:](https://github.com/gnarayan)
+ * 09:00 AM - 10:00 AM  o  An Introduction to Glue-Viz; A. Miller [:octocat:](https://github.com/adamamiller)
  * 10:00 AM - 10:30 AM  o  Break
- * 10:30 AM - 12:00 PM  o  Problem — image subtraction: [Part 1](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session5/Day4/stackdiff_Narayan/01_Registration/Register_images_exercise.ipynb), [Part 2](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session5/Day4/stackdiff_Narayan/02_Reprojection/Reproject_images_exercise.ipynb), [Part 3](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session5/Day4/stackdiff_Narayan/03_Stacking/Stacking_images_exercise.ipynb), & [Part 4](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session5/Day4/stackdiff_Narayan/04_Differencing/Differencing_images_challenge_exercise.ipynb); G. Narayan [:octocat:](https://github.com/gnarayan)
+ * 10:30 AM - 12:00 PM  o  Linking 3D Datasets with Glue; A. Miller [:octocat:](https://github.com/adamamiller)
  * 12:00 PM - 01:30 PM  o  LUNCH
- * 01:30 PM - 03:30 PM  o  [Spectroscopy (Really Just Photometry)](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session5/Day4/Spectroscopy.pdf); R. Lupton [:octocat:](https://github.com/RobertLuptonTheGood) –– [Problems](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session5/Day4/WavelengthSolution.ipynb) & [Solutions]()
- * 03:30 PM - 04:00 PM  o  Break
- * 04:00 PM - 06:00 PM  o  [Visualizing astronomical images](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session5/Day4/VisualizationExercise.ipynb); L. Walkowicz [:octocat:](https://github.com/lmwalkowicz), A. Miller [:octocat:](https://github.com/adamamiller), and J. Peek [:octocat:](https://github.com/jegpeek)
+ * 01:30 PM - 05:30 PM  o  Problem –– Interactive Exploration
+ * 05:30 PM - 06:00 PM  o  Interactive Visualization Presentations
 
-## Day 5 — Multiwavelength Astronomy & Hack Session 
+## Day 5 — Communicating & Dataing In the Real World
 
-Friday, Jan 26, 2018
+Friday, Apr 04, 2018
 
- * 09:00 AM - 10:00 AM  o  [Merging Observations Across the EM Spectrum](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session5/Day5/MultiwavelengthSlides.pdf); M. Alpalsan [:octocat:](https://github.com/malpaslan)
+ * 09:00 AM - 10:00 AM  o  The Science of Science Communication; L. Walkowicz [:octocat:](https://github.com/lmwalkowicz)
  * 10:00 AM - 10:30 AM  o  Break
- * 10:30 AM - 12:00 PM  o  [Problem — Multi-wavelength Observations](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session5/Day5/MultiwavelengthPhotometry.ipynb); M. Alpalsan [:octocat:](https://github.com/malpaslan) –– [Solutions](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session5/Day5/MultiwavelengthPhotometrySolutions.ipynb)
+ * 10:30 AM - 12:00 PM  o  Problem –– Building Better Presentations for the Public; L. Walkowicz [:octocat:](https://github.com/lmwalkowicz)
  * 12:00 PM - 01:30 PM  o  LUNCH
- * 01:30 PM - 05:30 PM  o  Hack Session
- * 05:30 PM - 06:00 PM  o  Session 5 wrap up; A. Miller [:octocat:](https://github.com/adamamiller)
+ * 01:30 PM - 02:30 PM  o  Hack Session
+ * 02:30 PM - 03:30 PM  o  Hack Session
+ * 03:30 PM - 04:30 PM  o  Hack Session; L. Nor&eacuten;n
+ * 04:30 PM - 05:00 PM  o  Session 6 wrap up; A. Miller [:octocat:](https://github.com/adamamiller)
