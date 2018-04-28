@@ -14,7 +14,7 @@ Monday, Apr 30, 2018
  * 10:30 AM - 11:00 AM  o  Break
  * 11:00 AM - 12:00 PM  o  Periodic Signals and the Lomb Scargle Periodogram; A. Miller [:octocat:](https://github.com/adamamiller)
  * 12:00 PM - 01:30 PM  o  LUNCH
- * 01:30 PM - 02:30 PM  o  Gaussian Processes and MCMC: New Methods of Identifying Periodicity; A. Miller [:octocat:](https://github.com/adamamiller)
+ * 01:30 PM - 02:30 PM  o  The Neverending Search for Periodicity: Techniques Beyond Lomb-Scargle; A. Miller [:octocat:](https://github.com/adamamiller)
  * 02:30 PM - 03:30 PM  o  Problem — GPs + MCMC and the Period of an Eclipsing Binary; A. Miller [:octocat:](https://github.com/adamamiller)
  * 03:30 PM - 04:00 PM  o  Break
  * 04:00 PM - 04:45 PM  o  Building Better Inference Models; J. Guillochon [:octocat:](https://github.com/guillochon)
