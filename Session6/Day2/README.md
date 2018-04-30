@@ -10,3 +10,4 @@
  * 02:30 PM - 04:00 PM  o  Problem: State Space Models; C. Schafer
  * 04:00 PM - 04:30 PM  o  Break
  * 04:30 PM - 06:00 PM  o  Features as a Representation of Time Series for Classification; A. Miller [:octocat:](https://github.com/adamamiller)
+ * 06:00 PM - ??:?? PM  o  Group dinner
