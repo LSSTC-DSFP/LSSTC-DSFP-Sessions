@@ -2,7 +2,7 @@
 
 ## Schedule
 
- * 09:00 AM - 10:00 AM  o  The Science of Science Communication; L. Walkowicz [:octocat:](https://github.com/lmwalkowicz)
+ * 09:00 AM - 10:00 AM  o  [The Science of Science Communication](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session6/Day5/ScienceOfSciComm.pdf); L. Walkowicz [:octocat:](https://github.com/lmwalkowicz)
  * 10:00 AM - 10:30 AM  o  Break
  * 10:30 AM - 12:00 PM  o  Problem –– Understanding Audiences in Communication; L. Walkowicz [:octocat:](https://github.com/lmwalkowicz)
  * 12:00 PM - 01:30 PM  o  LUNCH
