@@ -48,13 +48,12 @@ Thursday, Nov 08, 2018
 
  * 09:00 AM - 10:00 AM  o Introduction to Supervised Machine Learning; U. Rebbapragada [:octocat:](https://github.com/urebbapr)
  * 10:00 AM - 10:30 AM  o  Break
- * 10:30 AM - 12:00 PM  o  Problem –– Building a Supervised Machine Learning Model; U. Rebbapragada[:octocat:](https://github.com/urebbapr)
+ * 10:30 AM - 12:00 PM  o  Problem –– Building a Supervised Machine Learning Model; U. Rebbapragada [:octocat:](https://github.com/urebbapr)
  * 12:00 PM - 01:30 PM  o  LUNCH
- * 01:30 PM - 02:15 PM  o  TBD
- * 02:15 PM - 03:30 PM  o  Problem –– TBD
- * 03:30 PM - 04:00 PM  o  BREAK
- * 04:00 PM - 04:45 PM  o  Training Set Triage; U. Rebbapragada [:octocat:](https://github.com/urebbapr)
- * 04:45 PM - 06:00 PM  o  Problem –– Cleaning Astronomical Training Sets
+ * 01:30 PM - 03:00 PM  o  Graph Theory –– Building a Professional Network; L. Walkowicz [:octocat:](https://github.com/lmwalkowicz)
+ * 03:00 PM - 03:30 PM  o  BREAK
+ * 03:30 PM - 04:15 PM  o  Training Set Triage; U. Rebbapragada [:octocat:](https://github.com/urebbapr)
+ * 04:15 PM - 06:00 PM  o  Problem –– Cleaning Astronomical Training Sets
  
 ## Day 4 — Neural Networks
 
@@ -67,16 +66,16 @@ Friday, Nov 09, 2018
  * 01:30 PM - 02:15 PM  o  Deep Learning for Physical Data Sets; B. Nord [:octocat:](https://github.com/bnord)
  * 02:15 PM - 04:00 PM  o  Problem –– Deep Learning; B. Nord [:octocat:](https://github.com/bnord)
  * 04:00 PM - 04:30 PM  o  Break
- * 04:30 PM - 06:00 PM  o  TBD
+ * 04:30 PM - 05:30 PM  o  Modern Applications of Deep Learning; Y. Luo [:octocat:](https://github.com/yuanluo)
 
 ## Day 5 — ML in the Real World; Science Communication
 
 Saturday, Nov 10, 2018
 
  * 09:00 AM - 09:30 AM  o  Ethics in the Usage of Machine Learning in Society; B. Nord [:octocat:](https://github.com/bnord)
- * 09:30 AM - 11:00 AM  o  TBD
- * 11:00 AM - 11:30 AM  o  BREAK
- * 11:30 AM - 12:00 PM  o  Hack Day Pitch Session
+ * 09:30 AM - 10:30 AM  o  Talking About, Talking About (I): Machine Learning; L. Walkowicz [:octocat:](https://github.com/lmwalkowicz) & A. Miller [:octocat:](https://github.com/adamamiller)
+ * 10:30 AM - 11:00 AM  o  BREAK
+ * 11:00 AM - 12:00 PM  o  Hack Day Pitch Session
  * 12:00 PM - 01:00 PM  o  LUNCH
  * 01:00 PM - 04:30 PM  o  Hack Session
  * 04:30 PM - 05:00 PM  o  Hack tag-up & Meeting wrap up
