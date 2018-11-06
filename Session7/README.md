@@ -54,6 +54,7 @@ Thursday, Nov 08, 2018
  * 03:00 PM - 03:30 PM  o  BREAK
  * 03:30 PM - 04:15 PM  o  Training Set Triage; U. Rebbapragada [:octocat:](https://github.com/urebbapr)
  * 04:15 PM - 06:00 PM  o  Problem –– Cleaning Astronomical Training Sets
+ * 07:00 PM - ??:?? PM  o  Group Dinner
  
 ## Day 4 — Neural Networks
 
