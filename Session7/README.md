@@ -67,7 +67,7 @@ Friday, Nov 09, 2018
  * 01:30 PM - 02:15 PM  o  Deep Learning for Physical Data Sets; B. Nord [:octocat:](https://github.com/bnord)
  * 02:15 PM - 04:00 PM  o  Problem –– Deep Learning; B. Nord [:octocat:](https://github.com/bnord)
  * 04:00 PM - 04:30 PM  o  Break
- * 04:30 PM - 05:30 PM  o  Modern Applications of Deep Learning; Y. Luo [:octocat:](https://github.com/yuanluo)
+ * 04:30 PM - 05:30 PM  o  Towards Unified Biomedical Modeling with Graph and Factorization Algorithms; Y. Luo [:octocat:](https://github.com/yuanluo)
 
 ## Day 5 — ML in the Real World; Science Communication
 
