@@ -17,8 +17,8 @@ Monday, Mar 25, 2019
  * 01:30 PM - 02:15 PM  o  [What is Your (Mal)Function? An Introduction to Object Oriented Programming](); J. Oishi [:octocat:](https://github.com/jsoishi)
  * 02:15 PM - 03:30 PM  o  [Problem: Creating Python Class Objects](); J. Oishi [:octocat:](https://github.com/jsoishi)
  * 03:30 PM - 04:00 PM  o  Break
- * 04:00 PM - 04:45 PM  o  [An Introduction to Databases](); A. Thakar [:octocat:]()
- * 04:45 PM - 06:00 PM  o  [Writing SQL Queries](); A. Thakar [:octocat:]()
+ * 04:00 PM - 04:45 PM  o  [An Introduction to Databases](); A. Thakar [:octocat:](https://github.com/thakar)
+ * 04:45 PM - 06:00 PM  o  [Writing SQL Queries](); A. Thakar [:octocat:](https://github.com/thakar)
 
 ## Day 2 –– Reproducibility and Data Handling
 
@@ -30,16 +30,15 @@ Tuesday, May 26, 2019
  * 12:00 PM - 01:30 PM  o  LUNCH
  * 01:30 PM - 03:30 PM  o  [TBD](); A. Miller [:octocat:](https://github.com/adamamiller)
  * 03:30 PM - 04:00 PM  o  BREAK
- * 04:00 PM - 04:45 PM  o  [Databases II](); A. Thakar [:octocat:]()
- * 04:45 PM - 06:00 PM  o  [Problem –– Databases II](); A. Thakar [:octocat:]()
+ * 04:00 PM - 04:45 PM  o  [Databases II](); A. Thakar [:octocat:](https://github.com/thakar)
+ * 04:45 PM - 06:00 PM  o  [Problem –– Databases II](); A. Thakar [:octocat:](https://github.com/thakar)
 
 
 ## Day 3 — Distributed Data Storage
 
 Wednesday, May 27, 2019
 
- * 09:00 AM - 10:00 AM  o [Distributed Data Storage](); A. Thakar [:octocat:]()
-
+ * 09:00 AM - 10:00 AM  o [Distributed Data Storage](https://github.com/thakar); A. Thakar [:octocat:](https://github.com/thakar)
  * 10:00 AM - 10:30 AM  o  Break
  * 10:30 AM - 12:00 PM  o  Robbins Colloquium; G. Gonzalez
  * 12:00 PM - ??:?? PM  o  BREAK

@@ -11,5 +11,5 @@
  * 01:30 PM - 02:15 PM  o  [What is Your (Mal)Function? An Introduction to Object Oriented Programming](); J. Oishi [:octocat:](https://github.com/jsoishi)
  * 02:15 PM - 03:30 PM  o  [Problem: Creating Python Class Objects](); J. Oishi [:octocat:](https://github.com/jsoishi)
  * 03:30 PM - 04:00 PM  o  Break
- * 04:00 PM - 04:45 PM  o  [An Introduction to Databases](); A. Thakar [:octocat:]()
- * 04:45 PM - 06:00 PM  o  [Writing SQL Queries](); A. Thakar [:octocat:]()
+ * 04:00 PM - 04:45 PM  o  [An Introduction to Databases](); A. Thakar [:octocat:](https://github.com/thakar)
+ * 04:45 PM - 06:00 PM  o  [Writing SQL Queries](); A. Thakar [:octocat:](https://github.com/thakar)

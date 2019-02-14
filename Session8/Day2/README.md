@@ -8,5 +8,5 @@
  * 12:00 PM - 01:30 PM  o  LUNCH
  * 01:30 PM - 03:30 PM  o  [TBD](); A. Miller [:octocat:](https://github.com/adamamiller)
  * 03:30 PM - 04:00 PM  o  BREAK
- * 04:00 PM - 04:45 PM  o  [Databases II](); A. Thakar [:octocat:]()
- * 04:45 PM - 06:00 PM  o  [Problem –– Databases II](); A. Thakar [:octocat:]()
+ * 04:00 PM - 04:45 PM  o  [Databases II](); A. Thakar [:octocat:](https://github.com/thakar)
+ * 04:45 PM - 06:00 PM  o  [Problem –– Databases II](); A. Thakar [:octocat:](https://github.com/thakar)
