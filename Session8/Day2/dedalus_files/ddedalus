@@ -1,0 +1,64 @@
+#!/usr/bin/env python3
+"""
+ddedalus
+
+a simple script to run dedalus inside a docker container
+
+Usage:
+    ddocker [--np=<nproc> --workdir=<workdir>] <file>
+
+Options:
+    --np=<nproc>                  number of processors [default: 1]
+    --workdir=<workdir>           work directory [default: pwd]
+"""
+import os
+import subprocess
+import argparse
+
+def get_container_name():
+    registry_chk = ["docker", "ps", "-a", '--filter', 'name=dedalus','--format','{{.Names}}']
+    reg = subprocess.check_output(registry_chk)
+    if reg:
+        regstr = reg.decode('UTF-8')
+        number = len(regstr.strip().split('\n'))
+    else:
+        number = 0
+    container = "dedalus{}".format(number)
+    return container
+
+def run(runfile,nproc,workdir,container):
+    if not workdir:
+        workdir = os.getcwd()
+    image = "dedalusproject/dedalus-app"
+    command = ["docker", "run", "--name","{}".format(container), "-v", "{}:/output".format(workdir), image]
+    if nproc:
+        command.append("mpirun")
+        command.append("-np")
+        command.append("{}".format(nproc))
+    command.append("python3")
+    command.append("{}".format(runfile))
+    cp = subprocess.run(command)
+
+def cleanup(container):
+    stop_cmd = ["docker", "stop", "-t", "0", container]
+    subprocess.run(stop_cmd)
+    rm_cmd = ["docker", "rm", "-v", container]
+    subprocess.run(rm_cmd)
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("file")
+    parser.add_argument("-np", "--np",help="number of processors in parallel",type=int)
+    parser.add_argument("-d", "--workdir",help="work directory",type=str)
+    args = parser.parse_args()
+    nproc = args.np
+    runfile = args.file
+    workdir = args.workdir
+    container = get_container_name()
+    try:
+        run(runfile, nproc, workdir,container)
+    except:
+        raise
+    finally:
+        print("Cleaning up containers...")
+        cleanup(container)
