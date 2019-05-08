@@ -57,7 +57,7 @@ Thursday, May 13, 2019
  * 04:40 PM - 06:00 PM  o  Problem –– Global Signals in Time-Series Data; A. Stevens [:octocat:](https://github.com/abigailStev)
 
 
-## Day 5 — Faster and Furiouser, Accelerating Calculations with GPUs 
+## Day 5 — A Joyous Return to Youth: Playing with Blocks 
 
 Friday, May 14, 2019
 
