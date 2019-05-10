@@ -1,14 +1,22 @@
+# Introduction to SQL Exercises –– Solutions
+
+The problems associated with the Introduction to SQL lecture required the execution of queries on the [CasJobs](https://skyserver.sdss.org/CasJobs/) interface pointing to the SDSS database. For this reason, there is no associated jupyter notebook. 
+
+Students were asked to solve the following problems: 
+
 1.	Write two versions of a query to get the objID, specObjID, ra, dec, ugriz mags+errors and redshift for the first 1000 objects that have spectra, one without a JOIN and one with a JOIN. You can run it in SkyServer or CasJobs on SDSS DR15.
-        a.	The version without a JOIN uses a pre-computed join between specobjall and photoobjall, called SpecPhotoAll.  I have actually used a view of SpecPhotoAll called SpecPhoto that contains the “good” observations. Also, there are a whole bunch of magnitude measurements in the 5 SDSS bands that you can choose from, but generally the modelMag is the best choice if you’re not sure.
-        b.	In the second version, the join is between PhotoObj and SpecObj, which are similarly the “good” observations views of PhotoObjAll and SpecObjAll. Note, as mentioned in class, the way to join is via the bestobjid foreign key in the spectrum table.
+    
+    The version without a JOIN uses a pre-computed join between specobjall and photoobjall, called SpecPhotoAll.  I have actually used a view of SpecPhotoAll called SpecPhoto that contains the “good” observations. Also, there are a whole bunch of magnitude measurements in the 5 SDSS bands that you can choose from, but generally the modelMag is the best choice if you’re not sure.
         
-        `SELECT TOP 1000
+        SELECT TOP 1000
 			sp.objID, sp.specObjID, sp.ra, sp.dec, 
             sp.modelMag_u, sp.modelMag_g, sp.modelMag_r, sp.modelMag_i, sp.modelMag_z, 
             sp.modelMagErr_u, sp.modelMagErr_g, sp.modelMagErr_g, sp.modelMagErr_i, sp.modelMagErr_z, 
             sp.z
-		FROM SpecPhoto sp`
-        
+		FROM SpecPhoto sp
+
+    In the second version, the join is between PhotoObj and SpecObj, which are similarly the “good” observations views of PhotoObjAll and SpecObjAll. Note, as mentioned in class, the way to join is via the bestobjid foreign key in the spectrum table.
+
         SELECT TOP 1000 
             p.objID, s.specObjID, p.ra, p.dec, 
             p.modelMag_u, p.modelMag_g, p.modelMag_r, p.modelMag_i, p.modelMag_z, 
