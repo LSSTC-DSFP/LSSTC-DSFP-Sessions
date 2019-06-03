@@ -17,8 +17,8 @@ Monday, May 10, 2019
  * 01:30 PM - 02:15 PM  o  The Neverending Search for Periodicity: Techniques Beyond Lomb-Scargle; A. Miller [:octocat:](https://github.com/adamamiller)
  * 02:15 PM - 03:30 PM  o  Problem –– Using Conditional Entropy; A. Miller [:octocat:](https://github.com/adamamiller)
  * 03:30 PM - 04:00 PM  o  Break
- * 04:00 PM - 04:45 PM  o  An Introduction to Gaussian Process Regression; R. Lugar [:octocat:](https://github.com/rodluger)
- * 04:45 PM - 06:00 PM  o  Problem –– Building a GP Model; R. Lugar [:octocat:](https://github.com/rodluger)
+ * 04:00 PM - 04:45 PM  o  An Introduction to Gaussian Process Regression; R. Luger [:octocat:](https://github.com/rodluger)
+ * 04:45 PM - 06:00 PM  o  Problem –– Building a GP Model; R. Luger [:octocat:](https://github.com/rodluger)
 
 ## Day 2 –– Sadly There are Still Gaps
 
@@ -28,8 +28,8 @@ Tuesday, May 11, 2019
  * 10:00 AM - 10:30 AM  o  Break
  * 10:30 AM - 12:00 PM  o  Problem –– Improving Slides; A. Miller [:octocat:](https://github.com/adamamiller)
  * 12:00 PM - 01:30 PM  o  LUNCH
- * 01:30 PM - 02:15 PM  o  GPs in the Real World –– Applications to Astronomical Data; R. Lugar [:octocat:](https://github.com/rodluger)
- * 02:15 PM - 04:00 PM  o  Problem –– Fast GP Implementation; R. Lugar [:octocat:](https://github.com/rodluger)
+ * 01:30 PM - 02:15 PM  o  GPs in the Real World –– Applications to Astronomical Data; R. Luger [:octocat:](https://github.com/rodluger)
+ * 02:15 PM - 04:00 PM  o  Problem –– Fast GP Implementation; R. Luger [:octocat:](https://github.com/rodluger)
  * 04:00 PM - 04:30 PM  o  BREAK
  * 04:30 PM - 06:00 PM  o  Features as a Representation of Time Series for Classification; A. Miller [:octocat:](https://github.com/adamamiller)
 
