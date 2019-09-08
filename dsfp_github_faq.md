@@ -23,10 +23,15 @@ If you do not have a local copy of the DSFP repo, you will need to "fork" it.
     `$ git remote add upstream https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions`
 
 7. Test that this has worked:
+    
     `$ git remote -v
+    
     > origin  https://github.com/<YOUR_USERNAME>/LSSTC-DSFP-Sessions.git (fetch)
+    
     > origin  https://github.com/<YOUR_USERNAME>/LSSTC-DSFP-Sessions.git (push)
+    
     > upstream https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions.git (fetch)
+    
     > upstream https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions.git (push)`
 
 If you have already forked the repo, and set up the main DSFP repo as upstream, then you can update your local copy to remain up-to-date with the following command:
