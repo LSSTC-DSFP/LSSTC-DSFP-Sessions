@@ -1,0 +1,21 @@
+name: mcmc_dsfp
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - matplotlib
+  - scipy
+  - pandas
+  - astropy
+  - seaborn
+  - ipython
+  - jupyter
+  - pystan
+  - pymc3
+  - arviz
+  - corner
+  - pip
+  - pip:
+    - emcee==3.0rc2
