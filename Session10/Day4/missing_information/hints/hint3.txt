@@ -1,0 +1,1 @@
+Hint: we can marginalize over our newfound ignorance analytically, taking advantage of the fact that the integral of the logistic function is analytic (https://en.wikipedia.org/wiki/Logistic_function).
