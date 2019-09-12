@@ -1,0 +1,1 @@
+Hint: this doesn't require as dramatic a change to the model as truncation would, more a re-definition of the sampling distribution for the censored points.
