@@ -9,5 +9,5 @@ def DIC(Model):
     D_of_mean = -2.0*Model.log_likelihood(np.mean(Model.samples, axis=0))
     # Combine to form the outputs
     pD = mean_of_D - D_of_mean
-    DIC = mean_of_D + pD
+    DIC = mean_of_D + 2.0*pD
     return DIC, pD
