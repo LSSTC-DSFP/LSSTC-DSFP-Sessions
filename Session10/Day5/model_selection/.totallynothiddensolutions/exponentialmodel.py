@@ -17,7 +17,7 @@ class ExponentialModel(Model):
         """
         if a1 <= self.min_a1 or a1 > self.max_a1:
             return -np.inf
-        return 0.0
+        return -np.log(self.max_a1 - self.min_a1)
 
     def draw_samples_from_prior(self, N):
         """
