@@ -39,5 +39,5 @@ Thursday, Aug 27, 2020
 
  * LECTURE VII  o  Image Stacking and Subtraction; Y. AlSayyad [:octocat:](https://github.com/yalsayyad)
  * LECTURE VII  o  Problem –– Image Stacking; Y. AlSayyad [:octocat:](https://github.com/yalsayyad)
- * LECTURE VIII  o  An Introduction to Visualizing CCD Data; A. Miller [:octocat:](https://github.com/adamamiller)
- * NOTEBOOK VIII  o  False Color Images; A. Miller [:octocat:](https://github.com/adamamiller)
+ * LECTURE VIII  o  [An Introduction to Visualizing CCD Data](Day4/VisualizingImages.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
+ * NOTEBOOK VIII  o  [Visualizing Images](Day4/VisualizingImages.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
