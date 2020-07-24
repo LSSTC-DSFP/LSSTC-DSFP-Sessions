@@ -9,8 +9,8 @@ The eleventh session of the LSSTC DSFP focuses on image processing for wide-fiel
 
 Tuesday, Aug 18, 2020
 
- * LECTURE I  o  [Photons != Science, and the Challenges of Turning the Former Into the Later](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session11/Day1/PhotonsArentScience.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) –– [Solutions](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session11/Day1/PhotonsArentScienceSolutions.ipynb)
- * NOTEBOOK I  o  [Introduction to Basic Stellar Photometry – Measuring Flux in 1D](ttps://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session11/Day1/IntroductionToBasicStellarPhotometry.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
+ * LECTURE I  o  [Photons != Science, and the Challenges of Turning the Former Into the Later](Day1/PhotonsArentScience.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) –– [Solutions](Day1/PhotonsArentScienceSolutions.ipynb)
+ * NOTEBOOK I  o  [Introduction to Basic Stellar Photometry – Measuring Flux in 1D](Day1/IntroductionToBasicStellarPhotometry.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
  * LECTURE II  o  Noise in Optical detectors; C. Slater [:octocat:](https://github.com/ctslater)
  * NOTEBOOK II  o  Problem –– optical detectors; C. Slater [:octocat:](https://github.com/ctslater)
 
@@ -20,8 +20,8 @@ Thursday, Aug 20, 2020
 
  * Lecture III  o  Sky Background Estimation and Source Detection; Y. AlSayyad [:octocat:](https://github.com/yalsayyad)
  * NOTEBOOK III  o  Finding Sources; Y. AlSayyad [:octocat:](https://github.com/yalsayyad)
- * LECTURE IV  o  An Introduction to Astrometric Calibration; G. Bernstein [:octocat:](https://github.com/gbernstein)
- * LECTURE IV  o  Point Source Centroids and ; G. Bernstein [:octocat:](https://github.com/gbernstein)
+ * LECTURE IV  o  [Introduction to Survey Astrometry](Day2/IntroductionToSurveyAstrometry.pdf); G. Bernstein [:octocat:](https://github.com/gbernstein)
+ * LECTURE IV  o  [Measuring Centroids and Proper Motion](Day2/MeasuringCentroidsAndProperMotion.ipynb); G. Bernstein [:octocat:](https://github.com/gbernstein)
 
 ## Day 3 — Not the Brightest Star in the Galaxy; Not the Brightest Galaxy Either
 
