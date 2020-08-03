@@ -27,7 +27,7 @@ Thursday, Aug 20, 2020
 
 Tuesday, Aug 25, 2020
 
- * LECTURE V  o  PSF Photometry; C. Slater [:octocat:](https://github.com/ctslater)
+ * LECTURE V  o  [PSF Photometry](Day3/PSFPhotometry.pdf); C. Slater [:octocat:](https://github.com/ctslater)
  * NOTEBOOK V  o  [PSF Photometry](Day3/PSFphotometry.ipynb); C. Slater [:octocat:](https://github.com/ctslater)
  * LECTURE VI  o  [Precision Galaxy Measurements](Day3/PrecisionGalaxyMeasurements.pdf); G. Bernstein [:octocat:](https://github.com/gbernstein)
  * NOTEBOOK VI  o  [Galaxy Photometry and Shapes](Day3/GalaxyPhotometryAndShapes.ipynb); G. Bernstein [:octocat:](https://github.com/gbernstein)
