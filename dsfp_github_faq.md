@@ -75,11 +75,11 @@ $^\dagger$Do not throw your laptop out the window.
 
 When there are new notebooks to grab then do the following: 
 
-    git checkout master
-    git pull upstream master
-    git push origin master
-    git checkout my_work
-    git merge master
+    $ git checkout master
+    $ git pull upstream master
+    $ git push origin master
+    $ git checkout my_work
+    $ git merge master
 
 These lines (i) switch to *your* master branch, (ii) pulled new/changed notebooks from the primary DSFP repo, (iii) pushed *your* master branch to the cloud, (iv) switched to your `my_work` branch, and (v) merged *your* master branch by pulling the new/changed notebooks into the branch where you do your work. 
 
