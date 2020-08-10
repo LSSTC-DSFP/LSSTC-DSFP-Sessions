@@ -69,9 +69,9 @@ Now, work on the IntroductionToMachineLearning.ipynb notebook. Complete the prob
 
 These lines have (i) staged the notebook for a commit, (ii) commited the changes in your repo, and (iii) pushed your local changes on the `my_work` branch to the cloud.
 
-You are now free to throw your laptop out the window.$^\dagger$
+You are now free to throw your laptop out the window.*
 
-$^\dagger$Do not throw your laptop out the window.
+*:warning:Do not throw your laptop out the window.
 
 When there are new notebooks to grab then do the following: 
 
