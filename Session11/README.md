@@ -37,7 +37,7 @@ Tuesday, Aug 25, 2020
 
 Thursday, Aug 27, 2020
 
- * LECTURE VII  o  Image Stacking and Subtraction; Y. AlSayyad [:octocat:](https://github.com/yalsayyad)
+ * LECTURE VII  o  [Image Coaddition and Subtraction](Day4/ImageCoadditionAndSubtraction.pdf); Y. AlSayyad [:octocat:](https://github.com/yalsayyad)
  * NOTEBOOK VII  o  [Problem –– Image Stacking](Day4/CoadditionAndSubtraction.ipynb); Y. AlSayyad [:octocat:](https://github.com/yalsayyad)
  * LECTURE VIII  o  [An Introduction to Visualizing CCD Data](Day4/VisualizingImages.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
  * NOTEBOOK VIII  o  [Visualizing Images](Day4/VisualizingImages.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
