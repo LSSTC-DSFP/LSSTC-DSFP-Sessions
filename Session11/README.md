@@ -38,6 +38,6 @@ Tuesday, Aug 25, 2020
 Thursday, Aug 27, 2020
 
  * LECTURE VII  o  [Image Coaddition and Subtraction](Day4/ImageCoadditionAndSubtraction.pdf); Y. AlSayyad [:octocat:](https://github.com/yalsayyad)
- * NOTEBOOK VII  o  [Problem –– Coaddition and Subtraction](Day4/CoadditionAndSubtraction.ipynb); Y. AlSayyad [:octocat:](https://github.com/yalsayyad)
+ * NOTEBOOK VII  o  [Problem –– Coaddition and Subtraction](Day4/CoadditionAndSubtraction.ipynb); Y. AlSayyad [:octocat:](https://github.com/yalsayyad) –– [Solutions](Day4/CoadditionAndSubtractionSolutions.ipynb)
  * LECTURE VIII  o  [An Introduction to Visualizing CCD Data](Day4/VisualizingImages.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
  * NOTEBOOK VIII  o  [Visualizing Images](Day4/VisualizingImages.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) –– [Solutions](Day4/VisualizingImagesSolutions.ipynb)
