@@ -16,8 +16,8 @@ Monday, Feb 08, 2021
 
 Tuesday, Feb 09, 2021
 
- * Lecture II  o  Figure Naratives – Telling a Story with Data; K. Borkiewicz [:octocat:](https://github.com/kalinalinkalina)
- * NOTEBOOK II  o  Telling Stories with Data; K. Borkiewicz [:octocat:](https://github.com/kalinalinkalina)
+ * Lecture II  o  [Storytelling with Data](Day2/LSSTC_DSFP_story.pdf); K. Borkiewicz [:octocat:](https://github.com/kalinalinkalina)
+ * NOTEBOOK II  o  [Telling Stories with Data](Day2/TellingStoriesWithData.ipynb); K. Borkiewicz [:octocat:](https://github.com/kalinalinkalina)
 
 ## [Day 3](Day3) — Where We're Going We Don't Need Lines
 
