@@ -31,8 +31,8 @@ Wenesday, Feb 10, 2021
 
 Thursday, Feb 11, 2021
 
- * LECTURE IV  o  Effective Visuals: Helping readers see what you see in your data; K. Peek 
- * NOTEBOOK IV  o  Visual summaries: everything that's relevant in one figure or less; K. Peek
+ * LECTURE IV  o  [Effective Visuals: Helping readers see what you see in your data](Day4/EffectiveVisuals.pdf); K. Peek 
+ * PROBLEM IV  o [A Problem Set on Effective Visuals](Day4/BuildingEffectiveVisuals.pdf); K. Peek
 
 ## [Day 5](Day5) — How to Find the Thing, Even When You Don't Know What the Thing Looks Like
 
