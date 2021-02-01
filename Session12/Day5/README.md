@@ -4,5 +4,5 @@
 
 Friday, Feb 12, 2021
 
- * LECTURE V  o  Visualization as a Tool for Discovery; A. Goodman
- * NOTEBOOK V  o  Discovering Trends in Large Dimensional Data Sets; A. Goodman
+ * LECTURE V  o  [Seeing More of the Universe](SeeingMoreOfTheUniverse.pdf); A. Goodman
+ * NOTEBOOK V  o  [Exploration and Discovery With Glue](ExplorationAndDiscoveryWithGlue.pdf); A. Goodman
