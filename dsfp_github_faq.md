@@ -34,7 +34,7 @@ Test that this has worked:
 
 If you have already forked the repo, and set up the main DSFP repo as upstream, then you can update your local copy to remain up-to-date with the following command:
 
-    $ git pull upstream master
+    $ git pull upstream main
 
 # Working on DSFP Notebooks
 
@@ -42,7 +42,7 @@ The [DSFP repo](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions) is constantly
 
 ## Simple solution to prevent merge conflicts
 
-For example purposes we will assume you now need to work on a notebook called IntroductionToMachineLearning.ipynb. First [pull from upstream](dsfp_github_faq.md#update-local-copy-of-dsfp-repo) to get the latest version of the repository in your master branch. 
+For example purposes we will assume you now need to work on a notebook called IntroductionToMachineLearning.ipynb. First [pull from upstream](dsfp_github_faq.md#update-local-copy-of-dsfp-repo) to get the latest version of the repository in your main branch. 
 
 Then, copy the new notebook to your own local version, something like:
     $ cp IntroductionToMachineLearning.ipynb IntroductionToMachineLearning_MyWork.ipynb
@@ -55,11 +55,11 @@ And try to solve the problems in the notebook in IntroductionToMachineLearning_M
 
 Full disclosure - merge conflicts in jupyter notebooks are annoying, because cell numbers don't always line up, etc, and it is possible to effectively "break" a notebook while editing it via a text editor such that it no longer renders correctly on the browser. But (but!) if you want to hone your git/GitHub skills this is something you should learn how to do (annoying as it may be). Here is an outline of how I (@adamamiller) would handle this:
 
-    $ git checkout master
-    $ git pull upstream master
+    $ git checkout main
+    $ git pull upstream main
     $ git checkout -b my_work
     
-Those lines (i) move to your forked master branch, (ii) pull any new/changed notebooks from the primary DSFP repo, and (iii) create a new branch in your forked repo called `my_work`. [Note - the `-b` option is only needed the first time you run this command to create the branch, after that all you need is `git checkout my_work`.]
+Those lines (i) move to your forked main branch, (ii) pull any new/changed notebooks from the primary DSFP repo, and (iii) create a new branch in your forked repo called `my_work`. [Note - the `-b` option is only needed the first time you run this command to create the branch, after that all you need is `git checkout my_work`.]
 
 Now, work on the IntroductionToMachineLearning.ipynb notebook. Complete the problems, try new code, produce plots, etc. When you are done working:
 
@@ -75,14 +75,14 @@ You are now free to throw your laptop out the window.*
 
 When there are new notebooks to grab then do the following: 
 
-    $ git checkout master
-    $ git pull upstream master
-    $ git push origin master
+    $ git checkout main
+    $ git pull upstream main
+    $ git push origin main
     $ git checkout my_work
-    $ git merge master
+    $ git merge main
 
-These lines (i) switch to *your* master branch, (ii) pulled new/changed notebooks from the primary DSFP repo, (iii) pushed *your* master branch to the cloud, (iv) switched to your `my_work` branch, and (v) merged *your* master branch by pulling the new/changed notebooks into the branch where you do your work. 
+These lines (i) switch to *your* main branch, (ii) pulled new/changed notebooks from the primary DSFP repo, (iii) pushed *your* main branch to the cloud, (iv) switched to your `my_work` branch, and (v) merged *your* main branch by pulling the new/changed notebooks into the branch where you do your work. 
 
-It is this last step that might result in merge conflicts. The advantage of this workflow is that *your* master branch is always up to date, and, in principle, should never be polluted by accidental or unwanted changes. The downside is you may need to deal with merge conflicts (which are annoying pretty much always, but especially when working on notebooks). However, those conflicts will only happen for changed notebooks, which is a relatively rare occurance (new notebooks will never present merge conflicts).
+It is this last step that might result in merge conflicts. The advantage of this workflow is that *your* main branch is always up to date, and, in principle, should never be polluted by accidental or unwanted changes. The downside is you may need to deal with merge conflicts (which are annoying pretty much always, but especially when working on notebooks). However, those conflicts will only happen for changed notebooks, which is a relatively rare occurance (new notebooks will never present merge conflicts).
 
 Another major advantage of this second workflow is that it will give you (a watered down) sense of what it is like to collaboratively develop software.
