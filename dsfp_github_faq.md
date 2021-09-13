@@ -93,6 +93,6 @@ When there are new notebooks to grab then do the following:
 
 These lines (i) switch to *your* main branch, (ii) pulled new/changed notebooks from the primary DSFP repo, (iii) pushed *your* main branch to the cloud, (iv) switched to your `my_work` branch, and (v) merged *your* main branch by pulling the new/changed notebooks into the branch where you do your work. 
 
-It is this last step that might result in merge conflicts. The advantage of this workflow is that *your* main branch is always up to date, and, in principle, should never be polluted by accidental or unwanted changes. The downside is you may need to deal with merge conflicts (which are annoying pretty much always, but especially when working on notebooks). However, those conflicts will only happen for changed notebooks, which is a relatively rare occurance (new notebooks will never present merge conflicts).
+It is this last step that might result in merge conflicts. The advantage of this workflow is that *your* main branch is always up to date, and, in principle, should never be polluted by accidental or unwanted changes. The downside is you may need to deal with merge conflicts (which are annoying pretty much always, but especially when working on notebooks). However, those conflicts will only happen for changed notebooks, which is a relatively rare occurrence (new notebooks will never present merge conflicts).
 
 Another major advantage of this second workflow is that it will give you (a watered down) sense of what it is like to collaboratively develop software.
