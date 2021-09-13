@@ -54,11 +54,12 @@ The [DSFP repo](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions) is constantly
 For example purposes we will assume you now need to work on a notebook called IntroductionToMachineLearning.ipynb. First [pull from upstream](dsfp_github_faq.md#update-local-copy-of-dsfp-repo) to get the latest version of the repository in your main branch. 
 
 Then, copy the new notebook to your own local version, something like:
+    
     $ cp IntroductionToMachineLearning.ipynb IntroductionToMachineLearning_MyWork.ipynb
 
-And try to solve the problems in the notebook in IntroductionToMachineLearning_MyWork.ipynb. Then, if there are later any updates, when you pull from upstream you will never have conflicts.
+And try to solve the problems in the notebook in `IntroductionToMachineLearning_MyWork.ipynb`. Then, if there are later any updates, when you pull from upstream you will never have conflicts.
 
-... Of course, this defeats the purpose of version control, as one of our goals is to avoid multiple versions of the same file with slightly different names proliferating on your computer
+... Of course, this defeats the purpose of version control, as one of our goals is to avoid multiple versions of the same file with slightly different names proliferating on your computer.
 
 ## "Better" solution – fix merge conflicts
 
