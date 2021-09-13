@@ -36,6 +36,15 @@ If you have already forked the repo, and set up the main DSFP repo as upstream, 
 
     $ git pull upstream main
 
+### If you cloned this repo before 01 Sept 2021
+
+The primary branch for the DSFP repo has been transitioned from `master` to `main`. If you would like for your local repo to remain in sync with the primary branch of the DSFP repo:
+
+    $ git branch -m master main
+    $ git branch -u origin/main main
+
+(You may also wish to remove `master` from your remote `origin`, in which case you can push the new `main` branch, set it as default on GitHub and then delete, via `push` the `master` branch) 
+
 # Working on DSFP Notebooks
 
 The [DSFP repo](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions) is constantly being updated, and this means you will frequently need to [update your fork of the repository](dsfp_github_faq.md#update-local-copy-of-dsfp-repo). A downside of jupyter notebooks is that this frequently leads to merge conflicts.  Inspired by @andreiacarrillo, below I (@adamamiller) provide an outline for two possible solutions to this issue: a simple one, and a more complicated but you will get better at using git/GitHub solution.
@@ -51,7 +60,7 @@ And try to solve the problems in the notebook in IntroductionToMachineLearning_M
 
 ... Of course, this defeats the purpose of version control, as one of our goals is to avoid multiple versions of the same file with slightly different names proliferating on your computer
 
-## "Better" solution –– fix merge conflicts
+## "Better" solution – fix merge conflicts
 
 Full disclosure - merge conflicts in jupyter notebooks are annoying, because cell numbers don't always line up, etc, and it is possible to effectively "break" a notebook while editing it via a text editor such that it no longer renders correctly on the browser. But (but!) if you want to hone your git/GitHub skills this is something you should learn how to do (annoying as it may be). Here is an outline of how I (@adamamiller) would handle this:
 
