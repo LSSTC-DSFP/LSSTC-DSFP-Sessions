@@ -37,7 +37,7 @@ Tuesday, Oct 05, 2021
 
 Wednesday, Oct 06, 2021
 
- * LECTURE III  o  [Introduction to the Lomb-Scargle Periodogram](Day3/IntroductionToTheLombScarglePeriodogram.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)  – [Solutions](Day3/IntroductionToTheLombScarglePeriodogramSolutions.ipynb)
+ * LECTURE III  o  [Introduction to the Lomb-Scargle Periodogram](Day3/IntroductionToTheLombScarglePeriodogram.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)  — [Solutions](Day3/IntroductionToTheLombScarglePeriodogramSolutions.ipynb)
  * NOTEBOOK III  o  [Real World Considerations for the Lomb-Scargle Periodogram](Day3/RealWorldLombScargle.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
 
 
@@ -53,4 +53,4 @@ Thursday, Oct 07, 2021
 Friday, Oct 08, 2021
 
  * LECTURE V  o  [Signal Processing and Matched Filtering](Day5/SignalProcessingAndMatchedFiltering.pdf); M. Fishbach [:octocat:](https://github.com/mfishbach)
- * NOTEBOOK V  o  [Searching for Gravitational Wave Signals](Day5/MatchedFilteringTutorial-LLSTC-DSFP.ipynb); M. Fishbach [:octocat:](https://github.com/mfishbach)
+ * NOTEBOOK V  o  [Searching for Gravitational Wave Signals](Day5/MatchedFilteringTutorial.ipynb); M. Fishbach [:octocat:](https://github.com/mfishbach)
