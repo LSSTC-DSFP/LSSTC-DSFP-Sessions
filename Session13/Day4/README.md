@@ -2,5 +2,5 @@
 
 ## Schedule 
 
- * LECTURE IV  o  Alternative Methods to Search for Periodicity; A. Miller [:octocat:](https://github.com/adamamiller) 
- * PROBLEM IV  o Conditional Entropy; A. Miller [:octocat:](https://github.com/adamamiller)
+ * LECTURE IV  o  [Non-parameteric Measures of Periodicity](Day4/NonparametricMeasuresOfPeriodicity.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) — [Solutions](Day4/NonparametricMeasuresOfPeriodicitySolutions.ipynb)
+ * PROBLEM IV  o [Conditional Entropy](Day4/ConditionalEntropy.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
