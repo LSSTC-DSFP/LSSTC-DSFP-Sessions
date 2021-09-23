@@ -37,7 +37,7 @@ Tuesday, Oct 05, 2021
 
 Wednesday, Oct 06, 2021
 
- * LECTURE III  o  [Introduction to the Lomb-Scargle Periodogram](Day3/IntroductionToTheLombScarglePeriodogram.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
+ * LECTURE III  o  [Introduction to the Lomb-Scargle Periodogram](Day3/IntroductionToTheLombScarglePeriodogram.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)  – [Solutions](Day3/IntroductionToTheLombScarglePeriodogramSolutions.ipynb)
  * NOTEBOOK III  o  [Real World Considerations for the Lomb-Scargle Periodogram](Day3/RealWorldLombScargle.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
 
 
