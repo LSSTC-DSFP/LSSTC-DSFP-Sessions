@@ -8,5 +8,5 @@
 
 #Day 0.2 –– Visualization and Model Building
 
- * LECTURE -2  o  Building Visualizations Via Principles of Design; A. Miller [:octocat:](https://github.com/adamamiller)
+ * LECTURE -2  o  [Building Visualizations Via Principles of Design](Day0/BuildingVisualizationsViaPrincipleOfDesign.pdf); A. Miller [:octocat:](https://github.com/adamamiller) — [Problems](Day0/TooBriefVisualization.ipynb)
  * LECTURE -1  o  The Assumptions of Least Squares; A. Miller [:octocat:](https://github.com/adamamiller)
