@@ -14,8 +14,8 @@ The thirteenth session of the LSSTC DSFP focuses on time-series analysis.
 
 ## [Day 0.2](Day0) — Visualization and Model Building
 
- * LECTURE -2  o  [Building Visualizations Via Principles of Design](Day0/BuildingVisualizationsViaPrincipleOfDesign.pdf); A. Miller [:octocat:](https://github.com/adamamiller) — [Problems](Day0/TooBriefVisualization.ipynb)
- * LECTURE -1  o  [The Assumptions of Least Squares](Day0/LeastSquaresAssumptions.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
+ * LECTURE -2  o  [Building Visualizations Via Principles of Design](Day0/BuildingVisualizationsViaPrincipleOfDesign.pdf); A. Miller [:octocat:](https://github.com/adamamiller) — [Problems](Day0/TooBriefVisualization.ipynb), [Solutions](Day0/TooBriefVizSolutions.ipynb)
+ * LECTURE -1  o  [The Assumptions of Least Squares](Day0/LeastSquaresAssumptions.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) – [Solutions](Day0/LeastSquaresAssumptionsSolutions.ipynb)
 
 
 ## [Day 1](Day1) — I Saw the Sine 
