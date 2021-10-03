@@ -31,7 +31,7 @@ Monday, Oct 04, 2021
 Tuesday, Oct 05, 2021
 
  * LECTURE II  o  [An Introduction to Gaussian Processes](Day2/AnIntroductionToGaussianProcesses.pdf); R. Luger [:octocat:](https://github.com/rodluger) — [Problems](Day2/01-Introduction-to-GPs.ipynb); [Solutions](Day2/answers/01-Introduction-to-GPs.ipynb)
- * NOTEBOOK II  o  [Fast GPs](Day2/02-Fast-GPs.ipyn); R. Luger [:octocat:](https://github.com/rodluger) — [Solutions](Day2/answers/02-Fast-GPs.ipynb)
+ * NOTEBOOK II  o  [Fast GPs](Day2/02-Fast-GPs.ipynb); R. Luger [:octocat:](https://github.com/rodluger) — [Solutions](Day2/answers/02-Fast-GPs.ipynb)
  
 ## [Day 3](Day3) — Mind the Gap
 
