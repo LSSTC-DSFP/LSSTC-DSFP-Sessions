@@ -24,7 +24,7 @@ Monday, Oct 04, 2021
  
  * LECTURE 0  o  [The Inevitability of the Time Domain](Day1/InevitabilityOfTheTimeDomain.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
  * LECTURE I  o  [Introduction to Fourier Series and Transforms](Day1/IntroductionToFourierSeriesAndTransforms.ipynb); L. Bugnet [:octocat:](https://github.com/lbugnet)
- * NOTEBOOK I  o  [Introduction to Fourier Series and Transforms — Problems](Day1/IntroductionToFourierSeriesAndTransforms.ipynb); L. Bugnet [:octocat:](https://github.com/lbugnet)
+ * NOTEBOOK I  o  [Introduction to Fourier Series and Transforms — Problems](Day1/IntroductionToFourierSeriesAndTransforms.ipynb); L. Bugnet [:octocat:](https://github.com/lbugnet) – [Solutions](Day1/IntroductionToFourierSeriesAndTransformsSolutions.ipynb)
 
 ## [Day 2](Day2) — The Most Normal Process in the World
 
