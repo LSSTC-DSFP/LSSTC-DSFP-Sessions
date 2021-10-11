@@ -53,4 +53,4 @@ Thursday, Oct 07, 2021
 Friday, Oct 08, 2021
 
  * LECTURE V  o  [Signal Processing and Matched Filtering](Day5/SignalProcessingAndMatchedFiltering.pdf); M. Fishbach [:octocat:](https://github.com/mfishbach)
- * NOTEBOOK V  o  [Searching for Gravitational Wave Signals](Day5/MatchedFilteringTutorial.ipynb); M. Fishbach [:octocat:](https://github.com/mfishbach)
+ * NOTEBOOK V  o  [Searching for Gravitational Wave Signals](Day5/MatchedFilteringTutorial.ipynb); M. Fishbach [:octocat:](https://github.com/mfishbach) — [Solutions](Day5/MatchedFilteringTutorialSolutions.ipynb)
