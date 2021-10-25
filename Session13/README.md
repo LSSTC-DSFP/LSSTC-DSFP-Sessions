@@ -4,6 +4,8 @@ The thirteenth session of the LSSTC DSFP focuses on time-series analysis.
 
 # Schedule
 
+Links to instructor GitHub repos are denoted by :octocat:; links to lectures on YouTube are denoted with :movie_camera:
+
 ## [Day 0.1](Day0) — Orientation
 
  * 11:00 AM - 11:30 AM  o  Introduction to the DSFP
@@ -22,22 +24,22 @@ The thirteenth session of the LSSTC DSFP focuses on time-series analysis.
 
 Monday, Oct 04, 2021
  
- * LECTURE 0  o  [The Inevitability of the Time Domain](Day1/InevitabilityOfTheTimeDomain.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
- * LECTURE I  o  [Introduction to Fourier Series and Transforms](Day1/IntroductionToFourierSeriesAndTransforms.ipynb); L. Bugnet [:octocat:](https://github.com/lbugnet)
+ * LECTURE 0  o  [The Inevitability of the Time Domain](Day1/InevitabilityOfTheTimeDomain.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)  [:movie_camera:](https://youtu.be/jTY-Fk226QA)
+ * LECTURE I  o  [Introduction to Fourier Series and Transforms](Day1/IntroductionToFourierSeriesAndTransforms.ipynb); L. Bugnet [:octocat:](https://github.com/lbugnet)  [:movie_camera:](https://youtu.be/73V-hJr8NyM)
  * NOTEBOOK I  o  [Introduction to Fourier Series and Transforms — Problems](Day1/IntroductionToFourierSeriesAndTransforms.ipynb); L. Bugnet [:octocat:](https://github.com/lbugnet) – [Solutions](Day1/IntroductionToFourierSeriesAndTransformsSolutions.ipynb)
 
 ## [Day 2](Day2) — The Most Normal Process in the World
 
 Tuesday, Oct 05, 2021
 
- * LECTURE II  o  [An Introduction to Gaussian Processes](Day2/AnIntroductionToGaussianProcesses.pdf); R. Luger [:octocat:](https://github.com/rodluger) — [Problems](Day2/01-Introduction-to-GPs.ipynb); [Solutions](Day2/answers/01-Introduction-to-GPs.ipynb)
+ * LECTURE II  o  [An Introduction to Gaussian Processes](Day2/AnIntroductionToGaussianProcesses.pdf); R. Luger [:octocat:](https://github.com/rodluger)  [:movie_camera:](https://youtu.be/NbqltrgqGFg) — [Problems](Day2/01-Introduction-to-GPs.ipynb); [Solutions](Day2/answers/01-Introduction-to-GPs.ipynb)
  * NOTEBOOK II  o  [Fast GPs](Day2/02-Fast-GPs.ipynb); R. Luger [:octocat:](https://github.com/rodluger) — [Solutions](Day2/answers/02-Fast-GPs.ipynb)
  
 ## [Day 3](Day3) — Mind the Gap
 
 Wednesday, Oct 06, 2021
 
- * LECTURE III  o  [Introduction to the Lomb-Scargle Periodogram](Day3/IntroductionToTheLombScarglePeriodogram.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)  — [Solutions](Day3/IntroductionToTheLombScarglePeriodogramSolutions.ipynb)
+ * LECTURE III  o  [Introduction to the Lomb-Scargle Periodogram](Day3/IntroductionToTheLombScarglePeriodogram.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)  [:movie_camera:](https://youtu.be/2EwtD3Nhazs) — [Solutions](Day3/IntroductionToTheLombScarglePeriodogramSolutions.ipynb)
  * NOTEBOOK III  o  [Real World Considerations for the Lomb-Scargle Periodogram](Day3/RealWorldLombScargle.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) – [Solutions](Day3/RealWorldLombScargleSolutions.ipynb)
 
 
@@ -45,12 +47,12 @@ Wednesday, Oct 06, 2021
 
 Thursday, Oct 07, 2021
 
- * LECTURE IV  o  [Non-parameteric Measures of Periodicity](Day4/NonparametricMeasuresOfPeriodicity.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) — [Solutions](Day4/NonparametricMeasuresOfPeriodicitySolutions.ipynb)
+ * LECTURE IV  o  [Non-parameteric Measures of Periodicity](Day4/NonparametricMeasuresOfPeriodicity.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)  [:movie_camera:](https://youtu.be/d83KxB333Lg) — [Solutions](Day4/NonparametricMeasuresOfPeriodicitySolutions.ipynb)
  * PROBLEM IV  o [Conditional Entropy](Day4/ConditionalEntropy.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) – [Solutions](Day4/ConditionalEntropySolutions.ipynb)
 
 ## [Day 5](Day5) — The Match Game
 
 Friday, Oct 08, 2021
 
- * LECTURE V  o  [Signal Processing and Matched Filtering](Day5/SignalProcessingAndMatchedFiltering.pdf); M. Fishbach [:octocat:](https://github.com/mfishbach)
+ * LECTURE V  o  [Signal Processing and Matched Filtering](Day5/SignalProcessingAndMatchedFiltering.pdf); M. Fishbach [:octocat:](https://github.com/mfishbach)  [:movie_camera:](https://youtu.be/qAmMtZSNLGk)
  * NOTEBOOK V  o  [Searching for Gravitational Wave Signals](Day5/MatchedFilteringTutorial.ipynb); M. Fishbach [:octocat:](https://github.com/mfishbach) — [Solutions](Day5/MatchedFilteringTutorialSolutions.ipynb)
