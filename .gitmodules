@@ -1,8 +1,8 @@
-[submodule "Session4/Session4/KIPAC-StatisticalMethods"]
-	path = Session4/KIPAC-StatisticalMethods/
+[submodule "Session04/Session04/KIPAC-StatisticalMethods"]
+	path = Sessions/Session04/KIPAC-StatisticalMethods/
 	url = https://github.com/KIPAC/StatisticalMethods.git
 	branch = dsfp_sep17
-[submodule "Session4/KIPAC-StatisticalMethods"]
-	path = Session4/KIPAC-StatisticalMethods
+[submodule "Sessions/Session04/KIPAC-StatisticalMethods"]
+	path = Sessions/Session04/KIPAC-StatisticalMethods
 	url = https://github.com/KIPAC/StatisticalMethods.git
 	branch = dsfp_sep17
