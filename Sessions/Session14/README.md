@@ -27,12 +27,12 @@ Tuesday, Mar 08, 2022
 
  * 09:00 AM – 10:00 AM  o [Feature Engineering](Day2/FeatureEngineering.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
  * 10:00 AM – 10:30 AM  o  Break
- * 10:30 AM – 12:00 PM  o  Problem – Developing Features for Time Series Classification; A. Miller [:octocat:](https://github.com/adamamiller)
+ * 10:30 AM – 12:00 PM  o  [Problem – Developing Features for Time Series Classification](Day2/FeatureEngineering.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) – [Solutions](Day2/FeatureEngineeringSolutions.ipynb)
  * 12:00 PM – 01:30 PM  o  LUNCH
- * 01:30 PM – 03:00 PM  o  [Building a perceptron](Day2/BuildingPerceptronsForClassification.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
+ * 01:30 PM – 03:00 PM  o  [Building a perceptron](Day2/BuildingPerceptronsForClassification.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) – [Solutions](BuildingPerceptronsForClassificationSolutions.ipynb)
  * 03:00 PM – 03:30 PM  o  Break
  * 03:30 PM – 04:15 PM  o  [Introduction to Deep Learning](Day2/IntroductionToDeepLearning.pdf); A. Villar [:octocat:](https://github.com/villrv)
- * 04:15 PM – 06:00 PM  o  Problem – Building a Deep Network; A. Villar [:octocat:](https://github.com/villrv)
+ * 04:15 PM – 06:00 PM  o  [Problem – Building a Deep Network](Day2/DeeplearningBlank.ipynb); A. Villar [:octocat:](https://github.com/villrv) – [Solutions](Day2/DeeplearningSolutions.ipynb)
  * 06:30 PM – ??:?? PM  o  Group dinner
 
 
