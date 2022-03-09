@@ -44,17 +44,17 @@ Wednesday, Mar 09, 2022
  * 09:45 AM – 10:10 AM  o  Break
  * 10:10 AM – 11:30 PM  o  Problem – Autoencoders; A. Villar [:octocat:](https://github.com/villrv)
  * 11:30 PM – 01:00 PM  o  LUNCH
- * 01:00 PM – 01:45 PM  o  Advanced Deep Learning – considerations for physical data; V. Bohm [:octocat:](https://github.com/VMBoehm)
- * 01:45 PM – 02:30 PM  o  Problem – Deep Learning; V. Bohm [:octocat:](https://github.com/VMBoehm)
+ * 01:00 PM – 01:45 PM  o  Advanced Deep Learning – Introduction to Bayesian Statistics & Variational Autoencoders; V. Boehm [:octocat:](https://github.com/VMBoehm)
+ * 01:45 PM – 02:30 PM  o  Problem – [From Autoencoders to Variational Autoencoders](Day3/IntroductionToVariationalAutoencoders.ipynb); V. Boehm [:octocat:](https://github.com/VMBoehm)
  * 02:30 PM – ??:?? PM  o  Break
  
 ## Day 4 — Probabilistic Machine Learning
 
 Thursday, Mar 10, 2022
 
- * 09:00 AM – 09:45 AM  o  Probabilistic Machine Learning; V. Bohm [:octocat:](https://github.com/VMBoehm)
+ * 09:00 AM – 09:45 AM  o  Probabilistic Machine Learning & Considerations for Real Data; V. Boehm [:octocat:](https://github.com/VMBoehm)
  * 09:45 AM – 10:05 AM  o  BREAK
- * 10:05 AM – 11:30 AM  o  Estimating uncertainties with machine learning; V. Bohm [:octocat:](https://github.com/VMBoehm)
+ * 10:05 AM – 11:30 AM  o  Problem - [Estimating uncertainties with machine learning](Day4/ImprovingVAEs_and_VAEs_on_imperfect_data.ipynb); V. Boehm [:octocat:](https://github.com/VMBoehm)
  * 11:30 AM – 12:00 PM  o  Hack Day Pitch Session
  * 12:00 PM – 01:00 PM  o  LUNCH
  * 01:00 PM – 04:30 PM  o  Hack Session
