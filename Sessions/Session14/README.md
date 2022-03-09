@@ -29,7 +29,7 @@ Tuesday, Mar 08, 2022
  * 10:00 AM – 10:30 AM  o  Break
  * 10:30 AM – 12:00 PM  o  [Problem – Developing Features for Time Series Classification](Day2/FeatureEngineering.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) – [Solutions](Day2/FeatureEngineeringSolutions.ipynb)
  * 12:00 PM – 01:30 PM  o  LUNCH
- * 01:30 PM – 03:00 PM  o  [Building a perceptron](Day2/BuildingPerceptronsForClassification.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) – [Solutions](BuildingPerceptronsForClassificationSolutions.ipynb)
+ * 01:30 PM – 03:00 PM  o  [Building Perceptrons for Classification](Day2/BuildingPerceptronsForClassification.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) – [Solutions](BuildingPerceptronsForClassificationSolutions.ipynb)
  * 03:00 PM – 03:30 PM  o  Break
  * 03:30 PM – 04:15 PM  o  [Introduction to Deep Learning](Day2/IntroductionToDeepLearning.pdf); A. Villar [:octocat:](https://github.com/villrv)
  * 04:15 PM – 06:00 PM  o  [Problem – Building a Deep Network](Day2/DeeplearningBlank.ipynb); A. Villar [:octocat:](https://github.com/villrv) – [Solutions](Day2/DeeplearningSolutions.ipynb)
@@ -40,12 +40,12 @@ Tuesday, Mar 08, 2022
 
 Wednesday, Mar 09, 2022
 
- * 09:00 AM – 09:45 AM  o  Introduction to Autoencoders; A. Villar [:octocat:](https://github.com/villrv)
+ * 09:00 AM – 09:45 AM  o  [Dimensionality Reduction Representation Learning and Autoencoders](Day3/DimensionalityReductionRepresentationLearningAndAutoencoders.pdf); A. Villar [:octocat:](https://github.com/villrv)
  * 09:45 AM – 10:10 AM  o  Break
- * 10:10 AM – 11:30 PM  o  Problem – Autoencoders; A. Villar [:octocat:](https://github.com/villrv)
+ * 10:10 AM – 11:30 PM  o  [Problem – Autoencoders](Day3/AutoencodersBlank.ipynb); A. Villar [:octocat:](https://github.com/villrv) – [Solutions](Day3/AutoencodersSolutions.ipynb)
  * 11:30 PM – 01:00 PM  o  LUNCH
  * 01:00 PM – 01:45 PM  o  Advanced Deep Learning – Introduction to Bayesian Statistics & Variational Autoencoders; V. Boehm [:octocat:](https://github.com/VMBoehm)
- * 01:45 PM – 02:30 PM  o  Problem – [From Autoencoders to Variational Autoencoders](Day3/IntroductionToVariationalAutoencoders.ipynb); V. Boehm [:octocat:](https://github.com/VMBoehm)
+ * 01:45 PM – 02:30 PM  o  Problem – [From Autoencoders to Variational Autoencoders](Day3/IntroductionToVariationalAutoencoders.ipynb); V. Boehm [:octocat:](https://github.com/VMBoehm) – [Solutions](Day3/IntroductionToVariationalAutoencoders_solutions.ipynb)
  * 02:30 PM – ??:?? PM  o  Break
  
 ## Day 4 — Probabilistic Machine Learning
