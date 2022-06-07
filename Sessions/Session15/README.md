@@ -5,7 +5,7 @@ The fifteenth session of the LSSTC DSFP focuses on software engineering and data
 # Schedule
 
 
-## Day 1 — 
+## Day 1 — [Introduction to Software Engineering](Day1/)
 
 Monday, July 18, 2022
 
@@ -20,7 +20,7 @@ Monday, July 18, 2022
  * 03:30 PM – 04:30 PM  o  Introduction to Object Oriented Program; M. Meireles [:octocat:](https://github.com/marimeireles) 
  * 04:30 PM – 06:00 PM  o  Problem: OOP; M. Meireles [:octocat:](https://github.com/marimeireles)
 
-## Day 2 — 
+## Day 2 — [Vroom, Vroom, Building Fast Algorithms](Day2/)
 
 Tuesday, July 19, 2022
 
@@ -35,7 +35,7 @@ Tuesday, July 19, 2022
  * 06:30 PM – ??:?? PM  o  Group dinner
 
 
-## Day 3 — 
+## Day 3 — [I'm on (data)base](Day3/)
 
 Wednesday, July 20, 2022
 
@@ -44,7 +44,7 @@ Wednesday, July 20, 2022
  * 10:15 AM – 12:00 PM  o  Advanced Databases; S. Coughlin [:octocat:](https://github.com/scottcoughlin2014)
  * 12:00 PM – ??:?? PM  o  BREAK
  
-## Day 4 — 
+## Day 4 — [Tipping the Scale, Solutions for Large Data Problems](Day4/)
 
 Thursday, July 21, 2022
 
@@ -53,12 +53,12 @@ Thursday, July 21, 2022
  * 10:30 AM – 12:00 PM  o  Problem: Parallel Python; C. Fields [:octocat:](https://github.com/carlnotsagan)
  * 12:00 PM – 01:30 PM  o  LUNCH 
  * 01:30 PM – 02:30 PM  o  Reproducible Software; M. Meireles [:octocat:](https://github.com/marimeireles) 
- * 02:30 PM – 03:00 PM  o  TBD
+ * 02:30 PM – 03:00 PM  o  The Importance of Software Licenses; D. Bouquin [:octocat:](https://github.com/dbouquin)
  * 02:30 PM – 03:30 PM  o  Break
  * 03:30 PM – 04:00 PM  o  NoSQL; S. Coughlin [:octocat:](https://github.com/scottcoughlin2014) 
  * 04:00 PM – 06:00 PM  o  Data Wrangling; A. Miller [:octocat:](https://github.com/adamamiller)
  
-## Day 5 — Hack Session
+## Day 5 — [Accelerating Calculations with GPUs](Day5/)
 
 Friday, July 22, 2022
 
