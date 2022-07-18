@@ -1,0 +1,267 @@
+Exercise complete the class:
+============================
+
+class Song:
+
+    def __init__(self, title, artist, album, track_number):
+        self.title = title
+        self.artist = artist
+        self.album = album
+        self.track_number = track_number
+
+        artist.add_song(self)
+
+
+class Album:
+
+    def __init__(self, title, artist, year):
+        self.title = title
+        self.artist = artist
+        self.year = year
+
+        self.tracks = []
+
+        artist.add_album(self)
+
+    def add_track(self, title, artist=None):
+        if artist is None:
+            artist = self.artist
+
+        track_number = len(self.tracks)
+
+        song = Song(title, artist, self, track_number)
+
+        self.tracks.append(song)
+
+
+class Artist:
+    def __init__(self, name):
+        self.name = name
+
+        self.albums = []
+        self.songs = []
+
+    def add_album(self, album):
+        self.albums.append(album)
+
+    def add_song(self, song):
+        self.songs.append(song)
+
+
+class Playlist:
+    def __init__(self, name):
+        self.name = name
+        self.songs = []
+
+    def add_song(self, song):
+        self.songs.append(song)
+
+band = Artist("Bob's Awesome Band")
+album = Album("Bob's First Single", band, 2013)
+album.add_track("A Ballad about Cheese")
+album.add_track("A Ballad about Cheese (dance remix)")
+album.add_track("A Third Song to Use Up the Rest of the Space")
+
+playlist = Playlist("My Favourite Songs")
+
+for song in album.tracks:
+    playlist.add_song(song)
+
+
+Exercise Inheritance:
+=====================
+
+class Student:
+    def __init__(self, name, student_number):
+        self.name = name
+        self.student_number = student_number
+        self.classes = []
+
+    def enrol(self, course_running):
+        self.classes.append(course_running)
+        course_running.add_student(self)
+
+
+class Department:
+    def __init__(self, name, department_code):
+        self.name = name
+        self.department_code = department_code
+        self.courses = {}
+
+    def add_course(self, description, course_code, credits):
+        self.courses[course_code] = Course(description, course_code, credits, self)
+        return self.courses[course_code]
+
+
+class Course:
+    def __init__(self, description, course_code, credits, department):
+        self.description = description
+        self.course_code = course_code
+        self.credits = credits
+        self.department = department
+        self.department.add_course(self)
+
+        self.runnings = []
+
+    def add_running(self, year):
+        self.runnings.append(CourseRunning(self, year))
+        return self.runnings[-1]
+
+
+class CourseRunning:
+    def __init__(self, course, year):
+        self.course = course
+        self.year = year
+        self.students = []
+
+    def add_student(self, student):
+        self.students.append(student)
+
+
+maths_dept = Department("Mathematics and Applied Mathematics", "MAM")
+mam1000w = maths_dept.add_course("Mathematics 1000", "MAM1000W", 1)
+mam1000w_2013 = mam1000w.add_running(2013)
+
+bob = Student("Bob", "Smith")
+bob.enrol(mam1000w_2013)
+
+
+Exercise Exception:
+===================
+
+class DuplicateUsernameError(Exception):
+    pass
+
+class InvalidAgeError(Exception):
+    pass
+
+class UnderageError(Exception):
+    pass
+
+class InvalidEmailError(Exception):
+    pass
+
+# A class for a user's data
+
+class User:
+    def __init__(self, username, email):
+        self.username = username
+        self.email = email
+
+example_list = [
+    ("jane", "jane@example.com", 21),
+    ("bob", "bob@example", 19),
+    ("jane", "jane2@example.com", 25),
+    ("steve", "steve@somewhere", 15),
+    ("joe", "joe", 23),
+    ("anna", "anna@example.com", -3),
+]
+
+directory = {}
+
+for username, email, age in example_list:
+    try:
+        if username in directory:
+            raise DuplicateUsernameError()
+        if age < 0:
+            raise InvalidAgeError()
+        if age < 16:
+            raise UnderageError()
+
+        email_parts = email.split('@')
+        if len(email_parts) != 2 or not email_parts[0] or not email_parts[1]:
+            raise InvalidEmailError()
+
+    except DuplicateUsernameError:
+        print("Username '%s' is in use." % username)
+    except InvalidAgeError:
+        print("Invalid age: %d" % age)
+    except UnderageError:
+        print("User %s is underage." % username)
+    except InvalidEmailError:
+        print("'%s' is not a valid email address." % email)
+
+    else:
+        directory[username] = User(username, email)
+        
+Exercise interfaces:
+====================
+
+class Box:
+    def add(self, *items):
+        raise NotImplementedError()
+
+    def empty(self):
+        raise NotImplementedError()
+
+    def count(self):
+        raise NotImplementedError()
+
+
+class Item:
+    def __init__(self, name, value):
+        self.name = name
+        self.value = value
+
+
+class ListBox(Box):
+    def __init__(self):
+        self._items = []
+
+    def add(self, *items):
+        self._items.extend(items)
+
+    def empty(self):
+        items = self._items
+        self._items = []
+        return items
+
+    def count(self):
+        return len(self._items)
+
+
+class DictBox(Box):
+    def __init__(self):
+        self._items = {}
+
+    def add(self, *items):
+        self._items.update(dict((i.name, i) for i in items))
+
+    def empty(self):
+        items = list(self._items.values())
+        self._items = {}
+        return items
+
+    def count(self):
+        return len(self._items)
+        
+def repack_boxes(*boxes):
+    items = []
+
+    for box in boxes:
+        items.extend(box.empty())
+
+    while items:
+        for box in boxes:
+            try:
+                box.add(items.pop())
+            except IndexError:
+                break
+
+box1 = ListBox()
+for i in range(20):
+    box1.add(Item(str(i), i))
+
+box2 = ListBox()
+for i in range(9):
+    box2.add(Item(str(i), i))
+
+box3 = DictBox()
+for i in range(5):
+    box3.add(Item(str(i), i))
+
+repack_boxes(box1, box2, box3)
+
+print(box1.count())
+print(box2.count())
+print(box3.count())
