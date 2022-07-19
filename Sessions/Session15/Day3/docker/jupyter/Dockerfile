@@ -6,6 +6,9 @@ RUN conda install -c conda-forge \
     matplotlib \
     psycopg2-binary \
     django \
+    h5py \
     jupyterlab
+
+RUN pip install ipython-sql pgspecial SQLAlchemy
 
 CMD ["jupyter-lab","--ip=0.0.0.0","--no-browser","--allow-root"]
