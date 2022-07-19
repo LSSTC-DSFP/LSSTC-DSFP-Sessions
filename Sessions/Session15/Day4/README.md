@@ -9,6 +9,5 @@
  * 01:30 PM – 02:30 PM  o  Reproducible Software; M. Meireles [:octocat:](https://github.com/marimeireles) 
  * 02:30 PM – 03:00 PM  o  The Importance of Software Licenses; D. Bouquin [:octocat:](https://github.com/dbouquin)
  * 02:30 PM – 03:30 PM  o  Break
- * 03:30 PM – 04:00 PM  o  NoSQL; S. Coughlin [:octocat:](https://github.com/scottcoughlin2014) 
- * 04:00 PM – 06:00 PM  o  Data Wrangling; A. Miller [:octocat:](https://github.com/adamamiller)
- 
+ * 03:30 PM – 04:00 PM  o  NoSQL databases: MongoDB; S. Coughlin [:octocat:](https://github.com/scottcoughlin2014) 
+ * 04:00 PM – 06:00 PM  o  Problem: NoSQL queries; S. Coughlin [:octocat:](https://github.com/scottcoughlin2014) 
