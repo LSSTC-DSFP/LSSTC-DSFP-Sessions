@@ -7,23 +7,23 @@ GRANT ALL PRIVILEGES ON DATABASE :DB_NAME TO :DB_USER;
 ALTER ROLE :DB_USER CREATEDB;
 \connect :DB_NAME;
 SET ROLE :DB_USER;
-CREATE TABLE public.imbd_directors
+CREATE TABLE public.imdb_directors
 (
     director_id bigint,
     first_name text,
     last_name text
 );
-CREATE TABLE public.imbd_movies_directors
+CREATE TABLE public.imdb_movies_directors
 (   
     director_id bigint,
     movie_id bigint
 );
-CREATE TABLE public.imbd_movies_genres
+CREATE TABLE public.imdb_movies_genres
 (   
     movie_id bigint,
     genre text
 );
-CREATE TABLE public.imbd_movies
+CREATE TABLE public.imdb_movies
 (
     movie_id bigint,
     name text,
@@ -31,7 +31,7 @@ CREATE TABLE public.imbd_movies
     rank real
 );
 SET ROLE postgres;
-COPY public.imbd_directors FROM '/docker-entrypoint-initdb.d/IMDB-directors.csv' DELIMITER ',' CSV HEADER;
-COPY public.imbd_movies_genres FROM '/docker-entrypoint-initdb.d/IMDB-movies_genres.csv' DELIMITER ',' CSV HEADER;
-COPY public.imbd_movies_directors FROM '/docker-entrypoint-initdb.d/IMDB-movies_directors.csv' DELIMITER ',' CSV HEADER;
-COPY public.imbd_movies FROM '/docker-entrypoint-initdb.d/IMDB-movies.csv' DELIMITER ',' CSV HEADER;
+COPY public.imdb_directors FROM '/docker-entrypoint-initdb.d/IMDB-directors.csv' DELIMITER ',' CSV HEADER;
+COPY public.imdb_movies_genres FROM '/docker-entrypoint-initdb.d/IMDB-movies_genres.csv' DELIMITER ',' CSV HEADER;
+COPY public.imdb_movies_directors FROM '/docker-entrypoint-initdb.d/IMDB-movies_directors.csv' DELIMITER ',' CSV HEADER;
+COPY public.imdb_movies FROM '/docker-entrypoint-initdb.d/IMDB-movies.csv' DELIMITER ',' CSV HEADER;

@@ -5,8 +5,6 @@ RUN conda install -c conda-forge \
     pandas \
     matplotlib \
     psycopg2-binary \
-    django \
-    h5py \
     jupyterlab
 
 RUN pip install ipython-sql pgspecial SQLAlchemy
