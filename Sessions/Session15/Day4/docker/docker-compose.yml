@@ -1,0 +1,36 @@
+version: '3.5'
+
+services:
+  mongo:
+    image: mongo
+    container_name: 'mongo'
+    ports:
+      - "27017:27017"
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=${DB_USER}
+      - MONGO_INITDB_ROOT_PASSWORD=${DB_PASSWORD}
+
+  mongo_admin:
+    image: mongo-express
+    container_name: 'mongoadmin'
+    depends_on:
+      - mongo
+    links:
+      - mongo
+    ports:
+      - "8081:8081"
+
+  jupyter_mongo:
+    build:
+      context: ./jupyter/
+    ports:
+      - 8888:8888
+    restart: always
+    environment:
+      JUPYTER_TOKEN: "Session15"
+    volumes:
+        - ../:/Session15/Day4
+    depends_on:
+      - mongo
+    links:
+      - mongo
