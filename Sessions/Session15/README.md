@@ -58,7 +58,7 @@ Thursday, July 21, 2022
  * 02:30 PM – 03:00 PM  o  The Importance of Software Licenses; D. Bouquin [:octocat:](https://github.com/dbouquin)
  * 02:30 PM – 03:30 PM  o  Break
  * 03:30 PM – 04:00 PM  o  [NoSQL databases: MongoDB](Day4/LSSTC-DSFP-Session15-Day4-NoSQL-databases-MongoDB.pdf); S. Coughlin [:octocat:](https://github.com/scottcoughlin2014) 
- * 04:00 PM – 06:00 PM  o  [Problem: NoSQL queries](Day4/MongoDB.ipynb)[Solution](Day4/MongoDB-answers.ipynb); S. Coughlin [:octocat:](https://github.com/scottcoughlin2014) 
+ * 04:00 PM – 06:00 PM  o  [Problem: NoSQL queries](Day4/MongoDB.ipynb) [Solution](Day4/MongoDB-answers.ipynb); S. Coughlin [:octocat:](https://github.com/scottcoughlin2014) 
  
 ## Day 5 — [Accelerating Calculations with GPUs](Day5/)
 
