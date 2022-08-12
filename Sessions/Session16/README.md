@@ -1,4 +1,10 @@
-Day 0 — Introduction for the New Cohort 
+# Session 16
+
+The sixteenth session of the LSSTC DSFP focuses on Statistics and Bayesian Inference
+
+# Schedule
+
+## Day 0 -- Introduction for the New Cohort 
 Sunday, Sep 18, 2022 
 * 09:00 AM - 10:00 AM Registration & Breakfast 
 * 10:00 AM - 10:30 AM Incoming Student Survey 
@@ -10,7 +16,7 @@ Sunday, Sep 18, 2022
 * 03:30 PM - 04:00 PM o Break 
 * 04:00 PM - 05:00 PM [Topic from alternate DSFP session - Probably ML]  
  
-Day 1: Probability and Introduction to Bayes 
+## Day 1 -- Probability and Introduction to Bayes 
 Monday Sep 19, 2022
 * 08:00 AM – 09:00 AM o Registration 
 * 09:00 AM – 09:30 AM o Meet the new instructors 
@@ -25,7 +31,7 @@ Monday Sep 19, 2022
 * 03:30 PM – 04:30 PM o Introduction to Bayesian Statistics; DJ 
 * 04:30 PM – 06:00 PM o  Problem: Introduction to Bayesian Statistics/Sampling/Metropolis Hastings; DJ 
  
-Day 2 –– Sampling and Model building  
+## Day 2 –– Sampling and Model building  
 Tuesday, Sep 20, 2022
 * 08:30 AM - 09:00 AM o Breakfast 
 * 09:00 AM - 09:45 AM o An Introduction to Sampling, PyMC – DJ  
@@ -38,14 +44,14 @@ Tuesday, Sep 20, 2022
 * 04:30 PM - 06:00 PM o Common distributions (?), B Scott  
 * 06:00 PM - ??:?? PM o Group dinner 
  
-Day 3 — Graphical Models 
+## Day 3 — Graphical Models 
 Wednesday, Sep 21, 2022
 * 09:00 AM – 09:45 AM o  Probabilistic Graphical Models, Adrian Price-Whelan  
 * 09:45 AM – 10:15 AM o Break 
 * 10:15 AM – 12:00 PM o  Problem: Probabilistic Graphical Models, Adrian Price-Whelan  
 * 12:00 PM – ??:?? PM o BREAK 
 
-Day 4 — Hierarchical Models and Model Comparison  
+## Day 4 — Hierarchical Models and Model Comparison  
 Thursday, Sep 22, 2022 
 * 09:00 AM – 10:00 AM o Hierarchical Models; Adrian Price-Whelan  
 * 10:00 AM – 10:30 AM o Break 
@@ -56,7 +62,7 @@ Thursday, Sep 22, 2022
 * 04:00 PM – 04:30 PM o Break 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
  
-Day 5 — Likelihood Free Inference or Other Topic 
+## Day 5 — Likelihood Free Inference or Other Topic 
 Friday, Sep 23, 2022
 * 09:00 AM – 10:15 AM o Introduction to Likelihood-Free Inference or Alternate Topic, A Malz 
 * 10:15 AM – 10:30 AM o BREAK 
