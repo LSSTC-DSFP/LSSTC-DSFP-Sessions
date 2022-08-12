@@ -2,8 +2,8 @@ Day 0 — Introduction for the New Cohort
 Sunday, Sep 18, 2022 
 * 09:00 AM - 10:00 AM Registration & Breakfast 
 * 10:00 AM - 10:30 AM Incoming Student Survey 
-* 10:30 AM - 12:00 PM Introduction to LSST; B Scott? A Miller? 
-* 12:00 PM - 12:15 PM Goals of the DSFP; B Scott 
+* 10:30 AM - 12:00 PM Introduction to the Vera C Rubin Observaotry and Legacy Survey of Space & Time; L. Walkowicz
+* 12:00 PM - 12:15 PM Goals of the DSFP; L. Walkowicz
 * 12:15 PM - 01:30 PM LUNCH 
 * 01:30 PM - 02:00 PM  A Brief Introduction to git/GitHub; B Scott 
 * 02:00 PM - 03:30 PM Building Visualizations Via Principles of Design/Python Diagnostics; A. Miller? 
