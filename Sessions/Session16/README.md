@@ -32,8 +32,8 @@ Tuesday, Sep 20, 2022
 * 09:45 AM - 10:15 AM o Break 
 * 10:30 AM - 12:00 PM o Problem –– PyMC applied to real data?; DJ  
 * 12:00 PM - 01:30 PM o LUNCH 
-* 01:30 PM - 02:30 PM o Experimental Design/Metrics; A Malz  
-* 02:30 PM - 04:00 PM o Problem –– Experimental Design/Metrics, A Malz  
+* 01:30 PM - 02:30 PM o Experimental Design Metrics/Model Comparison/Bayes Factor; A Malz  
+* 02:30 PM - 04:00 PM o Problem –– Experimental  Problem: Metrics/Model Comparison/Bayes Factor, A Malz  
 * 04:00 PM - 04:30 PM o BREAK 
 * 04:30 PM - 06:00 PM o Common distributions (?), B Scott  
 * 06:00 PM - ??:?? PM o Group dinner 
@@ -51,8 +51,8 @@ Thursday, Sep 22, 2022
 * 10:00 AM – 10:30 AM o Break 
 * 10:30 AM – 12:00 PM o  Problem: Hierarchical Models; Adrian Price-Whelan  
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o Model Comparison/Bayes Factor; A Malz 
-* 02:30 PM – 04:00 PM o Problem: Model Comparison/Bayes Factor; A Malz 
+* 01:30 PM – 02:30 PM o Experimental Design; A Malz 
+* 02:30 PM – 04:00 PM o Problem –– Experimental Design; A Malz 
 * 04:00 PM – 04:30 PM o Break 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
  
