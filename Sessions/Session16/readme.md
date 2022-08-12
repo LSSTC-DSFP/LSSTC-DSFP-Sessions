@@ -56,10 +56,10 @@ Thursday, July 21, 2022
 * 04:00 PM – 04:30 PM o Break 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
  
-Day 5 — Likelihood Free Inference  
-* 09:00 AM – 10:15 AM o Introduction to Likelihood-Free Inference, A Malz 
+Day 5 — Likelihood Free Inference or Other Topic 
+* 09:00 AM – 10:15 AM o Introduction to Likelihood-Free Inference or Alternate Topic, A Malz 
 * 10:15 AM – 10:30 AM o BREAK 
-* 10:30 AM – 12:00 AM o  Problem: Likelihood-Free Inference, A Malz  
+* 10:30 AM – 12:00 AM o  Problem: Likelihood-Free Inference or Alternate Topic, A Malz  
 * 12:00 PM – 01:00 PM o LUNCH 
 * 01:00 PM – 04:30 PM o Hack Session;  
 * 04:30 PM – 05:00 PM o Hack tag–up & Meeting wrap up 
