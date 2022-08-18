@@ -4,7 +4,7 @@ The sixteenth session of the LSSTC DSFP focuses on Statistics and Bayesian Infer
 
 # Schedule
 
-## Day 0 -- The Beginning (Introduction for the New Cohort)
+## Day 0 -- The Beginning | Introduction for the New Cohort
 
 "The story so far: In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move."
 
@@ -21,7 +21,7 @@ Sunday, Sep 18, 2022
 * 03:30 PM - 04:00 PM o Break 
 * 04:00 PM - 05:00 PM [Topic from alternate DSFP session - Probably ML]  
  
-## Day 1 -- Bayes or Bust? (Probability and Introduction to Bayes)
+## Day 1 -- Bayes or Bust? | (Probability and Introduction to Bayes)
 
 "On voit, par cet Essai, que la théorie des probabilités n'est, au fond, que le bon sens réduit au calcul."
 
