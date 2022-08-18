@@ -6,7 +6,7 @@ The sixteenth session of the LSSTC DSFP focuses on Statistics and Bayesian Infer
 
 ## Day 0 -- Introduction for the New Cohort 
 Sunday, Sep 18, 2022 
-* 09:00 AM - 10:00 AM Registration & Breakfast 
+* 09:00 AM - 10:00 AM Registration
 * 10:00 AM - 10:30 AM Incoming Student Survey 
 * 10:30 AM - 12:00 PM Introduction to the Vera C Rubin Observatory and Legacy Survey of Space & Time; L. Walkowicz
 * 12:00 PM - 12:15 PM Goals of the DSFP; L. Walkowicz
@@ -33,7 +33,6 @@ Monday Sep 19, 2022
  
 ## Day 2 –– Sampling and Model building  
 Tuesday, Sep 20, 2022
-* 08:30 AM - 09:00 AM o Breakfast 
 * 09:00 AM - 09:45 AM o An Introduction to Sampling, PyMC – DJ  
 * 09:45 AM - 10:15 AM o Break 
 * 10:30 AM - 12:00 PM o Problem –– PyMC applied to real data?; DJ  
