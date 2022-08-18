@@ -5,6 +5,11 @@ The sixteenth session of the LSSTC DSFP focuses on Statistics and Bayesian Infer
 # Schedule
 
 ## Day 0 -- Introduction for the New Cohort 
+
+"The story so far: In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move."
+
+-- Douglas Adams 
+
 Sunday, Sep 18, 2022 
 * 09:00 AM - 10:00 AM Registration
 * 10:00 AM - 10:30 AM Incoming Student Survey 
