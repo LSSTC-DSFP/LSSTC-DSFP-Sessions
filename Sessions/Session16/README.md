@@ -37,8 +37,8 @@ Tuesday, Sep 20, 2022
 * 09:45 AM - 10:15 AM o Break 
 * 10:30 AM - 12:00 PM o Problem –– PyMC applied to real data?; DJ  
 * 12:00 PM - 01:30 PM o LUNCH 
-* 01:30 PM - 02:30 PM o Experimental Design Metrics/Model Comparison/Bayes Factor; A Malz  
-* 02:30 PM - 04:00 PM o Problem –– Experimental  Problem: Metrics/Model Comparison/Bayes Factor, A Malz  
+* 01:30 PM - 02:30 PM o An introduction to comparison metrics; A Malz  
+* 02:30 PM - 04:00 PM o Problem –– Problem: An introduction to comparison metrics, A Malz  
 * 04:00 PM - 04:30 PM o BREAK 
 * 04:30 PM - 06:00 PM o Common distributions (?), B Scott  
 * 06:00 PM - ??:?? PM o Group dinner 
@@ -56,16 +56,16 @@ Thursday, Sep 22, 2022
 * 10:00 AM – 10:30 AM o Break 
 * 10:30 AM – 12:00 PM o  Problem: Hierarchical Models; Adrian Price-Whelan  
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o Experimental Design; A Malz 
-* 02:30 PM – 04:00 PM o Problem –– Experimental Design; A Malz 
+* 01:30 PM – 02:30 PM o Experimental design for decision-making; A Malz 
+* 02:30 PM – 04:00 PM o Problem –– Experimental design for decision-making; A Malz 
 * 04:00 PM – 04:30 PM o Break 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
  
 ## Day 5 — Likelihood Free Inference or Other Topic 
 Friday, Sep 23, 2022
-* 09:00 AM – 10:15 AM o Introduction to Likelihood-Free Inference or Alternate Topic, A Malz 
+* 09:00 AM – 10:15 AM o Overflow from Experimental Design/Comparison Metrics or Simulation/Emulation Topic/LFI, A Malz 
 * 10:15 AM – 10:30 AM o BREAK 
-* 10:30 AM – 12:00 AM o  Problem: Likelihood-Free Inference or Alternate Topic, A Malz  
+* 10:30 AM – 12:00 AM o  Overflow from Experimental Design/Comparison Metrics or Simulation/Emulation Topic/LFI, A Malz  
 * 12:00 PM – 01:00 PM o LUNCH 
 * 01:00 PM – 04:30 PM o Hack Session;  
 * 04:30 PM – 05:00 PM o Hack tag–up & Meeting wrap up 
