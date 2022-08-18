@@ -22,6 +22,13 @@ Sunday, Sep 18, 2022
 * 04:00 PM - 05:00 PM [Topic from alternate DSFP session - Probably ML]  
  
 ## Day 1 -- Probability and Introduction to Bayes 
+
+"On voit, par cet Essai, que la théorie des probabilités n'est, au fond, que le bon sens réduit au calcul; elle fait apprécier avec exactitude ce que les esprits justes sentent par une sorte d'instinct, sans qu'ils puissent souvent s'en rendre compte."
+
+("One sees, from this Essay, that the theory of probabilities is basically just common sense reduced to calculus; it makes one appreciate with exactness that which accurate minds feel with a sort of instinct, often without being able to account for it.")
+
+-- Pierre-Simon Laplace
+
 Monday Sep 19, 2022
 * 08:00 AM – 09:00 AM o Registration 
 * 09:00 AM – 09:30 AM o Meet the new instructors 
@@ -37,6 +44,11 @@ Monday Sep 19, 2022
 * 04:30 PM – 06:00 PM o  Problem: Introduction to Bayesian Statistics/Sampling/Metropolis Hastings; DJ 
  
 ## Day 2 –– Sampling and Model building  
+
+"Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin."
+
+-- John Von Neumann
+
 Tuesday, Sep 20, 2022
 * 09:00 AM - 09:45 AM o An Introduction to Sampling, PyMC – DJ  
 * 09:45 AM - 10:15 AM o Break 
@@ -49,6 +61,11 @@ Tuesday, Sep 20, 2022
 * 06:00 PM - ??:?? PM o Group dinner 
  
 ## Day 3 — Graphical Models 
+
+"Numerical quantities focus on expected values, graphical summaries on unexpected values."
+
+-- John Tukey 
+
 Wednesday, Sep 21, 2022
 * 09:00 AM – 09:45 AM o  Probabilistic Graphical Models, Adrian Price-Whelan  
 * 09:45 AM – 10:15 AM o Break 
@@ -56,6 +73,11 @@ Wednesday, Sep 21, 2022
 * 12:00 PM – ??:?? PM o BREAK 
 
 ## Day 4 — Hierarchical Models and Model Comparison  
+
+"The best time to plan an experiment is after you've done it."
+
+-- R.A. Fisher
+
 Thursday, Sep 22, 2022 
 * 09:00 AM – 10:00 AM o Hierarchical Models; Adrian Price-Whelan  
 * 10:00 AM – 10:30 AM o Break 
@@ -67,6 +89,11 @@ Thursday, Sep 22, 2022
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
  
 ## Day 5 — Likelihood Free Inference or Other Topic 
+
+"Polynomials are notoriously untrustworthy when extrapolated."
+
+-- Gertrude Cox 
+
 Friday, Sep 23, 2022
 * 09:00 AM – 10:15 AM o Overflow from Experimental Design/Comparison Metrics or Simulation/Emulation Topic/LFI, A Malz 
 * 10:15 AM – 10:30 AM o BREAK 
