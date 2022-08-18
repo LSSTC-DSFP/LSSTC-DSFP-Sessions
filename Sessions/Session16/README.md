@@ -23,9 +23,9 @@ Sunday, Sep 18, 2022
  
 ## Day 1 -- Probability and Introduction to Bayes 
 
-"On voit, par cet Essai, que la théorie des probabilités n'est, au fond, que le bon sens réduit au calcul; elle fait apprécier avec exactitude ce que les esprits justes sentent par une sorte d'instinct, sans qu'ils puissent souvent s'en rendre compte."
+"On voit, par cet Essai, que la théorie des probabilités n'est, au fond, que le bon sens réduit au calcul."
 
-("One sees, from this Essay, that the theory of probabilities is basically just common sense reduced to calculus; it makes one appreciate with exactness that which accurate minds feel with a sort of instinct, often without being able to account for it.")
+(One sees, from this Essay, that the theory of probabilities is basically just common sense reduced to calculus.)
 
 -- Pierre-Simon Laplace
 
