@@ -33,7 +33,7 @@ Monday Sep 19, 2022
 * 08:00 AM – 09:00 AM o Registration 
 * 09:00 AM – 09:30 AM o Meet the new instructors 
 * 09:30 AM – 09:45 AM o Introduction to hack sessions 
-* 09:30 AM – 10:30 AM o  Understanding Probability, B. Scott 
+* 09:45 AM – 10:30 AM o  Understanding Probability, B. Scott 
 * 10:30 AM – 11:00 AM o Break 
 * 11:00 AM – 12:00 PM o  Problem: Understanding Probability, B. Scott 
 * 12:00 PM – 01:30 PM o LUNCH 
@@ -50,14 +50,15 @@ Monday Sep 19, 2022
 -- John Von Neumann
 
 Tuesday, Sep 20, 2022
-* 09:00 AM - 09:45 AM o An Introduction to Sampling, PyMC – DJ  
-* 09:45 AM - 10:15 AM o Break 
+* 09:00 AM - 10:00 AM o An Introduction to Sampling, PyMC – DJ  
+* 10:00 AM - 10:30 AM o Break 
 * 10:30 AM - 12:00 PM o Problem –– PyMC applied to real data?; DJ  
 * 12:00 PM - 01:30 PM o LUNCH 
 * 01:30 PM - 02:30 PM o An introduction to comparison metrics; A Malz  
-* 02:30 PM - 04:00 PM o Problem –– Problem: An introduction to comparison metrics, A Malz  
+* 02:30 PM - 04:00 PM o Problem –– Problem: An introduction to comparison metrics; A Malz  
 * 04:00 PM - 04:30 PM o BREAK 
-* 04:30 PM - 06:00 PM o Common distributions (?), B Scott  
+* 04:30 PM - 05:15 PM o Priors, Likelihoods, Posteriors, and all that; B Scott  
+* 05:15 PM - 06:00 PM o Problem: Priors, Likelihoods, Posteriors, and all that; B Scott
 * 06:00 PM - ??:?? PM o Group dinner 
  
 ## Day 3 — Graphical Models 
@@ -95,11 +96,11 @@ Thursday, Sep 22, 2022
 -- Gertrude Cox 
 
 Friday, Sep 23, 2022
-* 9:00 AM - 9:45 AM o Professional Development I: Elevator Pitches 
+* 9:00 AM - 9:45 AM o Professional Development I: Elevator Pitches; L. Walkowicz
 * 09:45 AM – 10:45 AM o Overflow from Experimental Design/Comparison Metrics or Simulation/Emulation Topic/LFI, A Malz 
 * 10:45 AM – 11:00 AM o BREAK 
 * 11:00 AM – 12:00 PM o  PROBLEM: Overflow from Experimental Design/Comparison Metrics or Simulation/Emulation Topic/LFI, A Malz  
 * 12:00 PM – 01:00 PM o LUNCH 
 * 01:00 PM – 04:30 PM o Hack Session;  
 * 04:30 PM – 05:00 PM o Hack tag–up & Meeting wrap up 
-* 05:00 PM – 6:00 PM o Professional Development: L. Walkowicz  
+* 05:00 PM – 6:00 PM o Professional Development II; L. Walkowicz  
