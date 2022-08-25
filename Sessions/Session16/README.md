@@ -33,9 +33,9 @@ Monday Sep 19, 2022
 * 08:00 AM – 09:00 AM o Registration 
 * 09:00 AM – 09:30 AM o Meet the new instructors 
 * 09:30 AM – 09:45 AM o Introduction to hack sessions 
-* 09:45 AM – 10:30 AM o  Understanding Probability, B. Scott 
+* 09:45 AM – 10:30 AM o  Introduction to Probability and its Applications, B. Scott 
 * 10:30 AM – 11:00 AM o Break 
-* 11:00 AM – 12:00 PM o  Problem: Understanding Probability, B. Scott 
+* 11:00 AM – 12:00 PM o  Problem: Introduction to Probability and its Applications, B. Scott 
 * 12:00 PM – 01:30 PM o LUNCH 
 * 01:30 PM – 02:30 PM o  Understanding Data/Optimization/Classical Inference A. Miller   
 * 02:30 PM – 03:30 PM o  Problem: MLE/Optimization; A. Miller 
