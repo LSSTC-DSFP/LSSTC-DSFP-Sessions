@@ -95,9 +95,10 @@ Thursday, Sep 22, 2022
 -- Gertrude Cox 
 
 Friday, Sep 23, 2022
-* 09:00 AM – 10:15 AM o Overflow from Experimental Design/Comparison Metrics or Simulation/Emulation Topic/LFI, A Malz 
-* 10:15 AM – 10:30 AM o BREAK 
-* 10:30 AM – 12:00 AM o  Overflow from Experimental Design/Comparison Metrics or Simulation/Emulation Topic/LFI, A Malz  
+* 9:00 AM - 9:45 AM o Professional Development I: Elevator Pitches 
+* 09:45 AM – 10:45 AM o Overflow from Experimental Design/Comparison Metrics or Simulation/Emulation Topic/LFI, A Malz 
+* 10:45 AM – 11:00 AM o BREAK 
+* 11:00 AM – 12:00 PM o  PROBLEM: Overflow from Experimental Design/Comparison Metrics or Simulation/Emulation Topic/LFI, A Malz  
 * 12:00 PM – 01:00 PM o LUNCH 
 * 01:00 PM – 04:30 PM o Hack Session;  
 * 04:30 PM – 05:00 PM o Hack tag–up & Meeting wrap up 
