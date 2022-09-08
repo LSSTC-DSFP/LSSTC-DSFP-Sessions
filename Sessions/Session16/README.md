@@ -17,9 +17,9 @@ Sunday, Sep 18, 2022
 * 12:00 PM - 12:15 PM Goals of the DSFP; L. Walkowicz
 * 12:15 PM - 01:30 PM LUNCH 
 * 01:30 PM - 02:00 PM  A Brief Introduction to git/GitHub; B Scott 
-* 02:00 PM - 03:30 PM Building Visualizations Via Principles of Design/Python Diagnostics; A. Miller? 
+* 02:00 PM - 03:30 PM Building Visualizations Via Principles of Design; A. Miller
 * 03:30 PM - 04:00 PM o Break 
-* 04:00 PM - 05:00 PM [Topic from alternate DSFP session - Probably ML]  
+* 04:00 PM - 05:00 PM Introduction to Machine Learning; A. Miller 
  
 ## Day 1 -- Bayes or Bust? | (Probability and Introduction to Bayes)
 
@@ -37,8 +37,8 @@ Monday Sep 19, 2022
 * 10:30 AM – 11:00 AM o Break 
 * 11:00 AM – 12:00 PM o  Problem: Introduction to Probability and its Applications, B. Scott 
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o  Understanding Data/Optimization/Classical Inference A. Miller   
-* 02:30 PM – 03:30 PM o  Problem: MLE/Optimization; A. Miller 
+* 01:30 PM – 02:30 PM o  Understanding Data, Optimization, and Classical Inference A. Miller   
+* 02:30 PM – 03:30 PM o  Problem: Optimization; A. Miller 
 * 03:30 PM – 04:00 PM o Break 
 * 03:30 PM – 04:30 PM o Introduction to Bayesian Statistics; DJ 
 * 04:30 PM – 06:00 PM o  Problem: Introduction to Bayesian Statistics/Sampling/Metropolis Hastings; DJ 
@@ -89,7 +89,7 @@ Thursday, Sep 22, 2022
 * 04:00 PM – 04:30 PM o Break 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
  
-## Day 5 — Likelihood Free Inference or Other Topic 
+## Day 5 — Likelihood Free Inference 
 
 "Polynomials are notoriously untrustworthy when extrapolated."
 
@@ -97,9 +97,9 @@ Thursday, Sep 22, 2022
 
 Friday, Sep 23, 2022
 * 9:00 AM - 9:45 AM o Professional Development I: Elevator Pitches; A Miller/B Scott
-* 09:45 AM – 10:45 AM o Overflow from Experimental Design/Comparison Metrics or Simulation/Emulation Topic/LFI, A Malz 
+* 09:45 AM – 10:45 AM o Simulation, Emulation, and Likelihood Free Inference, A Malz 
 * 10:45 AM – 11:00 AM o BREAK 
-* 11:00 AM – 12:00 PM o  PROBLEM: Overflow from Experimental Design/Comparison Metrics or Simulation/Emulation Topic/LFI, A Malz  
+* 11:00 AM – 12:00 PM o  PROBLEM: Simulation, Emulation, and Likelihood Free Inference, A Malz  
 * 12:00 PM – 01:00 PM o LUNCH 
 * 01:00 PM – 04:30 PM o Hack Session;  
 * 04:30 PM – 05:00 PM o Hack tag–up & Meeting wrap up 
