@@ -38,8 +38,8 @@ Monday Sep 19, 2022
 * 01:30 PM – 02:30 PM o  Understanding Data, Optimization, and Classical Inference A. Miller   
 * 02:30 PM – 03:30 PM o  Problem: Optimization; A. Miller 
 * 03:30 PM – 04:00 PM o Break 
-* 03:30 PM – 04:30 PM o Introduction to Bayesian Statistics; DJ 
-* 04:30 PM – 06:00 PM o  Problem: Introduction to Bayesian Statistics; DJ 
+* 03:30 PM – 04:30 PM o Introduction to Bayesian Statistics; Jiayin Dong 
+* 04:30 PM – 06:00 PM o  Problem: Introduction to Bayesian Statistics; Jiayin Dong
  
 ## Day 2 – Sampling and Model building  
 
@@ -48,9 +48,9 @@ Monday Sep 19, 2022
 -- John Von Neumann
 
 Tuesday, Sep 20, 2022
-* 09:00 AM - 10:00 AM o An Introduction to Sampling, PyMC – DJ  
+* 09:00 AM - 10:00 AM o An Introduction to Sampling, PyMC – Jiayin Dong  
 * 10:00 AM - 10:30 AM o Break 
-* 10:30 AM - 12:00 PM o Problem –– PyMC applied to real data?; DJ  
+* 10:30 AM - 12:00 PM o Problem –– PyMC applied to real data?; Jiayin Dong  
 * 12:00 PM - 01:30 PM o LUNCH 
 * 01:30 PM - 02:30 PM o An introduction to comparison metrics; A Malz  
 * 02:30 PM - 04:00 PM o Problem –– Problem: An introduction to comparison metrics; A Malz  
