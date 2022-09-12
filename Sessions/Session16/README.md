@@ -38,8 +38,8 @@ Monday Sep 19, 2022
 * 01:30 PM – 02:30 PM o  Understanding Data, Optimization, and Classical Inference A. Miller   
 * 02:30 PM – 03:30 PM o  Problem: Optimization; A. Miller 
 * 03:30 PM – 04:00 PM o Break 
-* 03:30 PM – 04:30 PM o Introduction to Bayesian Statistics; Jiayin Dong 
-* 04:30 PM – 06:00 PM o  Problem: Introduction to Bayesian Statistics; Jiayin Dong
+* 04:00 PM – 05:00 PM o Introduction to Bayesian Statistics; Jiayin Dong 
+* 05:00 PM – 06:00 PM o  Problem: Introduction to Bayesian Statistics; Jiayin Dong
  
 ## Day 2 – Sampling and Model building  
 
