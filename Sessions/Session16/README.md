@@ -29,9 +29,8 @@ Sunday, Sep 18, 2022
 -- Pierre-Simon Laplace
 
 Monday Sep 19, 2022
-* 08:00 AM – 09:00 AM o Registration 
-* 08:30 AM – 09:30 AM o Meet the new cohort
-* 09:30 AM – 09:45 AM o Introduction to hack sessions 
+* 08:30 AM – 09:00 AM o Registration 
+* 09:00 AM – 09:45 AM o Meet the new cohort
 * 09:45 AM – 10:30 AM o  Introduction to Probability and its Applications, B. Scott 
 * 10:30 AM – 11:00 AM o Break 
 * 11:00 AM – 12:00 PM o  Problem: Introduction to Probability and its Applications, B. Scott 
@@ -40,7 +39,7 @@ Monday Sep 19, 2022
 * 02:30 PM – 03:30 PM o  Problem: Optimization; A. Miller 
 * 03:30 PM – 04:00 PM o Break 
 * 03:30 PM – 04:30 PM o Introduction to Bayesian Statistics; DJ 
-* 04:30 PM – 06:00 PM o  Problem: Introduction to Bayesian Statistics/Sampling/Metropolis Hastings; DJ 
+* 04:30 PM – 06:00 PM o  Problem: Introduction to Bayesian Statistics; DJ 
  
 ## Day 2 –– Sampling and Model building  
 
