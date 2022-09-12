@@ -66,9 +66,9 @@ Tuesday, Sep 20, 2022
 -- John Tukey 
 
 Wednesday, Sep 21, 2022
-* 09:00 AM – 09:45 AM o  Probabilistic Graphical Models, Adrian Price-Whelan  
+* 09:00 AM – 09:45 AM o  Probabilistic Graphical Models, A Price-Whelan  
 * 09:45 AM – 10:15 AM o Break 
-* 10:15 AM – 12:00 PM o  Problem: Probabilistic Graphical Models, Adrian Price-Whelan  
+* 10:15 AM – 12:00 PM o  Problem: Probabilistic Graphical Models, A Price-Whelan  
 * 12:00 PM – ??:?? PM o BREAK 
 
 ## Day 4 — Hierarchical Models and Model Comparison  
@@ -78,9 +78,9 @@ Wednesday, Sep 21, 2022
 -- R.A. Fisher
 
 Thursday, Sep 22, 2022 
-* 09:00 AM – 10:00 AM o Hierarchical Models; Adrian Price-Whelan  
+* 09:00 AM – 10:00 AM o Hierarchical Models; A Price-Whelan  
 * 10:00 AM – 10:30 AM o Break 
-* 10:30 AM – 12:00 PM o  Problem: Hierarchical Models; Adrian Price-Whelan  
+* 10:30 AM – 12:00 PM o  Problem: Hierarchical Models; A Price-Whelan  
 * 12:00 PM – 01:30 PM o LUNCH 
 * 01:30 PM – 02:30 PM o Experimental design for decision-making; A Malz 
 * 02:30 PM – 04:00 PM o Problem –– Experimental design for decision-making; A Malz 
