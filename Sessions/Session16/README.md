@@ -4,7 +4,7 @@ The sixteenth session of the LSSTC DSFP focuses on Statistics and Bayesian Infer
 
 # Schedule
 
-## Day 0 -- The Beginning | Introduction for the New Cohort
+## Day 0 – The Beginning | Introduction for the New Cohort
 
 "The story so far: In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move."
 
@@ -20,7 +20,7 @@ Sunday, Sep 18, 2022
 * 02:00 PM - 03:30 PM Building Visualizations Via Principles of Design; A. Miller
 * 03:30 PM - 04:30 PM Introduction to Machine Learning; A. Miller 
  
-## Day 1 -- Bayes or Bust? | (Probability and Introduction to Bayes)
+## Day 1 – Bayes or Bust? | (Probability and Introduction to Bayes)
 
 "On voit, par cet Essai, que la théorie des probabilités n'est, au fond, que le bon sens réduit au calcul."
 
@@ -41,7 +41,7 @@ Monday Sep 19, 2022
 * 03:30 PM – 04:30 PM o Introduction to Bayesian Statistics; DJ 
 * 04:30 PM – 06:00 PM o  Problem: Introduction to Bayesian Statistics; DJ 
  
-## Day 2 –– Sampling and Model building  
+## Day 2 – Sampling and Model building  
 
 "Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin."
 
