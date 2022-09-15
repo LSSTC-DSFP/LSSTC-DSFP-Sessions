@@ -87,7 +87,7 @@ Thursday, Sep 22, 2022
 * 04:00 PM – 04:30 PM o Break 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
  
-## Day 5 — Likelihood Free Inference 
+## Day 5 — Experimental Design and Model Comparison
 
 "Polynomials are notoriously untrustworthy when extrapolated."
 
