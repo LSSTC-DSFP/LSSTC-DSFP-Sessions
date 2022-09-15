@@ -73,9 +73,9 @@ Wednesday, Sep 21, 2022
 
 ## Day 4 — Hierarchical Models and Simulation/Emulation 
 
-"The best time to plan an experiment is after you've done it."
+"Polynomials are notoriously untrustworthy when extrapolated."
 
--- R.A. Fisher
+-- Gertrude Cox 
 
 Thursday, Sep 22, 2022 
 * 09:00 AM – 10:00 AM o Hierarchical Models; A Price-Whelan  
@@ -89,9 +89,9 @@ Thursday, Sep 22, 2022
  
 ## Day 5 — Experimental Design and Model Comparison
 
-"Polynomials are notoriously untrustworthy when extrapolated."
+"The best time to plan an experiment is after you've done it."
 
--- Gertrude Cox 
+-- R.A. Fisher
 
 Friday, Sep 23, 2022
 * 9:00 AM - 9:45 AM o Professional Development I: Elevator Pitches; A Miller/B Scott
