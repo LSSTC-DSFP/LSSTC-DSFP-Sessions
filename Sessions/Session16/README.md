@@ -89,7 +89,7 @@ Thursday, Sep 22, 2022
 * 04:00 PM – 04:30 PM o Break 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
  
-## Day 5 — Inference beyond the Likelihood 
+## Day 5 — Inference Beyond the Likelihood 
 
 "Polynomials are notoriously untrustworthy when extrapolated."
 
