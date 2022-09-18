@@ -18,7 +18,7 @@ Sunday, Sep 18, 2022
 * 12:00 PM - 12:15 PM Goals of the DSFP; A Miller
 * 12:15 PM - 01:30 PM LUNCH 
 * 01:30 PM - 02:00 PM  A Brief Introduction to git/GitHub; B Scott 
-* 02:00 PM - 03:00 PM Building Visualizations Via Principles of Design; A Miller
+* 02:00 PM - 03:00 PM Building Visualizations Via Principles of Design [Scikit-learn](Day0/IntroToScikitLearn.ipynb) [Visualization](Day0/TooBriefVisualization.ipynb); A Miller
 * 03:00 PM - 04:00 PM Introduction to Machine Learning; A Miller 
 * 04:00 PM - ??? Break
  
