@@ -5,3 +5,4 @@ git+https://github.com/pymc-devs/pymc
 arviz
 daft
 graphviz
+pyia
