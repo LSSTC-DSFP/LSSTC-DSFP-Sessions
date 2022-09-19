@@ -37,8 +37,8 @@ Monday Sep 19, 2022
 * 10:30 AM – 11:00 AM o Break 
 * 11:00 AM – 12:00 PM o  Problem: Introduction to Probability and its Applications, B Scott 
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o  Understanding Data, Optimization, and Classical Inference A Miller   
-* 02:30 PM – 03:30 PM o  Problem: Optimization; A. Miller 
+* 01:30 PM – 02:30 PM o  [Connecting Models and Data](Day1/ConnectingModelsAndData.ipynb); A Miller   
+* 02:30 PM – 03:30 PM o  [Problem: Maximum Likelihood Estimation](Day1/MaximumLikelihoodEstimation.ipynb); A. Miller 
 * 03:30 PM – 04:00 PM o Break 
 * 04:00 PM – 05:00 PM o Introduction to Bayesian Statistics; J Dong 
 * 05:00 PM – 06:00 PM o  Problem: Introduction to Bayesian Statistics; J Dong
