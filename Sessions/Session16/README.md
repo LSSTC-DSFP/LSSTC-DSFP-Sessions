@@ -33,15 +33,15 @@ Sunday, Sep 18, 2022
 Monday Sep 19, 2022
 * 08:30 AM – 09:00 AM o Registration 
 * 09:00 AM – 09:45 AM o Meet the new cohort
-* 09:45 AM – 10:30 AM o  Introduction to Probability and its Applications, B Scott 
+* 09:45 AM – 10:30 AM o  [Introduction to Probability and its Applications](Day1/Probability_and_applications_DSFP_Session_16.ipynb), B Scott 
 * 10:30 AM – 11:00 AM o Break 
-* 11:00 AM – 12:00 PM o  Problem: Introduction to Probability and its Applications, B Scott 
+* 11:00 AM – 12:00 PM o  [Problem](Day1/Introduction%20to%20Probability%20Problems%20no%20solutions.ipynb) [Solution](): Introduction to Probability and its Applications, B Scott 
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o  Understanding Data, Optimization, and Classical Inference A Miller   
-* 02:30 PM – 03:30 PM o  Problem: Optimization; A. Miller 
+* 01:30 PM – 02:30 PM o  [Understanding Data, Optimization, and Classical Inference](Day1/ConnectingModelsAndData.ipynb) A Miller   
+* 02:30 PM – 03:30 PM o  [Problem](Day1/MaximumLikelihoodEstimation.ipynb): Optimization; A. Miller 
 * 03:30 PM – 04:00 PM o Break 
-* 04:00 PM – 05:00 PM o Introduction to Bayesian Statistics; J Dong 
-* 05:00 PM – 06:00 PM o  Problem: Introduction to Bayesian Statistics; J Dong
+* 04:00 PM – 05:00 PM o [Introduction to Bayesian Statistics](Day1/Bayes.pdf); J Dong 
+* 05:00 PM – 06:00 PM o  [Problem](Day1/Bayes.ipynb) [Solution](Day1/Bayes_solution.ipynb): Introduction to Bayesian Statistics; J Dong
  
 ## Day 2 – Sampling and Model building  
 
