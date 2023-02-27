@@ -13,6 +13,7 @@ The seventeenth session of the LSSTC DSFP focuses on Data Ethics and Visualizati
 --
 
 Monday Feb 27, 2023
+
 * 09:00 AM – 9:30 AM o  Welcome!: Session 17 Orientation and Reminders; B Scott 
 * 09:30 AM – 10:30 AM o  Introduction to Visualization in a Scientific Workflow; B Scott
 * 10:30 AM – 11:00 AM o Break 
@@ -32,6 +33,7 @@ Monday Feb 27, 2023
 -- 
 
 Tuesday, Feb 28, 2023
+
 * 09:00 AM - 10:00 AM o Lecture: physically based volume rendering; O Elek 
 * 10:00 AM - 10:30 AM o Break 
 * 10:30 AM - 12:00 PM o Problem: Physically Based Volume Rendering; O Elek 
@@ -39,9 +41,7 @@ Tuesday, Feb 28, 2023
 * 01:30 PM - 02:30 PM o Data Exploration and Communication; P Rosen
 * 02:30 PM - 04:00 PM o Problem: Data Exploration and Communication; P Rosen
 * 04:00 PM - 04:30 PM o BREAK 
-
-*** *** 
-
+* 04:30 PM - 05:45 PM o Principles of Design for Building Better Slides; A Miller
 * 06:00 PM - ??:?? PM o Group dinner 
  
 ## Day 3 — Scientific Discovery - Astronomical Visualization  
@@ -53,6 +53,7 @@ Tuesday, Feb 28, 2023
 -- 
 
 Wednesday, Mar 1, 2023
+
 * 09:00 AM – 10:00 AM o  Introduction to Polyphorm and PolyPh; O Elek, 
 * 10:00 AM – 10:30 AM o Break 
 * 10:30 AM – 12:00 PM o  Problem: Polyphorm; O Elek 
@@ -78,7 +79,7 @@ Thursday, Mar 2, 2023
 * 04:30 PM – 05:00 PM o Hack tag–up  
 
  
-## Day 5 — Data Ethics: 
+## Day 5 — Data Ethics
 
 "I try to do my science in a moral way, and, I believe that, ideally, science should be looked upon as something that helps us understand our role in the universe."
 
@@ -87,6 +88,7 @@ Thursday, Mar 2, 2023
 --  
 
 Friday, Mar 3, 2023
+
 * 09:00 AM – 10:15 AM o Intro to AI Ethics and Responsible Data Science for Physicists; S Thais   
 * 10:15 AM – 10:30 AM o Break 
 * 10:30 AM – 12:00 PM o Problem: Exploring Sources of Unfairness and Mistakes in ML Models; S Thais   
