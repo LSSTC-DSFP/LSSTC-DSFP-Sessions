@@ -1,0 +1,7 @@
+matplotlib
+numpy
+astropy
+git+https://github.com/pymc-devs/pymc
+arviz
+daft
+graphviz
