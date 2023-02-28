@@ -37,7 +37,7 @@ Tuesday, Feb 28, 2023
 * 10:30 AM - 12:00 PM o Problem: Physically Based Volume Rendering; O Elek 
 * 12:00 PM - 01:30 PM o LUNCH 
 * 01:30 PM - 02:30 PM o Data Exploration and Communication; P Rosen
-* 02:30 PM - 04:00 PM o Problem: Data Exploration and Communication; P Rosen
+* 02:30 PM - 04:00 PM o [Problem: Data Exploration and Communication](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session17/DesignActivity.pdf); P Rosen
 * 04:00 PM - 04:30 PM o BREAK 
 
 *** *** 
