@@ -15,5 +15,6 @@ Tuesday, Feb 28, 2023
 * 01:30 PM - 02:30 PM o Data Exploration and Communication; P Rosen
 * 02:30 PM - 04:00 PM o [Problem: Data Exploration and Communication](DesignActivity.pdf); P Rosen
 * 04:00 PM - 04:30 PM o BREAK 
-* 04:30 PM - 05:45 PM o Building Better Slides via Principles of Design; A Miller
+* 04:30 PM - 05:45 PM o [Lecture: Building Better Slides via Principles of Design Lecture](BuildingBetterSlidesViaPrinciplesOfDesign.pdf) [Problem](BuildingBetterSlidesProblem.md); A Miller
 * 06:00 PM - ??:?? PM o Group dinner 
+ 
