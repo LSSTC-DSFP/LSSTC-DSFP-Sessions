@@ -71,12 +71,12 @@ Wednesday, Mar 1, 2023
 
 Thursday, Mar 2, 2023 
 
-* 9:00 AM - 9:45 AM o Lecture VIII: Introduction to Visualization Tools; B Scott
-* 09:45 AM – 10:45 AM o Problem VII: Applied Visualization Tools; B Scott 
-* 10:45 AM – 11:15 AM o BREAK 
-* 11:15 AM – 12:00 PM o  Problem: More Applied Visualization Tools; B Scott
-* 12:00 PM – 01:00 PM o LUNCH 
-* 01:00 PM – 04:30 PM o Hack Session;  
+* 9:00 AM - 9:30 AM o Lecture VIII: Introduction to Visualization Tools; B Scott
+* 09:30 AM – 10:30 AM o Problem VII: Applied Visualization Tools; B Scott 
+* 10:30 AM – 11:00 AM o BREAK 
+* 11:00 AM – 12:00 PM o  Hack Session; 
+* 12:00 PM – 01:30 PM o LUNCH 
+* 01:30 PM – 04:30 PM o Hack Session;  
 * 04:30 PM – 05:00 PM o Hack tag–up  
 
  
