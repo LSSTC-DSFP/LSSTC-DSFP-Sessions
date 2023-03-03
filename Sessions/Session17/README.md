@@ -91,13 +91,14 @@ Thursday, Mar 2, 2023
 Friday, Mar 3, 2023
 
 * 09:00 AM – 10:15 AM o Lecture IX: Intro to AI Ethics and Responsible Data Science for Physicists; S Thais   
-* 10:15 AM – 10:30 AM o Break 
-* 10:30 AM – 12:00 PM o Problem VIII: Exploring Sources of Unfairness and Mistakes in ML Models; S Thais   
-* 12:00 PM – 01:00 PM o LUNCH 
-* 01:00 PM – 02:15 PM o Lecture X: Interpretability, Explainability, and Transparency; S Thais   
-* 02:15 PM – 03:00 PM o Break 
-* 03:00 PM - 04:15 PM o  Problem IX: Implementing and Interpreting Explainability Methods; S Thais   
-* 04:15 PM - 05:15 PM o Lecture XI: Quantitative Fairness and Data Stewardship; S Thais
-* 05:15 PM – 05:30 PM o End of Session 17 Survey
+* 10:15 AM – 10:30 AM o Group Photo
+* 10:30 AM - 11:00 AM o BREAK
+* 11:00 AM – 12:00 PM o Problem VIII: Exploring Sources of Unfairness and Mistakes in ML Models; S Thais   
+* 12:00 PM – 01:30 PM o LUNCH 
+* 01:30 PM – 02:30 PM o Lecture X: Interpretability, Explainability, and Transparency; S Thais   
+* 02:30 PM – 03:00 PM o Break 
+* 03:00 PM - 04:00 PM o  Problem IX: Implementing and Interpreting Explainability Methods; S Thais   
+* 04:00 PM - 05:00 PM o Lecture XI: Quantitative Fairness and Data Stewardship; S Thais
+* 05:00 PM – 05:30 PM o End of Session 17 Survey
 * 05:30 PM – 05:45 PM o Session 17 Conclusion
 
