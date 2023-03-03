@@ -95,7 +95,7 @@ Friday, Mar 3, 2023
 * 10:30 AM - 11:00 AM o BREAK
 * 11:00 AM – 12:00 PM o Problem VIII: Exploring Sources of Unfairness and Mistakes in ML Models; S Thais   
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o [Lecture X](Day5/LSSTC_S_Thais_COMPAS.ipynb) [Colab](https://colab.research.google.com/drive/1QuPG3Rs760N1iGECOjq0FucHtO1UNItc?usp=sharing): Interpretability, Explainability, and Transparency; S Thais   
+* 01:30 PM – 02:30 PM o [Lecture X](Day5/LSSTC_S_Thais_COMPAS.ipynb)|[Colab](https://colab.research.google.com/drive/1QuPG3Rs760N1iGECOjq0FucHtO1UNItc?usp=sharing): Interpretability, Explainability, and Transparency; S Thais   
 * 02:30 PM – 03:00 PM o Break 
 * 03:00 PM - 04:00 PM o  Problem IX: Implementing and Interpreting Explainability Methods; S Thais   
 * 04:00 PM - 05:00 PM o Lecture XI: Quantitative Fairness and Data Stewardship; S Thais
