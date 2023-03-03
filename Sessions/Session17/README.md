@@ -99,6 +99,6 @@ Friday, Mar 3, 2023
 * 02:30 PM – 03:00 PM o Break 
 * 03:00 PM - 04:00 PM o  Problem IX: Implementing and Interpreting Explainability Methods; S Thais   
 * 04:00 PM - 05:00 PM o Lecture XI: Quantitative Fairness and Data Stewardship; S Thais
-* 05:00 PM – 05:30 PM o End of Session 17 Survey
-* 05:30 PM – 05:45 PM o Session 17 Conclusion
+* 05:00 PM – 05:15 PM o End of Session 17 Survey
+* 05:15 PM – 05:30 PM o Session 17 Conclusion
 
