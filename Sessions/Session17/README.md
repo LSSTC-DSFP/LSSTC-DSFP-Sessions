@@ -72,7 +72,7 @@ Wednesday, Mar 1, 2023
 Thursday, Mar 2, 2023 
 
 * 9:00 AM - 9:30 AM o Lecture VIII: Introduction to Visualization Tools; B Scott
-* 09:30 AM – 10:30 AM o Problem VII: Applied Visualization Tools; B Scott 
+* 09:30 AM – 10:30 AM o [Problem VII](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session17/Day5/DSFP_Session_17_Introduction_to_Plotly_no_solutions.ipynb): Applied Visualization Tools; B Scott 
 * 10:30 AM – 11:00 AM o BREAK 
 * 11:00 AM – 12:00 PM o  Hack Session; 
 * 12:00 PM – 01:30 PM o LUNCH 
