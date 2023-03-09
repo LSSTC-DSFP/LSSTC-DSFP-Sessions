@@ -15,7 +15,7 @@ The seventeenth session of the LSSTC DSFP focuses on Data Ethics and Visualizati
 Monday Feb 27, 2023
 
 * 09:00 AM – 9:30 AM o  Welcome!: Session 17 Orientation and Reminders; B Scott 
-* 09:30 AM – 10:30 AM o Lecture I: Introduction to Visualization in a Scientific Workflow; B Scott
+* 09:30 AM – 10:30 AM o [Lecture I](Day1/Introduction_to_visualization_small.pdf): Introduction to Visualization in a Scientific Workflow; B Scott
 * 10:30 AM – 11:00 AM o Break 
 * 11:00 AM - 12:00 PM o Problem I: [Data Sketches](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session17/dsfp_session17_data_sketches.ipynb); B Scott
 * 12:00 PM – 01:30 PM o LUNCH 
