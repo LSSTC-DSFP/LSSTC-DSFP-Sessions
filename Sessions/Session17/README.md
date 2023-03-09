@@ -90,15 +90,15 @@ Thursday, Mar 2, 2023
 
 Friday, Mar 3, 2023
 
-* 09:00 AM – 10:15 AM o Lecture IX: Intro to AI Ethics and Responsible Data Science for Physicists; S Thais   
+* 09:00 AM – 10:15 AM o [Lecture IX](Day5/lecture1.pdf): Intro to AI Ethics and Responsible Data Science for Physicists; S Thais   
 * 10:15 AM – 10:30 AM o Group Photo
 * 10:30 AM - 11:00 AM o BREAK
-* 11:00 AM – 12:00 PM o Problem VIII: Exploring Sources of Unfairness and Mistakes in ML Models; S Thais   
+* 11:00 AM – 12:00 PM o [Problem VIII](Day5/LSSTC_S_Thais_COMPAS.ipynb) | [Colab](https://colab.research.google.com/drive/1QuPG3Rs760N1iGECOjq0FucHtO1UNItc?usp=sharing): Exploring Sources of Unfairness and Mistakes in ML Models; S Thais   
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o [Lecture X](Day5/LSSTC_S_Thais_COMPAS.ipynb)|[Colab](https://colab.research.google.com/drive/1QuPG3Rs760N1iGECOjq0FucHtO1UNItc?usp=sharing): Interpretability, Explainability, and Transparency; S Thais   
+* 01:30 PM – 02:30 PM o [Lecture X](Day5/lecture2.pdf): Interpretability, Explainability, and Transparency; S Thais   
 * 02:30 PM – 03:00 PM o Break 
-* 03:00 PM - 04:00 PM o  Problem IX: Implementing and Interpreting Explainability Methods; S Thais   
-* 04:00 PM - 05:00 PM o Lecture XI: Quantitative Fairness and Data Stewardship; S Thais
+* 03:00 PM - 04:00 PM o  [Problem IX](Day5/LSSTC_Hands_on_2.ipynb) | [Colab](https://colab.research.google.com/drive/1rrRct7-EoTIFRv-Jpt_03b0bhpA7xMPU?usp=sharing): Implementing and Interpreting Explainability Methods; S Thais   
+* 04:00 PM - 05:00 PM o [Lecture XI](Day5/lecture3.pdf): Quantitative Fairness and Data Stewardship; S Thais
 * 05:00 PM – 05:15 PM o End of Session 17 Survey
 * 05:15 PM – 05:30 PM o Session 17 Conclusion
 
