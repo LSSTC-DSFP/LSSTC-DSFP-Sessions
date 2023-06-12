@@ -17,8 +17,8 @@ Monday June 12, 2023
 * 01:30 PM – 02:30 PM o Introduction to CCDs; C Saunders
 * 02:30 PM – 03:30 PM o Problem | Solution: Introduction to CCDs; C Saunders
 * 03:30 PM – 04:00 PM o Break
-* 04:00 PM – 05:00 PM o Point Spread Functions and Photometry of Starts; E Huff 
-* 05:00 PM – 06:00 PM o Problem | Solution: Point Spread Functions and Photometry of Starts; E Huff
+* 04:00 PM – 05:00 PM o Point Spread Functions and Photometry of Stars; E Huff 
+* 05:00 PM – 06:00 PM o Problem | Solution: Point Spread Functions and Photometry of Stars; E Huff
 
 ## Day 2 – Backgrounds, Astrometry, and Photometry
 
