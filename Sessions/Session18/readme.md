@@ -65,7 +65,7 @@ Thursday, June 15, 2023
 * 10:30 AM – 12:00 PM o Problem: False Color Images, B Scott
 * 12:00 PM – 01:30 PM o LUNCH
 * 01:30 PM – 02:00 PM o Hack Pitch Session
-* 02:00 PM – 04:00 PM o Introduction to the Rubin Science Platform [Slides](https://docs.google.com/presentation/d/1FLiIvVGsoWufiJHVWyyCVLZaoSXM_lGfdCoEs421Bcg/edit?usp=sharing__;!!Dq0X2DkFhyF93HkjWTBQKhk!VDN6cFhv8mKesiknkF2JpYOpwe0fude5k2CRZ9I0Ky_P8s6kU9JQeO0LXMBf1L3lzE5araUp2iUodt4ocAYtciQmfMBt5mbS$) | Exercise; Material Provided by M Graham 
+* 02:00 PM – 04:00 PM o Introduction to the Rubin Science Platform [Slides](https://docs.google.com/presentation/d/1FLiIvVGsoWufiJHVWyyCVLZaoSXM_lGfdCoEs421Bcg/edit?usp=sharing__;!!Dq0X2DkFhyF93HkjWTBQKhk!VDN6cFhv8mKesiknkF2JpYOpwe0fude5k2CRZ9I0Ky_P8s6kU9JQeO0LXMBf1L3lzE5araUp2iUodt4ocAYtciQmfMBt5mbS$) | [Exercise](https://github.com/MelissaGraham/dp0-challenges-2023/tree/main__;!!Dq0X2DkFhyF93HkjWTBQKhk!VDN6cFhv8mKesiknkF2JpYOpwe0fude5k2CRZ9I0Ky_P8s6kU9JQeO0LXMBf1L3lzE5araUp2iUodt4ocAYtciQmfGRyGSCI$); Material Provided by M Graham 
 * 04:00 PM – 04:30 PM o Break
 * 04:30 PM – 05:00 PM o Hack Pitch Session
 
