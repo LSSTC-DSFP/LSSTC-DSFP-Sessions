@@ -75,6 +75,11 @@ Thursday, June 15, 2023
 
 ~ Annie Dillard 
 
+"The best-laid schemes of mice and men
+Go oft awry"
+
+~ Robert Burns
+
 -- 
 Friday, June 16, 2023
 * 9:00 AM - 10:00 AM o Introduction to the Organizing Universe, L Walkowicz
