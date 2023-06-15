@@ -64,8 +64,8 @@ Thursday, June 15, 2023
 * 10:00 AM – 10:30 AM o Break
 * 10:30 AM – 12:00 PM o Problem: False Color Images, B Scott
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 02:30 PM o Introduction to the Rubin Science Platform; M Graham
-* 02:30 PM – 04:00 PM o Problem Photo-z Option | Introduction to the Rubin Science Platform; M Graham
+* 01:30 PM – 02:00 PM o Hack Pitch Session
+* 02:00 PM – 04:00 PM o Introduction to the Rubin Science Platform; Material Provided by M Graham
 * 04:00 PM – 04:30 PM o Break
 * 04:30 PM – 05:00 PM o Hack Pitch Session
 
@@ -77,11 +77,12 @@ Thursday, June 15, 2023
 
 -- 
 Friday, June 16, 2023
-* 9:00 AM - 9:45 AM o Rubin Scheduling: E Bellm 
-* 09:45 AM – 10:45 AM Rubin Scheduling: E Bellm
+* 9:00 AM - 10:00 AM o Introduction to the Organizing Universe, L Walkowicz
+* 09:45 AM – 10:45 AM o Hack Session I 
 * 10:45 AM – 11:00 AM o BREAK
-* 11:00 AM – 12:00 PM o 
-* 12:00 PM – 01:00 PM o LUNCH
-* 01:00 PM – 04:30 PM o Hack Session;
-* 04:30 PM – 05:00 PM o Hack tag–up & Meeting wrap up
-* 05:00 PM – 6:00 PM o Professional Development; L Walkowicz 
+* 11:00 AM – 12:00 PM o Hack Session II
+* 12:00 PM – 01:30 PM o LUNCH
+* 01:30 PM – 03:30 PM o Hack Session III
+* 03:30 PM - 04:00 PM o Hack Presentations
+* 04:00 PM – 04:30 PM o End of Session Survey 
+* 04:30 PM – 05:00 PM o Closing Remarks
