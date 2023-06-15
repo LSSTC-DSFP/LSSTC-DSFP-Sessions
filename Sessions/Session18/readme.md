@@ -67,7 +67,7 @@ Thursday, June 15, 2023
 * 01:30 PM – 02:00 PM o Hack Pitch Session
 * 02:00 PM – 03:00 PM o Introduction to the Rubin Science Platform [Slides](https://docs.google.com/presentation/d/1FLiIvVGsoWufiJHVWyyCVLZaoSXM_lGfdCoEs421Bcg/edit?usp=sharing__;!!Dq0X2DkFhyF93HkjWTBQKhk!VDN6cFhv8mKesiknkF2JpYOpwe0fude5k2CRZ9I0Ky_P8s6kU9JQeO0LXMBf1L3lzE5araUp2iUodt4ocAYtciQmfMBt5mbS$) M Graham 
 * 03:00 PM – 03:30 PM o Break
-* 04:30 PM – 05:00 PM o Introduction to the Rubin Science Platform [Exercise](https://github.com/MelissaGraham/dp0-challenges-2023/tree/main__;!!Dq0X2DkFhyF93HkjWTBQKhk!VDN6cFhv8mKesiknkF2JpYOpwe0fude5k2CRZ9I0Ky_P8s6kU9JQeO0LXMBf1L3lzE5araUp2iUodt4ocAYtciQmfGRyGSCI$)  M Graham 
+* 03:30 PM – 05:00 PM o Introduction to the Rubin Science Platform [Exercise](https://github.com/MelissaGraham/dp0-challenges-2023/tree/main__;!!Dq0X2DkFhyF93HkjWTBQKhk!VDN6cFhv8mKesiknkF2JpYOpwe0fude5k2CRZ9I0Ky_P8s6kU9JQeO0LXMBf1L3lzE5araUp2iUodt4ocAYtciQmfGRyGSCI$)  M Graham 
 
 ## Day 5 — Observation Planning and Hack Session
 
@@ -83,11 +83,11 @@ Go oft awry"
 -- 
 Friday, June 16, 2023
 * 9:00 AM - 10:00 AM o Introduction to the Organizing Universe, L Walkowicz
-* 09:45 AM – 10:45 AM o Hack Session I 
-* 10:45 AM – 11:00 AM o BREAK
-* 11:00 AM – 12:00 PM o Hack Session II
-* 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 03:30 PM o Hack Session III
+* 10:00 AM – 10:30 AM o BREAK
+* 10:30 AM – 11:30 AM o Hack Session I
+* 11:30 AM – 01:00 PM o LUNCH
+* 1:00 PM – 01:15 PM o Group Photo
+* 01:15 PM – 03:30 PM o Hack Session II
 * 03:30 PM - 04:00 PM o Hack Presentations
 * 04:00 PM – 04:30 PM o End of Session Survey 
 * 04:30 PM – 05:00 PM o Closing Remarks
