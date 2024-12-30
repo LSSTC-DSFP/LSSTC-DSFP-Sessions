@@ -14,8 +14,8 @@ Monday June 12, 2023
 * 10:30 AM – 11:00 AM o Break
 * 11:00 AM – 12:00 PM o Problem| Solution; Statistics of Imaging: B Scott
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 02:30 PM o [Introduction to CCDs](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day1/IntroToDetectorsSolutions.ipynb); C Saunders
-* 02:30 PM – 03:30 PM o Problem | Solution: Introduction to CCDs; C Saunders
+* 01:30 PM – 02:30 PM o [Introduction to CCDs](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day1/IntroToDetectors.ipynb); C Saunders
+* 02:30 PM – 03:30 PM o Problem | [Solution](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day1/IntroToDetectorsSolutions.ipynb): Introduction to CCDs; C Saunders
 * 03:30 PM – 04:00 PM o Break
 * 04:00 PM – 05:00 PM o Point Spread Functions and Photometry of Stars; E Huff 
 * 05:00 PM – 06:00 PM o Problem | Solution: Point Spread Functions and Photometry of Stars; E Huff
