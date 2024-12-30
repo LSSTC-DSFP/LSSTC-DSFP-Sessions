@@ -10,15 +10,15 @@
 -- 
 Monday June 12, 2023
 * 09:00 AM – 09:30 AM o Welcome to Session 18, Logistics, Icebreakers
-* 09:30 AM – 10:30 AM o Introduction to Wide Field Imaging; B Scott
+* 09:30 AM – 10:30 AM o [Introduction to Wide Field Imaging](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day1/Session18_introduction_to_wide_field_surveys.pdf); B Scott
 * 10:30 AM – 11:00 AM o Break
 * 11:00 AM – 12:00 PM o Problem| Solution; Statistics of Imaging: B Scott
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 02:30 PM o [Introduction to CCDs](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day1/IntroToDetectors.ipynb); C Saunders
-* 02:30 PM – 03:30 PM o Problem | [Solution](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day1/IntroToDetectorsSolutions.ipynb): Introduction to CCDs; C Saunders
+* 01:30 PM – 02:30 PM o [Introduction to CCDs](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day1/DSFP_Session18_IntroToDetectors.pdf); C Saunders
+* 02:30 PM – 03:30 PM o [Problem](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day1/IntroToDetectors.ipynb) | [Solution](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day1/IntroToDetectorsSolutions.ipynb): Introduction to CCDs; C Saunders
 * 03:30 PM – 04:00 PM o Break
-* 04:00 PM – 05:00 PM o Point Spread Functions and Photometry of Stars; E Huff 
-* 05:00 PM – 06:00 PM o Problem | Solution: Point Spread Functions and Photometry of Stars; E Huff
+* 04:00 PM – 05:00 PM o [Point Spread Functions and Photometry of Stars](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day1/PSFs%20and%20stellar%20photometry.pdf); E Huff 
+* 05:00 PM – 06:00 PM o [Problem](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day1/What's%20in%20a%20PSF%3F.ipynb) | Solution: Point Spread Functions and Photometry of Stars; E Huff
 
 ## Day 2 – Backgrounds, Astrometry, and Photometry
 
@@ -28,15 +28,15 @@ Monday June 12, 2023
 
 -- 
 Tuesday, June 13, 2023
-* 09:00 AM - 10:00 AM o Introduction to Astrometry; C Saunders
+* 09:00 AM - 10:00 AM o [Introduction to Astrometry](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day2/IntroToAstrometry.pdf); C Saunders
 * 10:00 AM - 10:30 AM o Break
-* 10:30 AM - 11:45 AM o Problem | Solution: Introduction to Astrometry; C Saunders
+* 10:30 AM - 11:45 AM o [Problem](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day2/IntroToAstrometry.ipynb) | [Solution](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day2/IntroToAstrometrySolutions.ipynb): Introduction to Astrometry; C Saunders
 * 11:45 AM - 01:15 PM o LUNCH
-* 01:15 PM - 02:15 PM o Sky Background Estimation and Source Detection; Y. AlSayyad
+* 01:15 PM - 02:15 PM o [Sky Background Estimation and Source Detection](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day2/FindingSources.ipynb); Y. AlSayyad
 * 02:15 PM - 03:15 PM o Problem: Problem | Solution: Sky Background Estimation and Source Detection; Y. AlSayyad
 * 03:15 PM - 03:45 PM o BREAK
-* 03:45 PM - 04:45 PM o Photometry of Galaxies: E Huff
-* 04:45 PM - 05:30 PM o Problem | Solution: Photometry of Galaxies; E Huff
+* 03:45 PM - 04:45 PM o [Photometry of Galaxies](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day2/Principled%20Inference%20II.pdf): E Huff
+* 04:45 PM - 05:30 PM o [Problem](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day2/Simulated%20galaxy%20photometry.ipynb) | [Solution](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day2/Simulated%20galaxy%20photometry%20(solutions).ipynb): Photometry of Galaxies; E Huff
 * 06:00 PM - ??:?? PM o Group dinner
 
 ## Day 3 — Image Coaddition
@@ -47,7 +47,7 @@ Tuesday, June 13, 2023
 
 --
 Wednesday, June 14, 2023
-* 09:00 AM – 09:45 AM o Image Coaddition and Subtraction; Y. AlSayyad
+* 09:00 AM – 09:45 AM o [Image Coaddition and Subtraction](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day3/CoadditionAndSubtraction.ipynb); Y. AlSayyad
 * 09:45 AM – 10:15 AM o Break
 * 10:15 AM – 12:00 PM o Problem| Solutions: Image Coaddition and Subtraction; Y. AlSayyad
 * 12:00 PM – ??:?? PM o BREAK
@@ -62,7 +62,7 @@ Wednesday, June 14, 2023
 Thursday, June 15, 2023
 * 09:00 AM – 10:00 AM o False Color Images, B Scott,
 * 10:00 AM – 10:30 AM o Break
-* 10:30 AM – 12:00 PM o Problem: False Color Images, B Scott
+* 10:30 AM – 12:00 PM o [Problem](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day4/VisualizingImages_Session18.ipynb)|[Solution](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session18/Day4/VisualizingImagesSolutions.ipynb): False Color Images, B Scott
 * 12:00 PM – 01:30 PM o LUNCH
 * 01:30 PM – 02:00 PM o Hack Pitch Session
 * 02:00 PM – 03:00 PM o Introduction to the Rubin Science Platform [Slides](https://docs.google.com/presentation/d/1FLiIvVGsoWufiJHVWyyCVLZaoSXM_lGfdCoEs421Bcg/edit?usp=sharing__;!!Dq0X2DkFhyF93HkjWTBQKhk!VDN6cFhv8mKesiknkF2JpYOpwe0fude5k2CRZ9I0Ky_P8s6kU9JQeO0LXMBf1L3lzE5araUp2iUodt4ocAYtciQmfMBt5mbS$) M Graham 
